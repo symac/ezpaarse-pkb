@@ -1,4 +1,4 @@
-titre;pid;url;issn;eissn
+title;pid;url;issn;eissn
 Actuel Marx;AMX;http://www.cairn.info/revue-actuel-marx.htm;0994-4524;1969-6728
 Adolescence;ADO;http://www.cairn.info/revue-adolescence.htm;0751-7696;1969-6736
 Actes de la recherche en sciences sociales;ARSS;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales.htm;0335-5322;1955-2564
@@ -6,7 +6,7 @@ Afrique & histoire;AFHI;http://www.cairn.info/revue-afrique-et-histoire.htm;1764
 A contrario;ACO;http://www.cairn.info/revue-a-contrario.htm;1660-7880;1662-8667
 Afrique contemporaine;AFCO;http://www.cairn.info/revue-afrique-contemporaine.htm;0002-0478;1782-138X
 Agora débats/jeunesses;AGORA;http://www.cairn.info/revue-agora-debats-jeunesses.htm;1268-5666;1968-3758
-@GRH;GRH;http://www.cairn.info/revue-@grh.htm;2034-9130;N/A
+@GRH;GRH;http://www.cairn.info/revue-@grh.htm;2034-9130;
 Annales de démographie historique;ADH;http://www.cairn.info/revue-annales-de-demographie-historique.htm;0066-2062;1776-2774
 Annales de Bretagne et des pays de l’Ouest;ABPO;http://www.cairn.info/revue-annales-de-bretagne-et-des-pays-de-l-ouest.htm;0399-0826;2108-6443
 Analyse Freudienne Presse;AFP;http://www.cairn.info/revue-analyse-freudienne-presse.htm;1253-1472;1969-6744
@@ -14,7 +14,7 @@ Annales de géographie;AG;http://www.cairn.info/revue-annales-de-geographie.htm;
 Annales. Histoire, Sciences Sociales;ANNA;http://www.cairn.info/revue-annales.htm;0395-2649;1953-8146
 Annales historiques de la Révolution française;AHRF;http://www.cairn.info/revue-annales-historiques-de-la-revolution-francaise.htm;0003-4436;1952-403X
 L'Année balzacienne ;BALZ;http://www.cairn.info/revue-l-annee-balzacienne.htm;0084-6473;1969-6752
-Annales. Histoire, Sciences Sociales (English);ANNAE;http://www.cairn.info/revue-annales-english.htm;N/A;N/A
+Annales. Histoire, Sciences Sociales (English);ANNAE;http://www.cairn.info/revue-annales-english.htm;;
 Approche Centrée sur la Personne. Pratique et recherche;ACP;http://www.cairn.info/revue-approche-centree-sur-la-personne.htm;1774-5314;1961-8670
 L'Année sociologique;ANSO;http://www.cairn.info/revue-l-annee-sociologique.htm;0066-2399;1969-6760
 Archives de Philosophie;APHI;http://www.cairn.info/revue-archives-de-philosophie.htm;0003-9632;1769-681X
@@ -41,7 +41,7 @@ Les Cahiers Dynamiques;LCD;http://www.cairn.info/revue-les-cahiers-dynamiques.ht
 Les Cahiers du numérique;LCN;http://www.cairn.info/revue-les-cahiers-du-numerique.htm;1622-1494;2111-434X
 Cahiers internationaux de sociologie;CIS;http://www.cairn.info/revue-cahiers-internationaux-de-sociologie.htm;0008-0276;1969-6787
 Les cahiers Irice;LCI;http://www.cairn.info/revue-les-cahiers-irice.htm;1967-2713;2118-0067
-Les cahiers internationaux de psychologie sociale;CIPS;http://www.cairn.info/revue-les-cahiers-internationaux-de-psychologie-sociale.htm;0777-0707;N/A
+Les cahiers internationaux de psychologie sociale;CIPS;http://www.cairn.info/revue-les-cahiers-internationaux-de-psychologie-sociale.htm;0777-0707;
 Cahiers Sens public;CSP;http://www.cairn.info/revue-cahiers-sens-public.htm;1767-9397;1775-4356
 Cahiers Jaurès;CJ;http://www.cairn.info/revue-cahiers-jaures.htm;1268-5399;1969-6809
 Champ psy;CPSY;http://www.cairn.info/revue-champ-psychosomatique.htm;1266-5371;1961-8638
@@ -69,9 +69,9 @@ Culture prospective;CULP;http://www.cairn.info/revue-culture-prospective.htm;195
 Le Débat;DEBA;http://www.cairn.info/revue-le-debat.htm;0246-2346;2111-4587
 Cultures & Conflits;CC;http://www.cairn.info/revue-cultures-et-conflits.htm;1157-996X;1777-5345
 Culture méthodes;CULM;http://www.cairn.info/revue-culture-methodes.htm;1959-6936;1968-3774
-Devenir;DEV;http://www.cairn.info/revue-devenir.htm;1015-8154;en cours
+Devenir;DEV;http://www.cairn.info/revue-devenir.htm;1015-8154;
 Dialogue;DIA;http://www.cairn.info/revue-dialogue.htm;0242-8962;1961-8662
-Déviance et Société;DS;http://www.cairn.info/revue-deviance-et-societe.htm;0378-7931;en cours
+Déviance et Société;DS;http://www.cairn.info/revue-deviance-et-societe.htm;0378-7931;
 Diogène;DIO;http://www.cairn.info/revue-diogene.htm;0419-1633;2077-5253
 Dialogues d'histoire ancienne;DHA;http://www.cairn.info/revue-dialogues-d-histoire-ancienne.htm;0755-7256;1955-270X
 Le Divan familial;DIFA;http://www.cairn.info/revue-le-divan-familial.htm;1292-668X;2118-1942
@@ -93,7 +93,7 @@ L'en-je lacanien;ENJE;http://www.cairn.info/revue-l-en-je-lacanien.htm;1761-2861
 Ela. Études de linguistique appliquée.;ELA;http://www.cairn.info/revue-ela.htm;0071-190X;1965-0477
 Enfance;ENF;http://www.cairn.info/revue-enfance.htm;0013-7545;1969-6981
 Empan;EMPA;http://www.cairn.info/revue-empan.htm;1152-3336;1776-2812
-Les Enjeux de l'information et de la communication;ENIC;http://www.cairn.info/revue-les-enjeux-de-l-information-et-de-la-communication.htm;1778-4239;N/A
+Les Enjeux de l'information et de la communication;ENIC;http://www.cairn.info/revue-les-enjeux-de-l-information-et-de-la-communication.htm;1778-4239;
 Enfances & Psy;EP;http://www.cairn.info/revue-enfances-et-psy.htm;1286-5559;1776-2820
 L'Espace géographique;EG;http://www.cairn.info/revue-espace-geographique.htm;0046-2497;1776-2936
 Entreprises et histoire;EH;http://www.cairn.info/revue-entreprises-et-histoire.htm;1161-2770;2100-9864
@@ -107,11 +107,11 @@ Les études philosophiques;LEPH;http://www.cairn.info/revue-les-etudes-philosoph
 Études de communication;EDC;http://www.cairn.info/revue-etudes-de-communication.htm;1270-6841;2101-0366
 Études sur la mort;ESLM;http://www.cairn.info/revue-etudes-sur-la-mort.htm;1286-5702;1961-8654
 Etudes rurales;ETRU;http://www.cairn.info/revue-etudes-rurales.htm;0014-2182;1777-537X
-L'Europe en Formation;EUFOR;http://www.cairn.info/revue-l-europe-en-formation.htm;0014-2808;N/A
+L'Europe en Formation;EUFOR;http://www.cairn.info/revue-l-europe-en-formation.htm;0014-2808;
 Figures de la psychanalyse;FP;http://www.cairn.info/revue-figures-de-la-psy.htm;1623-3883;1776-2847
 Extrême-Orient Extrême-Occident ;EXTRO;http://www.cairn.info/revue-extreme-orient-extreme-occident.htm;0754-5010;2108-7105
 Flux;FLUX;http://www.cairn.info/revue-flux.htm;1154-2721;1958-9557
-Finance & Bien Commun;FBC;http://www.cairn.info/revue-finance-et-bien-commun.htm;1422-4658;N/A
+Finance & Bien Commun;FBC;http://www.cairn.info/revue-finance-et-bien-commun.htm;1422-4658;
 Finance;FINA;http://www.cairn.info/revue-finance.htm;0752-6180;2101-0145
 Formation emploi;FORM;http://www.cairn.info/revue-formation-emploi.htm;0759-6340;2107-0946
 Le français aujourd'hui;LFA;http://www.cairn.info/revue-le-francais-aujourd-hui.htm;0184-7732;2107-0857
@@ -121,7 +121,7 @@ Géoéconomie;GEOEC;http://www.cairn.info/revue-geoeconomie.htm;1284-9340;2258-7
 Géographie, économie, société;GES;http://www.cairn.info/revue-geographie-economie-societe.htm;1295-926x;1958-5802
 Germanica;GERMA;http://www.cairn.info/revue-germanica.htm;0984-2632;2107-0784
 Gérontologie et société;GS;http://www.cairn.info/revue-gerontologie-et-societe.htm;0151-0193;2101-0218
-Gestion;RIGES;http://www.cairn.info/revue-gestion.htm;0701-0028;N/A
+Gestion;RIGES;http://www.cairn.info/revue-gestion.htm;0701-0028;
 Gestalt;GEST;http://www.cairn.info/revue-gestalt.htm;1154-5232;1950-6716
 Gradhiva;GRADH;http://www.cairn.info/revue-gradhiva.htm;0764-8928;1760-849X
 Gouvernement et action publique;GAP;http://www.cairn.info/revue-gouvernement-et-action-publique.htm;2260-0965;2262-340X
@@ -133,9 +133,9 @@ Histoire & Sociétés Rurales;HSR;http://www.cairn.info/revue-histoire-et-societ
 Histoire urbaine;RHU;http://www.cairn.info/revue-histoire-urbaine.htm;1628-0482;2101-003X
 Histoire, économie & société;HES;http://www.cairn.info/revue-histoire-economie-et-societe.htm;0752-5702;1777-5906
 L'Homme;LHOM;http://www.cairn.info/revue-l-homme.htm;0439-4216;1953-8103
-Histoire@Politique;HP;http://www.cairn.info/revue-histoire-politique.htm;1954-3670;N/A
+Histoire@Politique;HP;http://www.cairn.info/revue-histoire-politique.htm;1954-3670;
 L'Homme et la société;LHS;http://www.cairn.info/revue-l-homme-et-la-societe.htm;0018-4306;2101-0226
-Humanisme et Entreprise;HUME;http://www.cairn.info/revue-humanisme-et-entreprise.htm;0018-7372;N/A
+Humanisme et Entreprise;HUME;http://www.cairn.info/revue-humanisme-et-entreprise.htm;0018-7372;
 Horizons stratégiques;HORI;http://www.cairn.info/revue-horizons-strategiques.htm;1958-3370;1760-8023
 Imaginaire & Inconscient;IMIN;http://www.cairn.info/revue-imaginaire-et-inconscient.htm;1628-9676;1965-0183
 L'Information géographique ;LIG;http://www.cairn.info/revue-l-information-geographique.htm;0020-0093;1777-5876
@@ -150,7 +150,7 @@ Journal de la Société des Océanistes;JSO;http://www.cairn.info/revue-journal-
 Le Journal des psychologues;JDP;http://www.cairn.info/revue-le-journal-des-psychologues.htm;0752-501X;2118-3015
 Journal International de Bioéthique;JIB;http://www.cairn.info/revue-journal-international-de-bioethique.htm;1287-7352;2102-5169
 Journal français de psychiatrie;JFP;http://www.cairn.info/revue-journal-francais-de-psychiatrie.htm;1260-5999;1776-2855
-Journal of Innovation Economics;JIE;http://www.cairn.info/revue-journal-of-innovation-economics.htm;2032-5355;N/A
+Journal of Innovation Economics;JIE;http://www.cairn.info/revue-journal-of-innovation-economics.htm;2032-5355;
 Labyrinthe;LABY;http://www.cairn.info/revue-labyrinthe.htm;1288-6289;1950-6031
 La lettre de l'enfance et de l'adolescence;LETT;http://www.cairn.info/revue-lettre-de-l-enfance-et-de-l-adolescence.htm;1146-061X;1951-6304
 Langages;LANG;http://www.cairn.info/revue-langages.htm;0458-726X;1958-9549
@@ -160,7 +160,7 @@ Libres cahiers pour la psychanalyse;LCPP;http://www.cairn.info/revue-libres-cahi
 La linguistique;LING;http://www.cairn.info/revue-la-linguistique.htm;0075-966X;2101-0234
 Littérature;LITT;http://www.cairn.info/revue-litterature.htm;0047-4800;1958-5926
 Market Management;MAMA;http://www.cairn.info/revue-market-management.htm;1779-3572;2111-4374
-M@n@gement;MANA;http://www.cairn.info/revue-management.htm;1286-4692;N/A
+M@n@gement;MANA;http://www.cairn.info/revue-management.htm;1286-4692;
 Management & Avenir;MAV;http://www.cairn.info/revue-management-et-avenir.htm;1768-5958;1969-6574
 Matériaux pour l’histoire de notre temps ;MATE;http://www.cairn.info/revue-materiaux-pour-l-histoire-de-notre-temps.htm;0769-3206;1952-4226
 Médiévales;MEDIE;http://www.cairn.info/revue-medievales.htm;0751-2708;1777-5892
@@ -174,7 +174,7 @@ Mouvements;MOUV;http://www.cairn.info/revue-mouvements.htm;1291-6412;1776-2995
 Movement & Sport Sciences;SM;http://www.cairn.info/revue-science-et-motricite.htm;1378-1863;1782-1541
 Le Moyen Age;RMA;http://www.cairn.info/revue-le-moyen-age.htm;0027-2841;1782-1436
 Multitudes;MULT;http://www.cairn.info/revue-multitudes.htm;0292-0107;1777-5841
-Napoleonica. La Revue;NAPO;http://www.cairn.info/revue-napoleonica-la-revue.htm;2100-0123;N/A
+Napoleonica. La Revue;NAPO;http://www.cairn.info/revue-napoleonica-la-revue.htm;2100-0123;
 Natures Sciences Sociétés;NSS;http://www.cairn.info/revue-natures-sciences-societes.htm;1240-1307;1765-2979
 Négociations;NEG;http://www.cairn.info/revue-negociations.htm;1780-9231;1782-1452
 Nouvelles FondationS;NF;http://www.cairn.info/revue-nouvelles-fondations.htm;1951-9745;2101-0242
@@ -205,7 +205,7 @@ Problèmes d'Amérique latine;PAL;http://www.cairn.info/revue-problemes-d-ameriq
 Projectics / Proyéctica / Projectique;PROJ;http://www.cairn.info/revue-projectique.htm;2031-9703;2032-0043
 Psychanalyse;PSY;http://www.cairn.info/revue-psychanalyse.htm;1770-0078;1951-6320
 La psychiatrie de l'enfant;PSYE;http://www.cairn.info/revue-la-psychiatrie-de-l-enfant.htm;0079-726X;2102-5320
-Psychothérapies;PSYS;http://www.cairn.info/revue-psychotherapies.htm;0251-737X;en cours
+Psychothérapies;PSYS;http://www.cairn.info/revue-psychotherapies.htm;0251-737X;
 Psychologie Clinique;PCLI;http://www.cairn.info/revue-psychologie-clinique.htm;1145-1882;2118-4224
 Psychologie clinique et projective;PCP;http://www.cairn.info/revue-psychologie-clinique-et-projective.htm;1265-5449;2118-4496
 Psychotropes;PSYT;http://www.cairn.info/revue-psychotropes.htm;1245-2092;1782-1487
@@ -226,7 +226,7 @@ Reliance;RELI;http://www.cairn.info/revue-reliance.htm;1774-9743;1951-6282
 Revue archéologique;ARCH;http://www.cairn.info/revue-archeologique.htm;0035-0737;2104-3868
 Retraite et société;RS;http://www.cairn.info/revue-retraite-et-societe.htm;1167-4687;1961-8719
 Revue d'économie du développement;EDD;http://www.cairn.info/revue-d-economie-du-developpement.htm;1245-4060;1782-1517
-Revue d'anthropologie des connaissances;RAC;http://www.cairn.info/revue-anthropologie-des-connaissances.htm;1760-5393;N/A
+Revue d'anthropologie des connaissances;RAC;http://www.cairn.info/revue-anthropologie-des-connaissances.htm;1760-5393;
 Revue d'assyriologie et d'archéologie orientale;ASSY;http://www.cairn.info/revue-d-assyriologie.htm;0373-6032;2104-3817
 Revue d'économie politique;REDP;http://www.cairn.info/revue-d-economie-politique.htm;0373-2630;2105-2883
 Revue d'économie industrielle;REI;http://www.cairn.info/revue-d-economie-industrielle.htm;0154-3229;1773-0198
@@ -265,9 +265,9 @@ Revue française de science politique;RFSP;http://www.cairn.info/revue-francaise
 Revue française de psychosomatique;RFPS;http://www.cairn.info/revue-francaise-de-psychosomatique.htm;1164-4796;2105-2603
 Revue française de sociologie;RFS;http://www.cairn.info/revue-francaise-de-sociologie.htm;0035-2969;1958-5691
 Revue Française de Socio-Économie;RFSE;http://www.cairn.info/revue-francaise-de-socio-economie.htm;1966-6608;2104-3833
-Revue française de science politique (English);RFSPE;http://www.cairn.info/revue-francaise-de-science-politique-english.htm;2263-7494;N/A
+Revue française de science politique (English);RFSPE;http://www.cairn.info/revue-francaise-de-science-politique-english.htm;2263-7494;
 Revue française des affaires sociales;RFAS;http://www.cairn.info/revue-francaise-des-affaires-sociales.htm;0035-2985;2111-4358
-Revue française de sociologie  (English);RFSEN;http://www.cairn.info/revue-revue-francaise-de-sociologie-english.htm;N/A;N/A
+Revue française de sociologie  (English);RFSEN;http://www.cairn.info/revue-revue-francaise-de-sociologie-english.htm;;
 Revue historique;RHIS;http://www.cairn.info/revue-historique.htm;0035-3264;2104-3825
 Revue internationale de droit économique;RIDE;http://www.cairn.info/revue-internationale-de-droit-economique.htm;1010-8831;1782-1525
 Revue internationale d'intelligence économique;RIIE;http://www.cairn.info/revue-internationale-d-intelligence-economique.htm;2101-647X;2102-6408
@@ -277,8 +277,8 @@ Revue internationale de politique comparée;RIPC;http://www.cairn.info/revue-int
 Revue internationale de philosophie;RIP;http://www.cairn.info/revue-internationale-de-philosophie.htm;0048-8143;2033-0138
 Revue internationale de psychologie sociale;RIPSO;http://www.cairn.info/revue-internationale-de-psychologie-sociale.htm;0992-986X;2119-4130
 Revue internationale de psychosociologie et de gestion des comportements organisationnels;RIPS;http://www.cairn.info/revue-internationale-de-psychosociologie.htm;1260-1705;2105-2662
-Revue internationale de soins palliatifs;INKA;http://www.cairn.info/revue-infokara.htm;1664-1531;N/A
-Revue Internationale des Sciences Administratives;RISA;http://www.cairn.info/revue-internationale-des-sciences-administratives.htm;0303-965X;N/A
+Revue internationale de soins palliatifs;INKA;http://www.cairn.info/revue-infokara.htm;1664-1531;
+Revue Internationale des Sciences Administratives;RISA;http://www.cairn.info/revue-internationale-des-sciences-administratives.htm;0303-965X;
 Revue internationale et stratégique;RIS;http://www.cairn.info/revue-internationale-et-strategique.htm;1287-1672;2104-3876
 Revue internationale des sciences sociales ;RISS;http://www.cairn.info/revue-internationale-des-sciences-sociales.htm;0304-3037;2222-4610
 Revue philosophique de la France et de l'étranger;RPHI;http://www.cairn.info/revue-philosophique.htm;0035-3833;2104-385X
@@ -307,7 +307,7 @@ Terrains & travaux;TT;http://www.cairn.info/revue-terrains-et-travaux.htm;1627-9
 Terrain;TERR;http://www.cairn.info/revue-terrain.htm;0760-5668;1777-5450
 Topique;TOP;http://www.cairn.info/revue-topique.htm;0040-9375;1965-0604
 Tracés;TRAC;http://www.cairn.info/revue-traces.htm;1763-0061;1963-1812
-Thérapie Familiale;TF;http://www.cairn.info/revue-therapie-familiale.htm;0250-4952;en cours
+Thérapie Familiale;TF;http://www.cairn.info/revue-therapie-familiale.htm;0250-4952;
 Le travail humain;TH;http://www.cairn.info/revue-le-travail-humain.htm;0041-1868;2104-3663
 Travail et emploi;TE;http://www.cairn.info/revue-travail-et-emploi.htm;0224-4365;1775-416X
 Travaux de linguistique;TL;http://www.cairn.info/revue-travaux-de-linguistique.htm;0082-6049;1782-1576
@@ -317,50 +317,50 @@ Tumultes;TUMU;http://www.cairn.info/revue-tumultes.htm;1243-549X;2118-2892
 Volume !;VOLU;http://www.cairn.info/revue-volume.htm;1634-5495;1950-568X
 Les Tribunes de la santé;SEVE;http://www.cairn.info/revue-les-tribunes-de-la-sante.htm;1765-8888;2105-2182
 Vie & sciences de l'entreprise;VSE;http://www.cairn.info/revue-vie-et-sciences-de-l-entreprise.htm;0336-142X;2118-3325
-Les Cahiers du Centre Georges Canguilhem;CCGC;http://www.cairn.info/revue-les-cahiers-du-centre-georges-canguilhem.htm;1962-1086;N/A
+Les Cahiers du Centre Georges Canguilhem;CCGC;http://www.cairn.info/revue-les-cahiers-du-centre-georges-canguilhem.htm;1962-1086;
 VST - Vie sociale et traitements;VST;http://www.cairn.info/revue-vie-sociale-et-traitements.htm;0396-8669;1776-2898
 Vingtième Siècle. Revue d'histoire;VING;http://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire.htm;0294-1759;1950-6678
 Chimères;CHIME;http://www.cairn.info/revue-chimeres.htm;0986-6035;2111-4412
-Cahiers philosophiques;CAPH;http://www.cairn.info/revue-cahiers-philosophiques.htm;0241-2799;N/A
-Comptabilité - Contrôle - Audit;CCA;http://www.cairn.info/revue-comptabilite-controle-audit.htm;1262-2788;N/A
-Contraste;CONT;http://www.cairn.info/revue-contraste.htm;1254-7689;N/A
-Histoire, monde et cultures religieuses;HMC;http://www.cairn.info/revue-histoire-monde-et-cultures-religieuses.htm;1957-5246;N/A
+Cahiers philosophiques;CAPH;http://www.cairn.info/revue-cahiers-philosophiques.htm;0241-2799;
+Comptabilité - Contrôle - Audit;CCA;http://www.cairn.info/revue-comptabilite-controle-audit.htm;1262-2788;
+Contraste;CONT;http://www.cairn.info/revue-contraste.htm;1254-7689;
+Histoire, monde et cultures religieuses;HMC;http://www.cairn.info/revue-histoire-monde-et-cultures-religieuses.htm;1957-5246;
 Esprit;ESPRI;http://www.cairn.info/revue-esprit.htm;0014-0759;2111-4579
-Idées économiques et sociales;IDEE;http://www.cairn.info/revue-idees-economiques-et-sociales.htm;2116-5289;N/A
-L'information psychiatrique;INPSY;http://www.cairn.info/revue-l-information-psychiatrique.htm;0020-0204;N/A
+Idées économiques et sociales;IDEE;http://www.cairn.info/revue-idees-economiques-et-sociales.htm;2116-5289;
+L'information psychiatrique;INPSY;http://www.cairn.info/revue-l-information-psychiatrique.htm;0020-0204;
 Etudes économiques de l’OCDE;EE;http://www.cairn.info/revue-etudes-economiques-de-l-ocde.htm;0304-3363;1684-3428
-Journal du droit des jeunes;JDJ;http://www.cairn.info/revue-journal-du-droit-des-jeunes.htm;2114-2068;N/A
-Journal de la psychanalyse de l'enfant;JPE;http://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm;0994-7949;N/A
-Marché et organisations;MAORG;http://www.cairn.info/revue-marche-et-organisations.htm;1953-6119;N/A
-Nouvelle revue d’esthétique;NRE;http://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm;1969-2269;N/A
-Politique africaine;POLAF;http://www.cairn.info/revue-politique-africaine.htm;0244-7827;N/A
+Journal du droit des jeunes;JDJ;http://www.cairn.info/revue-journal-du-droit-des-jeunes.htm;2114-2068;
+Journal de la psychanalyse de l'enfant;JPE;http://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm;0994-7949;
+Marché et organisations;MAORG;http://www.cairn.info/revue-marche-et-organisations.htm;1953-6119;
+Nouvelle revue d’esthétique;NRE;http://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm;1969-2269;
+Politique africaine;POLAF;http://www.cairn.info/revue-politique-africaine.htm;0244-7827;
 Perspectives économiques de l'OCDE;PERS;http://www.cairn.info/revue-perspectives-economiques-de-l-ocde.htm;0304-3274;1684-3436
 Laennec;LAE;http://www.cairn.info/revue-laennec.htm;1272-520X;2262-483X
-Politique américaine;POLAM;http://www.cairn.info/revue-politique-americaine.htm;1771-8848;N/A
+Politique américaine;POLAM;http://www.cairn.info/revue-politique-americaine.htm;1771-8848;
 Politiques et gestion de l'enseignement supérieur;POL;http://www.cairn.info/revue-politiques-et-gestion-de-l-enseignement-superieur.htm;1682-346X;1684-3592
-Présence Africaine;PRESA;http://www.cairn.info/revue-presence-africaine.htm;0032-7638;N/A
+Présence Africaine;PRESA;http://www.cairn.info/revue-presence-africaine.htm;0032-7638;
 Pratiques et Organisation des Soins;POS;http://www.cairn.info/revue-pratiques-et-organisation-des-soins.htm;1952-9201;1961-9391
-PSN;PSN;http://www.cairn.info/revue-psn.htm;1955-2351;N/A
+PSN;PSN;http://www.cairn.info/revue-psn.htm;1955-2351;
 Réformes économiques;REF;http://www.cairn.info/revue-reformes-economiques.htm;1813-2731;1813-274X
 Quaderni;QUAD;http://www.cairn.info/revue-quaderni.htm;0987-1381;2105-2956
 Revue de l'OCDE sur le développement;CAD;http://www.cairn.info/revue-de-l-ocde-sur-le-developpement.htm;1992-0490;1996-5753
-Revue de neuropsychologie;RNE;http://www.cairn.info/revue-de-neuropsychologie.htm;2101-6739;N/A
+Revue de neuropsychologie;RNE;http://www.cairn.info/revue-de-neuropsychologie.htm;2101-6739;
 Revue économique de l'OCDE;REVO;http://www.cairn.info/revue-economique-de-l-ocde.htm;0255-0830;1684-3444
 Revue sur le droit et la politique de la concurrence;REVD;http://www.cairn.info/revue-sur-le-droit-et-la-politique-de-la-concurrence.htm;1560-7798;1684-3452
-Revue interdisciplinaire d'études juridiques;RIEJ;http://www.cairn.info/revue-interdisciplinaire-d-etudes-juridiques.htm;0770-2310;N/A
-Les Sciences de l'éducation - Pour l'Ère nouvelle;LSDLE;http://www.cairn.info/revue-les-sciences-de-l-education-pour-l-ere-nouvelle.htm;0755-9593;N/A
+Revue interdisciplinaire d'études juridiques;RIEJ;http://www.cairn.info/revue-interdisciplinaire-d-etudes-juridiques.htm;0770-2310;
+Les Sciences de l'éducation - Pour l'Ère nouvelle;LSDLE;http://www.cairn.info/revue-les-sciences-de-l-education-pour-l-ere-nouvelle.htm;0755-9593;
 Sciences sociales et santé;SSS;http://www.cairn.info/revue-sciences-sociales-et-sante.htm;0294-0337;1777-5914
-Sciences sociales et sport;RSSS;http://www.cairn.info/revue-sciences-sociales-et-sport.htm;1967-7359;N/A
-Transversalités;TRANS;http://www.cairn.info/revue-transversalites.htm;1286-9449;N/A
-Sociologie de l'Art;SOART;http://www.cairn.info/revue-sociologie-de-l-art.htm;0779-1674;N/A
-Alternatives économiques;AE;http://www.cairn.info/magazine-alternatives-economiques.htm;0247-3739;N/A
-Alternatives internationales;AI;http://www.cairn.info/magazine-alternatives-internationales.htm;1634-6386;N/A
-Sciences humaines;SH;http://www.cairn.info/magazine-sciences-humaines.htm;0996-6994;N/A
-Les Grands Dossiers des Sciences Humaines;GDSH;http://www.cairn.info/magazine-les-grands-dossiers-des-sciences-humaines.htm;1777-375X;N/A
-Le Monde diplomatique;SNI_LMD;http://www.cairn.info/magazine-le-monde-diplomatique.htm;0026-9395;N/A
-Manière de voir;SNI_MDV;http://www.cairn.info/magazine-maniere-de-voir.htm;1241-6290;N/A
-Le Magazine Littéraire;SNI_LML;http://www.cairn.info/magazine-le-magazine-litteraire.htm;0024-9807;N/A
-L'Histoire;SNI_LHIST;http://www.cairn.info/magazine-l-histoire.htm;0182-2411;N/A
+Sciences sociales et sport;RSSS;http://www.cairn.info/revue-sciences-sociales-et-sport.htm;1967-7359;
+Transversalités;TRANS;http://www.cairn.info/revue-transversalites.htm;1286-9449;
+Sociologie de l'Art;SOART;http://www.cairn.info/revue-sociologie-de-l-art.htm;0779-1674;
+Alternatives économiques;AE;http://www.cairn.info/magazine-alternatives-economiques.htm;0247-3739;
+Alternatives internationales;AI;http://www.cairn.info/magazine-alternatives-internationales.htm;1634-6386;
+Sciences humaines;SH;http://www.cairn.info/magazine-sciences-humaines.htm;0996-6994;
+Les Grands Dossiers des Sciences Humaines;GDSH;http://www.cairn.info/magazine-les-grands-dossiers-des-sciences-humaines.htm;1777-375X;
+Le Monde diplomatique;SNI_LMD;http://www.cairn.info/magazine-le-monde-diplomatique.htm;0026-9395;
+Manière de voir;SNI_MDV;http://www.cairn.info/magazine-maniere-de-voir.htm;1241-6290;
+Le Magazine Littéraire;SNI_LML;http://www.cairn.info/magazine-le-magazine-litteraire.htm;0024-9807;
+L'Histoire;SNI_LHIST;http://www.cairn.info/magazine-l-histoire.htm;0182-2411;
 Actuel Marx;revue-actuel-marx;http://www.cairn.info/revue-actuel-marx.htm;0994-4524;1969-6728
 Adolescence;revue-adolescence;http://www.cairn.info/revue-adolescence.htm;0751-7696;1969-6736
 Actes de la recherche en sciences sociales;revue-actes-de-la-recherche-en-sciences-sociales;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales.htm;0335-5322;1955-2564
@@ -368,7 +368,7 @@ Afrique & histoire;revue-afrique-et-histoire;http://www.cairn.info/revue-afrique
 A contrario;revue-a-contrario;http://www.cairn.info/revue-a-contrario.htm;1660-7880;1662-8667
 Afrique contemporaine;revue-afrique-contemporaine;http://www.cairn.info/revue-afrique-contemporaine.htm;0002-0478;1782-138X
 Agora débats/jeunesses;revue-agora-debats-jeunesses;http://www.cairn.info/revue-agora-debats-jeunesses.htm;1268-5666;1968-3758
-@GRH;revue-@grh;http://www.cairn.info/revue-@grh.htm;2034-9130;N/A
+@GRH;revue-@grh;http://www.cairn.info/revue-@grh.htm;2034-9130;
 Annales de démographie historique;revue-annales-de-demographie-historique;http://www.cairn.info/revue-annales-de-demographie-historique.htm;0066-2062;1776-2774
 Annales de Bretagne et des pays de l’Ouest;revue-annales-de-bretagne-et-des-pays-de-l-ouest;http://www.cairn.info/revue-annales-de-bretagne-et-des-pays-de-l-ouest.htm;0399-0826;2108-6443
 Analyse Freudienne Presse;revue-analyse-freudienne-presse;http://www.cairn.info/revue-analyse-freudienne-presse.htm;1253-1472;1969-6744
@@ -376,7 +376,7 @@ Annales de géographie;revue-annales-de-geographie;http://www.cairn.info/revue-a
 Annales. Histoire, Sciences Sociales;revue-annales;http://www.cairn.info/revue-annales.htm;0395-2649;1953-8146
 Annales historiques de la Révolution française;revue-annales-historiques-de-la-revolution-francaise;http://www.cairn.info/revue-annales-historiques-de-la-revolution-francaise.htm;0003-4436;1952-403X
 L'Année balzacienne ;revue-l-annee-balzacienne;http://www.cairn.info/revue-l-annee-balzacienne.htm;0084-6473;1969-6752
-Annales. Histoire, Sciences Sociales (English);revue-annales-english;http://www.cairn.info/revue-annales-english.htm;N/A;N/A
+Annales. Histoire, Sciences Sociales (English);revue-annales-english;http://www.cairn.info/revue-annales-english.htm;;
 Approche Centrée sur la Personne. Pratique et recherche;revue-approche-centree-sur-la-personne;http://www.cairn.info/revue-approche-centree-sur-la-personne.htm;1774-5314;1961-8670
 L'Année sociologique;revue-l-annee-sociologique;http://www.cairn.info/revue-l-annee-sociologique.htm;0066-2399;1969-6760
 Archives de Philosophie;revue-archives-de-philosophie;http://www.cairn.info/revue-archives-de-philosophie.htm;0003-9632;1769-681X
@@ -403,7 +403,7 @@ Les Cahiers Dynamiques;revue-les-cahiers-dynamiques;http://www.cairn.info/revue-
 Les Cahiers du numérique;revue-les-cahiers-du-numerique;http://www.cairn.info/revue-les-cahiers-du-numerique.htm;1622-1494;2111-434X
 Cahiers internationaux de sociologie;revue-cahiers-internationaux-de-sociologie;http://www.cairn.info/revue-cahiers-internationaux-de-sociologie.htm;0008-0276;1969-6787
 Les cahiers Irice;revue-les-cahiers-irice;http://www.cairn.info/revue-les-cahiers-irice.htm;1967-2713;2118-0067
-Les cahiers internationaux de psychologie sociale;revue-les-cahiers-internationaux-de-psychologie-sociale;http://www.cairn.info/revue-les-cahiers-internationaux-de-psychologie-sociale.htm;0777-0707;N/A
+Les cahiers internationaux de psychologie sociale;revue-les-cahiers-internationaux-de-psychologie-sociale;http://www.cairn.info/revue-les-cahiers-internationaux-de-psychologie-sociale.htm;0777-0707;
 Cahiers Sens public;revue-cahiers-sens-public;http://www.cairn.info/revue-cahiers-sens-public.htm;1767-9397;1775-4356
 Cahiers Jaurès;revue-cahiers-jaures;http://www.cairn.info/revue-cahiers-jaures.htm;1268-5399;1969-6809
 Champ psy;revue-champ-psychosomatique;http://www.cairn.info/revue-champ-psychosomatique.htm;1266-5371;1961-8638
@@ -431,9 +431,9 @@ Culture prospective;revue-culture-prospective;http://www.cairn.info/revue-cultur
 Le Débat;revue-le-debat;http://www.cairn.info/revue-le-debat.htm;0246-2346;2111-4587
 Cultures & Conflits;revue-cultures-et-conflits;http://www.cairn.info/revue-cultures-et-conflits.htm;1157-996X;1777-5345
 Culture méthodes;revue-culture-methodes;http://www.cairn.info/revue-culture-methodes.htm;1959-6936;1968-3774
-Devenir;revue-devenir;http://www.cairn.info/revue-devenir.htm;1015-8154;en cours
+Devenir;revue-devenir;http://www.cairn.info/revue-devenir.htm;1015-8154;
 Dialogue;revue-dialogue;http://www.cairn.info/revue-dialogue.htm;0242-8962;1961-8662
-Déviance et Société;revue-deviance-et-societe;http://www.cairn.info/revue-deviance-et-societe.htm;0378-7931;en cours
+Déviance et Société;revue-deviance-et-societe;http://www.cairn.info/revue-deviance-et-societe.htm;0378-7931;
 Diogène;revue-diogene;http://www.cairn.info/revue-diogene.htm;0419-1633;2077-5253
 Dialogues d'histoire ancienne;revue-dialogues-d-histoire-ancienne;http://www.cairn.info/revue-dialogues-d-histoire-ancienne.htm;0755-7256;1955-270X
 Le Divan familial;revue-le-divan-familial;http://www.cairn.info/revue-le-divan-familial.htm;1292-668X;2118-1942
@@ -455,7 +455,7 @@ L'en-je lacanien;revue-l-en-je-lacanien;http://www.cairn.info/revue-l-en-je-laca
 Ela. Études de linguistique appliquée.;revue-ela;http://www.cairn.info/revue-ela.htm;0071-190X;1965-0477
 Enfance;revue-enfance;http://www.cairn.info/revue-enfance.htm;0013-7545;1969-6981
 Empan;revue-empan;http://www.cairn.info/revue-empan.htm;1152-3336;1776-2812
-Les Enjeux de l'information et de la communication;revue-les-enjeux-de-l-information-et-de-la-communication;http://www.cairn.info/revue-les-enjeux-de-l-information-et-de-la-communication.htm;1778-4239;N/A
+Les Enjeux de l'information et de la communication;revue-les-enjeux-de-l-information-et-de-la-communication;http://www.cairn.info/revue-les-enjeux-de-l-information-et-de-la-communication.htm;1778-4239;
 Enfances & Psy;revue-enfances-et-psy;http://www.cairn.info/revue-enfances-et-psy.htm;1286-5559;1776-2820
 L'Espace géographique;revue-espace-geographique;http://www.cairn.info/revue-espace-geographique.htm;0046-2497;1776-2936
 Entreprises et histoire;revue-entreprises-et-histoire;http://www.cairn.info/revue-entreprises-et-histoire.htm;1161-2770;2100-9864
@@ -469,11 +469,11 @@ Les études philosophiques;revue-les-etudes-philosophiques;http://www.cairn.info
 Études de communication;revue-etudes-de-communication;http://www.cairn.info/revue-etudes-de-communication.htm;1270-6841;2101-0366
 Études sur la mort;revue-etudes-sur-la-mort;http://www.cairn.info/revue-etudes-sur-la-mort.htm;1286-5702;1961-8654
 Etudes rurales;revue-etudes-rurales;http://www.cairn.info/revue-etudes-rurales.htm;0014-2182;1777-537X
-L'Europe en Formation;revue-l-europe-en-formation;http://www.cairn.info/revue-l-europe-en-formation.htm;0014-2808;N/A
+L'Europe en Formation;revue-l-europe-en-formation;http://www.cairn.info/revue-l-europe-en-formation.htm;0014-2808;
 Figures de la psychanalyse;revue-figures-de-la-psy;http://www.cairn.info/revue-figures-de-la-psy.htm;1623-3883;1776-2847
 Extrême-Orient Extrême-Occident ;revue-extreme-orient-extreme-occident;http://www.cairn.info/revue-extreme-orient-extreme-occident.htm;0754-5010;2108-7105
 Flux;revue-flux;http://www.cairn.info/revue-flux.htm;1154-2721;1958-9557
-Finance & Bien Commun;revue-finance-et-bien-commun;http://www.cairn.info/revue-finance-et-bien-commun.htm;1422-4658;N/A
+Finance & Bien Commun;revue-finance-et-bien-commun;http://www.cairn.info/revue-finance-et-bien-commun.htm;1422-4658;
 Finance;revue-finance;http://www.cairn.info/revue-finance.htm;0752-6180;2101-0145
 Formation emploi;revue-formation-emploi;http://www.cairn.info/revue-formation-emploi.htm;0759-6340;2107-0946
 Le français aujourd'hui;revue-le-francais-aujourd-hui;http://www.cairn.info/revue-le-francais-aujourd-hui.htm;0184-7732;2107-0857
@@ -483,7 +483,7 @@ Géoéconomie;revue-geoeconomie;http://www.cairn.info/revue-geoeconomie.htm;1284
 Géographie, économie, société;revue-geographie-economie-societe;http://www.cairn.info/revue-geographie-economie-societe.htm;1295-926x;1958-5802
 Germanica;revue-germanica;http://www.cairn.info/revue-germanica.htm;0984-2632;2107-0784
 Gérontologie et société;revue-gerontologie-et-societe;http://www.cairn.info/revue-gerontologie-et-societe.htm;0151-0193;2101-0218
-Gestion;revue-gestion;http://www.cairn.info/revue-gestion.htm;0701-0028;N/A
+Gestion;revue-gestion;http://www.cairn.info/revue-gestion.htm;0701-0028;
 Gestalt;revue-gestalt;http://www.cairn.info/revue-gestalt.htm;1154-5232;1950-6716
 Gradhiva;revue-gradhiva;http://www.cairn.info/revue-gradhiva.htm;0764-8928;1760-849X
 Gouvernement et action publique;revue-gouvernement-et-action-publique;http://www.cairn.info/revue-gouvernement-et-action-publique.htm;2260-0965;2262-340X
@@ -495,9 +495,9 @@ Histoire & Sociétés Rurales;revue-histoire-et-societes-rurales;http://www.cair
 Histoire urbaine;revue-histoire-urbaine;http://www.cairn.info/revue-histoire-urbaine.htm;1628-0482;2101-003X
 Histoire, économie & société;revue-histoire-economie-et-societe;http://www.cairn.info/revue-histoire-economie-et-societe.htm;0752-5702;1777-5906
 L'Homme;revue-l-homme;http://www.cairn.info/revue-l-homme.htm;0439-4216;1953-8103
-Histoire@Politique;revue-histoire-politique;http://www.cairn.info/revue-histoire-politique.htm;1954-3670;N/A
+Histoire@Politique;revue-histoire-politique;http://www.cairn.info/revue-histoire-politique.htm;1954-3670;
 L'Homme et la société;revue-l-homme-et-la-societe;http://www.cairn.info/revue-l-homme-et-la-societe.htm;0018-4306;2101-0226
-Humanisme et Entreprise;revue-humanisme-et-entreprise;http://www.cairn.info/revue-humanisme-et-entreprise.htm;0018-7372;N/A
+Humanisme et Entreprise;revue-humanisme-et-entreprise;http://www.cairn.info/revue-humanisme-et-entreprise.htm;0018-7372;
 Horizons stratégiques;revue-horizons-strategiques;http://www.cairn.info/revue-horizons-strategiques.htm;1958-3370;1760-8023
 Imaginaire & Inconscient;revue-imaginaire-et-inconscient;http://www.cairn.info/revue-imaginaire-et-inconscient.htm;1628-9676;1965-0183
 L'Information géographique ;revue-l-information-geographique;http://www.cairn.info/revue-l-information-geographique.htm;0020-0093;1777-5876
@@ -512,7 +512,7 @@ Journal de la Société des Océanistes;revue-journal-de-la-societe-des-oceanist
 Le Journal des psychologues;revue-le-journal-des-psychologues;http://www.cairn.info/revue-le-journal-des-psychologues.htm;0752-501X;2118-3015
 Journal International de Bioéthique;revue-journal-international-de-bioethique;http://www.cairn.info/revue-journal-international-de-bioethique.htm;1287-7352;2102-5169
 Journal français de psychiatrie;revue-journal-francais-de-psychiatrie;http://www.cairn.info/revue-journal-francais-de-psychiatrie.htm;1260-5999;1776-2855
-Journal of Innovation Economics;revue-journal-of-innovation-economics;http://www.cairn.info/revue-journal-of-innovation-economics.htm;2032-5355;N/A
+Journal of Innovation Economics;revue-journal-of-innovation-economics;http://www.cairn.info/revue-journal-of-innovation-economics.htm;2032-5355;
 Labyrinthe;revue-labyrinthe;http://www.cairn.info/revue-labyrinthe.htm;1288-6289;1950-6031
 La lettre de l'enfance et de l'adolescence;revue-lettre-de-l-enfance-et-de-l-adolescence;http://www.cairn.info/revue-lettre-de-l-enfance-et-de-l-adolescence.htm;1146-061X;1951-6304
 Langages;revue-langages;http://www.cairn.info/revue-langages.htm;0458-726X;1958-9549
@@ -522,7 +522,7 @@ Libres cahiers pour la psychanalyse;revue-libres-cahiers-pour-la-psychanalyse;ht
 La linguistique;revue-la-linguistique;http://www.cairn.info/revue-la-linguistique.htm;0075-966X;2101-0234
 Littérature;revue-litterature;http://www.cairn.info/revue-litterature.htm;0047-4800;1958-5926
 Market Management;revue-market-management;http://www.cairn.info/revue-market-management.htm;1779-3572;2111-4374
-M@n@gement;revue-management;http://www.cairn.info/revue-management.htm;1286-4692;N/A
+M@n@gement;revue-management;http://www.cairn.info/revue-management.htm;1286-4692;
 Management & Avenir;revue-management-et-avenir;http://www.cairn.info/revue-management-et-avenir.htm;1768-5958;1969-6574
 Matériaux pour l’histoire de notre temps ;revue-materiaux-pour-l-histoire-de-notre-temps;http://www.cairn.info/revue-materiaux-pour-l-histoire-de-notre-temps.htm;0769-3206;1952-4226
 Médiévales;revue-medievales;http://www.cairn.info/revue-medievales.htm;0751-2708;1777-5892
@@ -536,7 +536,7 @@ Mouvements;revue-mouvements;http://www.cairn.info/revue-mouvements.htm;1291-6412
 Movement & Sport Sciences;revue-science-et-motricite;http://www.cairn.info/revue-science-et-motricite.htm;1378-1863;1782-1541
 Le Moyen Age;revue-le-moyen-age;http://www.cairn.info/revue-le-moyen-age.htm;0027-2841;1782-1436
 Multitudes;revue-multitudes;http://www.cairn.info/revue-multitudes.htm;0292-0107;1777-5841
-Napoleonica. La Revue;revue-napoleonica-la-revue;http://www.cairn.info/revue-napoleonica-la-revue.htm;2100-0123;N/A
+Napoleonica. La Revue;revue-napoleonica-la-revue;http://www.cairn.info/revue-napoleonica-la-revue.htm;2100-0123;
 Natures Sciences Sociétés;revue-natures-sciences-societes;http://www.cairn.info/revue-natures-sciences-societes.htm;1240-1307;1765-2979
 Négociations;revue-negociations;http://www.cairn.info/revue-negociations.htm;1780-9231;1782-1452
 Nouvelles FondationS;revue-nouvelles-fondations;http://www.cairn.info/revue-nouvelles-fondations.htm;1951-9745;2101-0242
@@ -567,7 +567,7 @@ Problèmes d'Amérique latine;revue-problemes-d-amerique-latine;http://www.cairn
 Projectics / Proyéctica / Projectique;revue-projectique;http://www.cairn.info/revue-projectique.htm;2031-9703;2032-0043
 Psychanalyse;revue-psychanalyse;http://www.cairn.info/revue-psychanalyse.htm;1770-0078;1951-6320
 La psychiatrie de l'enfant;revue-la-psychiatrie-de-l-enfant;http://www.cairn.info/revue-la-psychiatrie-de-l-enfant.htm;0079-726X;2102-5320
-Psychothérapies;revue-psychotherapies;http://www.cairn.info/revue-psychotherapies.htm;0251-737X;en cours
+Psychothérapies;revue-psychotherapies;http://www.cairn.info/revue-psychotherapies.htm;0251-737X;
 Psychologie Clinique;revue-psychologie-clinique;http://www.cairn.info/revue-psychologie-clinique.htm;1145-1882;2118-4224
 Psychologie clinique et projective;revue-psychologie-clinique-et-projective;http://www.cairn.info/revue-psychologie-clinique-et-projective.htm;1265-5449;2118-4496
 Psychotropes;revue-psychotropes;http://www.cairn.info/revue-psychotropes.htm;1245-2092;1782-1487
@@ -588,7 +588,7 @@ Reliance;revue-reliance;http://www.cairn.info/revue-reliance.htm;1774-9743;1951-
 Revue archéologique;revue-archeologique;http://www.cairn.info/revue-archeologique.htm;0035-0737;2104-3868
 Retraite et société;revue-retraite-et-societe;http://www.cairn.info/revue-retraite-et-societe.htm;1167-4687;1961-8719
 Revue d'économie du développement;revue-d-economie-du-developpement;http://www.cairn.info/revue-d-economie-du-developpement.htm;1245-4060;1782-1517
-Revue d'anthropologie des connaissances;revue-anthropologie-des-connaissances;http://www.cairn.info/revue-anthropologie-des-connaissances.htm;1760-5393;N/A
+Revue d'anthropologie des connaissances;revue-anthropologie-des-connaissances;http://www.cairn.info/revue-anthropologie-des-connaissances.htm;1760-5393;
 Revue d'assyriologie et d'archéologie orientale;revue-d-assyriologie;http://www.cairn.info/revue-d-assyriologie.htm;0373-6032;2104-3817
 Revue d'économie politique;revue-d-economie-politique;http://www.cairn.info/revue-d-economie-politique.htm;0373-2630;2105-2883
 Revue d'économie industrielle;revue-d-economie-industrielle;http://www.cairn.info/revue-d-economie-industrielle.htm;0154-3229;1773-0198
@@ -627,9 +627,9 @@ Revue française de science politique;revue-francaise-de-science-politique;http:
 Revue française de psychosomatique;revue-francaise-de-psychosomatique;http://www.cairn.info/revue-francaise-de-psychosomatique.htm;1164-4796;2105-2603
 Revue française de sociologie;revue-francaise-de-sociologie;http://www.cairn.info/revue-francaise-de-sociologie.htm;0035-2969;1958-5691
 Revue Française de Socio-Économie;revue-francaise-de-socio-economie;http://www.cairn.info/revue-francaise-de-socio-economie.htm;1966-6608;2104-3833
-Revue française de science politique (English);revue-francaise-de-science-politique-english;http://www.cairn.info/revue-francaise-de-science-politique-english.htm;2263-7494;N/A
+Revue française de science politique (English);revue-francaise-de-science-politique-english;http://www.cairn.info/revue-francaise-de-science-politique-english.htm;2263-7494;
 Revue française des affaires sociales;revue-francaise-des-affaires-sociales;http://www.cairn.info/revue-francaise-des-affaires-sociales.htm;0035-2985;2111-4358
-Revue française de sociologie  (English);revue-revue-francaise-de-sociologie-english;http://www.cairn.info/revue-revue-francaise-de-sociologie-english.htm;N/A;N/A
+Revue française de sociologie  (English);revue-revue-francaise-de-sociologie-english;http://www.cairn.info/revue-revue-francaise-de-sociologie-english.htm;;
 Revue historique;revue-historique;http://www.cairn.info/revue-historique.htm;0035-3264;2104-3825
 Revue internationale de droit économique;revue-internationale-de-droit-economique;http://www.cairn.info/revue-internationale-de-droit-economique.htm;1010-8831;1782-1525
 Revue internationale d'intelligence économique;revue-internationale-d-intelligence-economique;http://www.cairn.info/revue-internationale-d-intelligence-economique.htm;2101-647X;2102-6408
@@ -639,8 +639,8 @@ Revue internationale de politique comparée;revue-internationale-de-politique-co
 Revue internationale de philosophie;revue-internationale-de-philosophie;http://www.cairn.info/revue-internationale-de-philosophie.htm;0048-8143;2033-0138
 Revue internationale de psychologie sociale;revue-internationale-de-psychologie-sociale;http://www.cairn.info/revue-internationale-de-psychologie-sociale.htm;0992-986X;2119-4130
 Revue internationale de psychosociologie et de gestion des comportements organisationnels;revue-internationale-de-psychosociologie;http://www.cairn.info/revue-internationale-de-psychosociologie.htm;1260-1705;2105-2662
-Revue internationale de soins palliatifs;revue-infokara;http://www.cairn.info/revue-infokara.htm;1664-1531;N/A
-Revue Internationale des Sciences Administratives;revue-internationale-des-sciences-administratives;http://www.cairn.info/revue-internationale-des-sciences-administratives.htm;0303-965X;N/A
+Revue internationale de soins palliatifs;revue-infokara;http://www.cairn.info/revue-infokara.htm;1664-1531;
+Revue Internationale des Sciences Administratives;revue-internationale-des-sciences-administratives;http://www.cairn.info/revue-internationale-des-sciences-administratives.htm;0303-965X;
 Revue internationale et stratégique;revue-internationale-et-strategique;http://www.cairn.info/revue-internationale-et-strategique.htm;1287-1672;2104-3876
 Revue internationale des sciences sociales ;revue-internationale-des-sciences-sociales;http://www.cairn.info/revue-internationale-des-sciences-sociales.htm;0304-3037;2222-4610
 Revue philosophique de la France et de l'étranger;revue-philosophique;http://www.cairn.info/revue-philosophique.htm;0035-3833;2104-385X
@@ -669,7 +669,7 @@ Terrains & travaux;revue-terrains-et-travaux;http://www.cairn.info/revue-terrain
 Terrain;revue-terrain;http://www.cairn.info/revue-terrain.htm;0760-5668;1777-5450
 Topique;revue-topique;http://www.cairn.info/revue-topique.htm;0040-9375;1965-0604
 Tracés;revue-traces;http://www.cairn.info/revue-traces.htm;1763-0061;1963-1812
-Thérapie Familiale;revue-therapie-familiale;http://www.cairn.info/revue-therapie-familiale.htm;0250-4952;en cours
+Thérapie Familiale;revue-therapie-familiale;http://www.cairn.info/revue-therapie-familiale.htm;0250-4952;
 Le travail humain;revue-le-travail-humain;http://www.cairn.info/revue-le-travail-humain.htm;0041-1868;2104-3663
 Travail et emploi;revue-travail-et-emploi;http://www.cairn.info/revue-travail-et-emploi.htm;0224-4365;1775-416X
 Travaux de linguistique;revue-travaux-de-linguistique;http://www.cairn.info/revue-travaux-de-linguistique.htm;0082-6049;1782-1576
@@ -679,47 +679,47 @@ Tumultes;revue-tumultes;http://www.cairn.info/revue-tumultes.htm;1243-549X;2118-
 Volume !;revue-volume;http://www.cairn.info/revue-volume.htm;1634-5495;1950-568X
 Les Tribunes de la santé;revue-les-tribunes-de-la-sante;http://www.cairn.info/revue-les-tribunes-de-la-sante.htm;1765-8888;2105-2182
 Vie & sciences de l'entreprise;revue-vie-et-sciences-de-l-entreprise;http://www.cairn.info/revue-vie-et-sciences-de-l-entreprise.htm;0336-142X;2118-3325
-Les Cahiers du Centre Georges Canguilhem;revue-les-cahiers-du-centre-georges-canguilhem;http://www.cairn.info/revue-les-cahiers-du-centre-georges-canguilhem.htm;1962-1086;N/A
+Les Cahiers du Centre Georges Canguilhem;revue-les-cahiers-du-centre-georges-canguilhem;http://www.cairn.info/revue-les-cahiers-du-centre-georges-canguilhem.htm;1962-1086;
 VST - Vie sociale et traitements;revue-vie-sociale-et-traitements;http://www.cairn.info/revue-vie-sociale-et-traitements.htm;0396-8669;1776-2898
 Vingtième Siècle. Revue d'histoire;revue-vingtieme-siecle-revue-d-histoire;http://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire.htm;0294-1759;1950-6678
 Chimères;revue-chimeres;http://www.cairn.info/revue-chimeres.htm;0986-6035;2111-4412
-Cahiers philosophiques;revue-cahiers-philosophiques;http://www.cairn.info/revue-cahiers-philosophiques.htm;0241-2799;N/A
-Comptabilité - Contrôle - Audit;revue-comptabilite-controle-audit;http://www.cairn.info/revue-comptabilite-controle-audit.htm;1262-2788;N/A
-Contraste;revue-contraste;http://www.cairn.info/revue-contraste.htm;1254-7689;N/A
-Histoire, monde et cultures religieuses;revue-histoire-monde-et-cultures-religieuses;http://www.cairn.info/revue-histoire-monde-et-cultures-religieuses.htm;1957-5246;N/A
+Cahiers philosophiques;revue-cahiers-philosophiques;http://www.cairn.info/revue-cahiers-philosophiques.htm;0241-2799;
+Comptabilité - Contrôle - Audit;revue-comptabilite-controle-audit;http://www.cairn.info/revue-comptabilite-controle-audit.htm;1262-2788;
+Contraste;revue-contraste;http://www.cairn.info/revue-contraste.htm;1254-7689;
+Histoire, monde et cultures religieuses;revue-histoire-monde-et-cultures-religieuses;http://www.cairn.info/revue-histoire-monde-et-cultures-religieuses.htm;1957-5246;
 Esprit;revue-esprit;http://www.cairn.info/revue-esprit.htm;0014-0759;2111-4579
-Idées économiques et sociales;revue-idees-economiques-et-sociales;http://www.cairn.info/revue-idees-economiques-et-sociales.htm;2116-5289;N/A
-L'information psychiatrique;revue-l-information-psychiatrique;http://www.cairn.info/revue-l-information-psychiatrique.htm;0020-0204;N/A
+Idées économiques et sociales;revue-idees-economiques-et-sociales;http://www.cairn.info/revue-idees-economiques-et-sociales.htm;2116-5289;
+L'information psychiatrique;revue-l-information-psychiatrique;http://www.cairn.info/revue-l-information-psychiatrique.htm;0020-0204;
 Etudes économiques de l’OCDE;revue-etudes-economiques-de-l-ocde;http://www.cairn.info/revue-etudes-economiques-de-l-ocde.htm;0304-3363;1684-3428
-Journal du droit des jeunes;revue-journal-du-droit-des-jeunes;http://www.cairn.info/revue-journal-du-droit-des-jeunes.htm;2114-2068;N/A
-Journal de la psychanalyse de l'enfant;revue-journal-de-la-psychanalyse-de-l-enfant;http://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm;0994-7949;N/A
-Marché et organisations;revue-marche-et-organisations;http://www.cairn.info/revue-marche-et-organisations.htm;1953-6119;N/A
-Nouvelle revue d’esthétique;revue-nouvelle-revue-d-esthetique;http://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm;1969-2269;N/A
-Politique africaine;revue-politique-africaine;http://www.cairn.info/revue-politique-africaine.htm;0244-7827;N/A
+Journal du droit des jeunes;revue-journal-du-droit-des-jeunes;http://www.cairn.info/revue-journal-du-droit-des-jeunes.htm;2114-2068;
+Journal de la psychanalyse de l'enfant;revue-journal-de-la-psychanalyse-de-l-enfant;http://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm;0994-7949;
+Marché et organisations;revue-marche-et-organisations;http://www.cairn.info/revue-marche-et-organisations.htm;1953-6119;
+Nouvelle revue d’esthétique;revue-nouvelle-revue-d-esthetique;http://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm;1969-2269;
+Politique africaine;revue-politique-africaine;http://www.cairn.info/revue-politique-africaine.htm;0244-7827;
 Perspectives économiques de l'OCDE;revue-perspectives-economiques-de-l-ocde;http://www.cairn.info/revue-perspectives-economiques-de-l-ocde.htm;0304-3274;1684-3436
 Laennec;revue-laennec;http://www.cairn.info/revue-laennec.htm;1272-520X;2262-483X
-Politique américaine;revue-politique-americaine;http://www.cairn.info/revue-politique-americaine.htm;1771-8848;N/A
+Politique américaine;revue-politique-americaine;http://www.cairn.info/revue-politique-americaine.htm;1771-8848;
 Politiques et gestion de l'enseignement supérieur;revue-politiques-et-gestion-de-l-enseignement-superieur;http://www.cairn.info/revue-politiques-et-gestion-de-l-enseignement-superieur.htm;1682-346X;1684-3592
-Présence Africaine;revue-presence-africaine;http://www.cairn.info/revue-presence-africaine.htm;0032-7638;N/A
+Présence Africaine;revue-presence-africaine;http://www.cairn.info/revue-presence-africaine.htm;0032-7638;
 Pratiques et Organisation des Soins;revue-pratiques-et-organisation-des-soins;http://www.cairn.info/revue-pratiques-et-organisation-des-soins.htm;1952-9201;1961-9391
-PSN;revue-psn;http://www.cairn.info/revue-psn.htm;1955-2351;N/A
+PSN;revue-psn;http://www.cairn.info/revue-psn.htm;1955-2351;
 Réformes économiques;revue-reformes-economiques;http://www.cairn.info/revue-reformes-economiques.htm;1813-2731;1813-274X
 Quaderni;revue-quaderni;http://www.cairn.info/revue-quaderni.htm;0987-1381;2105-2956
 Revue de l'OCDE sur le développement;revue-de-l-ocde-sur-le-developpement;http://www.cairn.info/revue-de-l-ocde-sur-le-developpement.htm;1992-0490;1996-5753
-Revue de neuropsychologie;revue-de-neuropsychologie;http://www.cairn.info/revue-de-neuropsychologie.htm;2101-6739;N/A
+Revue de neuropsychologie;revue-de-neuropsychologie;http://www.cairn.info/revue-de-neuropsychologie.htm;2101-6739;
 Revue économique de l'OCDE;revue-economique-de-l-ocde;http://www.cairn.info/revue-economique-de-l-ocde.htm;0255-0830;1684-3444
 Revue sur le droit et la politique de la concurrence;revue-sur-le-droit-et-la-politique-de-la-concurrence;http://www.cairn.info/revue-sur-le-droit-et-la-politique-de-la-concurrence.htm;1560-7798;1684-3452
-Revue interdisciplinaire d'études juridiques;revue-interdisciplinaire-d-etudes-juridiques;http://www.cairn.info/revue-interdisciplinaire-d-etudes-juridiques.htm;0770-2310;N/A
-Les Sciences de l'éducation - Pour l'Ère nouvelle;revue-les-sciences-de-l-education-pour-l-ere-nouvelle;http://www.cairn.info/revue-les-sciences-de-l-education-pour-l-ere-nouvelle.htm;0755-9593;N/A
+Revue interdisciplinaire d'études juridiques;revue-interdisciplinaire-d-etudes-juridiques;http://www.cairn.info/revue-interdisciplinaire-d-etudes-juridiques.htm;0770-2310;
+Les Sciences de l'éducation - Pour l'Ère nouvelle;revue-les-sciences-de-l-education-pour-l-ere-nouvelle;http://www.cairn.info/revue-les-sciences-de-l-education-pour-l-ere-nouvelle.htm;0755-9593;
 Sciences sociales et santé;revue-sciences-sociales-et-sante;http://www.cairn.info/revue-sciences-sociales-et-sante.htm;0294-0337;1777-5914
-Sciences sociales et sport;revue-sciences-sociales-et-sport;http://www.cairn.info/revue-sciences-sociales-et-sport.htm;1967-7359;N/A
-Transversalités;revue-transversalites;http://www.cairn.info/revue-transversalites.htm;1286-9449;N/A
-Sociologie de l'Art;revue-sociologie-de-l-art;http://www.cairn.info/revue-sociologie-de-l-art.htm;0779-1674;N/A
-Alternatives économiques;magazine-alternatives-economiques;http://www.cairn.info/magazine-alternatives-economiques.htm;0247-3739;N/A
-Alternatives internationales;magazine-alternatives-internationales;http://www.cairn.info/magazine-alternatives-internationales.htm;1634-6386;N/A
-Sciences humaines;magazine-sciences-humaines;http://www.cairn.info/magazine-sciences-humaines.htm;0996-6994;N/A
-Les Grands Dossiers des Sciences Humaines;magazine-les-grands-dossiers-des-sciences-humaines;http://www.cairn.info/magazine-les-grands-dossiers-des-sciences-humaines.htm;1777-375X;N/A
-Le Monde diplomatique;magazine-le-monde-diplomatique;http://www.cairn.info/magazine-le-monde-diplomatique.htm;0026-9395;N/A
-Manière de voir;magazine-maniere-de-voir;http://www.cairn.info/magazine-maniere-de-voir.htm;1241-6290;N/A
-Le Magazine Littéraire;magazine-le-magazine-litteraire;http://www.cairn.info/magazine-le-magazine-litteraire.htm;0024-9807;N/A
-L'Histoire;magazine-l-histoire;http://www.cairn.info/magazine-l-histoire.htm;0182-2411;N/A
+Sciences sociales et sport;revue-sciences-sociales-et-sport;http://www.cairn.info/revue-sciences-sociales-et-sport.htm;1967-7359;
+Transversalités;revue-transversalites;http://www.cairn.info/revue-transversalites.htm;1286-9449;
+Sociologie de l'Art;revue-sociologie-de-l-art;http://www.cairn.info/revue-sociologie-de-l-art.htm;0779-1674;
+Alternatives économiques;magazine-alternatives-economiques;http://www.cairn.info/magazine-alternatives-economiques.htm;0247-3739;
+Alternatives internationales;magazine-alternatives-internationales;http://www.cairn.info/magazine-alternatives-internationales.htm;1634-6386;
+Sciences humaines;magazine-sciences-humaines;http://www.cairn.info/magazine-sciences-humaines.htm;0996-6994;
+Les Grands Dossiers des Sciences Humaines;magazine-les-grands-dossiers-des-sciences-humaines;http://www.cairn.info/magazine-les-grands-dossiers-des-sciences-humaines.htm;1777-375X;
+Le Monde diplomatique;magazine-le-monde-diplomatique;http://www.cairn.info/magazine-le-monde-diplomatique.htm;0026-9395;
+Manière de voir;magazine-maniere-de-voir;http://www.cairn.info/magazine-maniere-de-voir.htm;1241-6290;
+Le Magazine Littéraire;magazine-le-magazine-litteraire;http://www.cairn.info/magazine-le-magazine-litteraire.htm;0024-9807;
+L'Histoire;magazine-l-histoire;http://www.cairn.info/magazine-l-histoire.htm;0182-2411;
