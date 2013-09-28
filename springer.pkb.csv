@@ -1,10 +1,10 @@
-title;issn;eissn;pid;lien
+title;issn;eissn;pid;url
 3 Biotech;2190-572X;2190-5738;13205;http://link.springer.com/journal/13205
 3D Research;;2092-6731;13319;http://link.springer.com/journal/13319
 4OR;1619-4500;1614-2411;10288;http://link.springer.com/journal/10288
 AAPS PharmSciTech;;1530-9932;12249;http://link.springer.com/journal/12249
 Abdominal Imaging;0942-8925;1432-0509;261;http://link.springer.com/journal/261
-Abhandlungen aus dem Mathematischen Seminar der UniversitÃ¤t Hamburg;0025-5858;1865-8784;12188;http://link.springer.com/journal/12188
+Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg;0025-5858;1865-8784;12188;http://link.springer.com/journal/12188
 Academic Questions;0895-4852;1936-4709;12129;http://link.springer.com/journal/12129
 Accreditation and Quality Assurance;0949-1775;1432-0517;769;http://link.springer.com/journal/769
 Acoustical Physics;1063-7710;1562-6865;11441;http://link.springer.com/journal/11441
@@ -23,6 +23,7 @@ Acta Linguistica Hungarica;1216-8076;1588-2624;10445;http://link.springer.com/jo
 Acta Mathematica;0001-5962;1871-2509;11511;http://link.springer.com/journal/11511
 Acta Mathematica Hungarica;0236-5294;1588-2632;10474;http://link.springer.com/journal/10474
 Acta Mathematica Sinica, English Series;1439-8516;1439-7617;10114;http://link.springer.com/journal/10114
+Acta Mathematica Vietnamica;0251-4184;2315-4144;40306;http://link.springer.com/journal/40306
 Acta Mathematicae Applicatae Sinica, English Series;0168-9673;1618-3932;10255;http://link.springer.com/journal/10255
 Acta Mechanica;0001-5970;1619-6937;707;http://link.springer.com/journal/707
 Acta Mechanica Sinica;0567-7718;1614-3116;10409;http://link.springer.com/journal/10409
@@ -31,19 +32,20 @@ Acta Meteorologica Sinica;0894-0525;2191-4788;13351;http://link.springer.com/jou
 Acta Neurochirurgica;0001-6268;0942-0940;701;http://link.springer.com/journal/701
 Acta Neurologica Belgica;0300-9009;2240-2993;13760;http://link.springer.com/journal/13760
 Acta Neuropathologica;0001-6322;1432-0533;401;http://link.springer.com/journal/401
+Acta Neuropathologica Communications;;2051-5960;40478;http://link.springer.com/journal/40478
 Acta Oceanologica Sinica;0253-505X;1869-1099;13131;http://link.springer.com/journal/13131
 Acta Parasitologica;1230-2821;1896-1851;11686;http://link.springer.com/journal/11686
 Acta Physica Academiae Scientiarum Hungaricae;0001-6705;;12658;http://link.springer.com/journal/12658
 Acta Physica Hungarica;0231-4428;;12242;http://link.springer.com/journal/12242
+Acta Physica Hungarica A) Heavy Ion Physics;1589-9535;1786-3767;12657;http://link.springer.com/journal/12657
 Acta Physica Hungarica Series A, Heavy Ion Physics;1219-7580;1588-2675;12656;http://link.springer.com/journal/12656
-Acta Physica Hungarica Series B, Quantum Electronics;1589-9535;1786-3767;12657;http://link.springer.com/journal/12657
 Acta Physiologiae Plantarum;0137-5881;1861-1664;11738;http://link.springer.com/journal/11738
 Acta Theriologica;0001-7051;2190-3743;13364;http://link.springer.com/journal/13364
 Acta Veterinaria Scandinavica;;1751-0147;13028;http://link.springer.com/journal/13028
-"Addiction Science &amp; Clinical Practice";;1940-0640;13722;http://link.springer.com/journal/13722
+Addiction Science & Clinical Practice;;1940-0640;13722;http://link.springer.com/journal/13722
+adhäsion KLEBEN & DICHTEN;1619-1919;2192-8681;35145;http://link.springer.com/journal/35145
 ADHD Attention Deficit and Hyperactivity Disorders;1866-6116;1866-6647;12402;http://link.springer.com/journal/12402
-"ADHESION ADHESIVES&amp;SEALANTS";2192-2624;;35784;http://link.springer.com/journal/35784
-"adhÃ¤sion KLEBEN &amp; DICHTEN";1619-1919;2192-8681;35145;http://link.springer.com/journal/35145
+ADHESION ADHESIVES&SEALANTS;2192-2624;2195-6545;35784;http://link.springer.com/journal/35784
 Administration and Policy in Mental Health and Mental Health Services Research;0894-587X;1573-3289;10488;http://link.springer.com/journal/10488
 Adsorption;0929-5607;1572-8757;10450;http://link.springer.com/journal/10450
 Advanced Performance Materials;0929-1881;1572-8765;10491;http://link.springer.com/journal/10491
@@ -55,6 +57,7 @@ Advances in Data Analysis and Classification;1862-5347;1862-5355;11634;http://li
 Advances in Difference Equations;;1687-1847;13662;http://link.springer.com/journal/13662
 Advances in Gerontology;2079-0570;2079-0589;13329;http://link.springer.com/journal/13329
 Advances in Health Sciences Education;1382-4996;1573-1677;10459;http://link.springer.com/journal/10459
+Advances in Manufacturing;2095-3127;2195-3597;40436;http://link.springer.com/journal/40436
 Advances in Therapy;0741-238X;1865-8652;12325;http://link.springer.com/journal/12325
 Aegean Review of the Law of the Sea and Maritime Law;1864-9610;1864-9629;12180;http://link.springer.com/journal/12180
 Aequationes mathematicae;0001-9054;1420-8903;10;http://link.springer.com/journal/10
@@ -66,25 +69,28 @@ Afrika Matematika;1012-9405;2190-7668;13370;http://link.springer.com/journal/133
 AGE;0161-9152;1574-4647;11357;http://link.springer.com/journal/11357
 Ageing International;0163-5158;1936-606X;12126;http://link.springer.com/journal/12126
 Aggiornamenti CIO;1970-6839;1970-6847;10351;http://link.springer.com/journal/10351
+Aging Clinical and Experimental Research;1720-8319;1720-8319;40520;http://link.springer.com/journal/40520
+Agricultural and Food Economics;;2193-7532;40100;http://link.springer.com/journal/40100
 Agricultural Research;2249-720X;2249-7218;40003;http://link.springer.com/journal/40003
-"Agriculture &amp; Food Security";;2048-7010;40066;http://link.springer.com/journal/40066
+Agriculture & Food Security;;2048-7010;40066;http://link.springer.com/journal/40066
 Agriculture and Human Values;0889-048X;1572-8366;10460;http://link.springer.com/journal/10460
 Agroforestry Systems;0167-4366;1572-9680;10457;http://link.springer.com/journal/10457
 Agronomy for Sustainable Development;1774-0746;1773-0155;13593;http://link.springer.com/journal/13593
-"AI &amp; SOCIETY";0951-5666;1435-5655;146;http://link.springer.com/journal/146
+AI & SOCIETY;0951-5666;1435-5655;146;http://link.springer.com/journal/146
 AIDS and Behavior;1090-7165;1573-3254;10461;http://link.springer.com/journal/10461
 AIDS Research and Therapy;;1742-6405;12981;http://link.springer.com/journal/12981
-"Air Quality, Atmosphere &amp; Health";1873-9318;1873-9326;11869;http://link.springer.com/journal/11869
+Air Quality, Atmosphere & Health;1873-9318;1873-9326;11869;http://link.springer.com/journal/11869
+Akupunktur & Aurikulomedizin;2192-9319;;15009;http://link.springer.com/journal/15009
 Algebra and Logic;0002-5232;1573-8302;10469;http://link.springer.com/journal/10469
 Algebra Colloquium;1005-3867;0219-1733;10011;http://link.springer.com/journal/10011
-algebra universalis;0002-5240;1420-8911;00012;http://link.springer.com/journal/00012
 Algebra universalis;0002-5240;1420-8911;12;http://link.springer.com/journal/12
 Algebras and Representation Theory;1386-923X;1572-9079;10468;http://link.springer.com/journal/10468
 Algorithmica;0178-4617;1432-0541;453;http://link.springer.com/journal/453
 Algorithms for Molecular Biology;;1748-7188;13015;http://link.springer.com/journal/13015
-"Allergy, Asthma &amp; Clinical Immunology";;1710-1492;13223;http://link.springer.com/journal/13223
+Allergo Journal;0941-8849;2195-6405;15007;http://link.springer.com/journal/15007
+Allergy, Asthma & Clinical Immunology;;1710-1492;13223;http://link.springer.com/journal/13223
 Alpine Botany;1664-2201;1664-221X;35;http://link.springer.com/journal/35
-"Alzheimer's Research &amp; Therapy";;1758-9193;13195;http://link.springer.com/journal/13195
+Alzheimer's Research & Therapy;;1758-9193;13195;http://link.springer.com/journal/13195
 AMB Express;;2191-0855;13568;http://link.springer.com/journal/13568
 AMBIO;0044-7447;1654-7209;13280;http://link.springer.com/journal/13280
 American Journal of Cancer;1175-6357;;40280;http://link.springer.com/journal/40280
@@ -104,14 +110,14 @@ Analysis in Theory and Applications;1672-4070;1573-8175;10496;http://link.spring
 Analysis Mathematica;0133-3852;1588-273X;10476;http://link.springer.com/journal/10476
 Analytical and Bioanalytical Chemistry;1618-2642;1618-2650;216;http://link.springer.com/journal/216
 Anatomical Science International;1447-6959;1447-073X;12565;http://link.springer.com/journal/12565
-Andrologie;1166-2654;1760-5377;12610;http://link.springer.com/journal/12610
 Angiogenesis;0969-6970;1573-7209;10456;http://link.springer.com/journal/10456
+Animal Biotelemetry;;2050-3385;40317;http://link.springer.com/journal/40317
 Animal Cognition;1435-9448;1435-9456;10071;http://link.springer.com/journal/10071
-Annalen der Philosophie;0165-0106;1866-6167;12377;http://link.springer.com/journal/12377
-Annalen der Philosophie und philosophischen Kritik;1866-6175;1866-6175;12375;http://link.springer.com/journal/12375
-Annales franÃ§aises de mÃ©decine d'urgence;2108-6524;2108-6591;13341;http://link.springer.com/journal/13341
+Annalen der Philosophie und philosophischen Kritik;0165-0106;1866-6175;12375;http://link.springer.com/journal/12375
+Annales françaises de médecine d'urgence;2108-6524;2108-6591;13341;http://link.springer.com/journal/13341
 Annales Geophysicae;0992-7689;1432-0576;585;http://link.springer.com/journal/585
-Annales Henri PoincarÃ©;1424-0637;1424-0661;23;http://link.springer.com/journal/23
+Annales Henri Poincaré;1424-0637;1424-0661;23;http://link.springer.com/journal/23
+Annales mathématiques du Québec;2195-4755;2195-4763;40316;http://link.springer.com/journal/40316
 ANNALI DELL'UNIVERSITA' DI FERRARA;0430-3202;1827-1510;11565;http://link.springer.com/journal/11565
 Annali di Matematica Pura ed Applicata;0373-3114;1618-1891;10231;http://link.springer.com/journal/10231
 Annals of Behavioral Medicine;0883-6612;1532-4796;12160;http://link.springer.com/journal/12160
@@ -129,13 +135,14 @@ Annals of Intensive Care;;2110-5820;13613;http://link.springer.com/journal/13613
 Annals of Mathematics and Artificial Intelligence;1012-2443;1573-7470;10472;http://link.springer.com/journal/10472
 Annals of Microbiology;1590-4261;1869-2044;13213;http://link.springer.com/journal/13213
 Annals of Nuclear Medicine;0914-7187;1864-6433;12149;http://link.springer.com/journal/12149
+Annals of Occupational and Environmental Medicine;;2052-4374;40557;http://link.springer.com/journal/40557
 Annals of Operations Research;0254-5330;1572-9338;10479;http://link.springer.com/journal/10479
 Annals of Ophthalmology;1530-4086;1558-9951;12009;http://link.springer.com/journal/12009
 Annals of Software Engineering;1022-7091;1573-7489;10480;http://link.springer.com/journal/10480
 Annals of Solid and Structural Mechanics;1867-6936;1867-6944;12356;http://link.springer.com/journal/12356
 Annals of Surgical Innovation and Research;;1750-1164;13022;http://link.springer.com/journal/13022
 Annals of Surgical Oncology;1068-9265;1534-4681;10434;http://link.springer.com/journal/10434
-annals of telecommunications - annales des tÃ©lÃ©communications;0003-4347;1958-9395;12243;http://link.springer.com/journal/12243
+annals of telecommunications - annales des télécommunications;0003-4347;1958-9395;12243;http://link.springer.com/journal/12243
 Annals of the Institute of Statistical Mathematics;0020-3157;1572-9052;10463;http://link.springer.com/journal/10463
 Annals of Vascular Surgery;0890-5096;1615-5947;10016;http://link.springer.com/journal/10016
 Antimicrobial Resistance and Infection Control;;2047-2994;13756;http://link.springer.com/journal/13756
@@ -155,7 +162,7 @@ Applied Geophysics;1672-7975;1993-0658;11770;http://link.springer.com/journal/11
 Applied Health Economics and Health Policy;1175-5652;1179-1896;40258;http://link.springer.com/journal/40258
 Applied Intelligence;0924-669X;1573-7497;10489;http://link.springer.com/journal/10489
 Applied Magnetic Resonance;0937-9347;1613-7507;723;http://link.springer.com/journal/723
-"Applied Mathematics &amp; Optimization";0095-4616;1432-0606;245;http://link.springer.com/journal/245
+Applied Mathematics & Optimization;0095-4616;1432-0606;245;http://link.springer.com/journal/245
 Applied Mathematics and Mechanics;0253-4827;1573-2754;10483;http://link.springer.com/journal/10483
 Applied Mathematics-A Journal of Chinese Universities;1005-1031;1993-0445;11766;http://link.springer.com/journal/11766
 Applied Microbiology and Biotechnology;0175-7598;1432-0614;253;http://link.springer.com/journal/253
@@ -182,7 +189,6 @@ Archaeological and Anthropological Sciences;1866-9557;1866-9565;12520;http://lin
 Archaeologies;1555-8622;1935-3987;11759;http://link.springer.com/journal/11759
 Archaeology, Ethnology and Anthropology of Eurasia;1563-0110;1531-832X;11473;http://link.springer.com/journal/11473
 Archiv der Mathematik;0003-889X;1420-8938;13;http://link.springer.com/journal/13
-Archiv fÃ¼r mikroskopische Anatomie;0176-7364;;12361;http://link.springer.com/journal/12361
 Archival Science;1389-0166;1573-7519;10502;http://link.springer.com/journal/10502
 Archive for History of Exact Sciences;0003-9519;1432-0657;407;http://link.springer.com/journal/407
 Archive for Mathematical Logic;0933-5846;1432-0665;153;http://link.springer.com/journal/153
@@ -205,11 +211,11 @@ Archives of Virology;0304-8608;1432-8798;705;http://link.springer.com/journal/70
 Archives of Women's Mental Health;1434-1816;1435-1102;737;http://link.springer.com/journal/737
 Archivio di Ortopedia e Reumatologia;0390-7368;1592-7113;10261;http://link.springer.com/journal/10261
 Archivum Immunologiae et Therapiae Experimentalis;0004-069X;1661-4917;5;http://link.springer.com/journal/5
-"ArgoSpine News &amp; Journal";1957-7729;1957-7737;12240;http://link.springer.com/journal/12240
+ArgoSpine News & Journal;1957-7729;1957-7737;12240;http://link.springer.com/journal/12240
 Argumentation;0920-427X;1572-8374;10503;http://link.springer.com/journal/10503
 Arid Ecosystems;2079-0961;2079-0988;13330;http://link.springer.com/journal/13330
-Arkiv fÃ¶r Matematik;0004-2080;1871-2487;11512;http://link.springer.com/journal/11512
-"Arthritis Research &amp; Therapy";;1478-6354;13075;http://link.springer.com/journal/13075
+Arkiv för Matematik;0004-2080;1871-2487;11512;http://link.springer.com/journal/11512
+Arthritis Research & Therapy;;1478-6354;13075;http://link.springer.com/journal/13075
 Arthropod-Plant Interactions;1872-8855;1872-8847;11829;http://link.springer.com/journal/11829
 Arthroskopie;0933-7946;1434-3924;142;http://link.springer.com/journal/142
 Artificial Intelligence and Law;0924-8463;1572-8382;10506;http://link.springer.com/journal/10506
@@ -223,6 +229,7 @@ Asia-Pacific Financial Markets;1387-2834;1573-6946;10690;http://link.springer.co
 Asia-Pacific Journal of Atmospheric Sciences;1976-7633;1976-7951;13143;http://link.springer.com/journal/13143
 Asian Journal of Business Ethics;2210-6723;2210-6731;13520;http://link.springer.com/journal/13520
 Asian Journal of Criminology;1871-0131;1871-014X;11417;http://link.springer.com/journal/11417
+Asian Journal of Gambling Issues and Public Health;;2195-3007;40405;http://link.springer.com/journal/40405
 AStA Advances in Statistical Analysis;1863-8171;1863-818X;10182;http://link.springer.com/journal/10182
 AStA Wirtschafts- und Sozialstatistisches Archiv;1863-8155;1863-8163;11943;http://link.springer.com/journal/11943
 Astronomy Letters;1063-7737;1562-6873;11443;http://link.springer.com/journal/11443
@@ -233,7 +240,7 @@ Astrophysics and Space Science;0004-640X;1572-946X;10509;http://link.springer.co
 Atlantic Economic Journal;0197-4254;1573-9678;11293;http://link.springer.com/journal/11293
 Atmospheric and Oceanic Optics;1024-8560;2070-0393;12605;http://link.springer.com/journal/12605
 Atomic Energy;1063-4258;1573-8205;10512;http://link.springer.com/journal/10512
-"Attention, Perception, &amp; Psychophysics";1943-3921;1943-393X;13414;http://link.springer.com/journal/13414
+Attention, Perception, & Psychophysics;1943-3921;1943-393X;13414;http://link.springer.com/journal/13414
 ATZ - Automobiltechnische Zeitschrift;0001-2785;2192-8800;35148;http://link.springer.com/journal/35148
 ATZ worldwide;;2192-9076;38311;http://link.springer.com/journal/38311
 ATZagenda;2194-9174;2194-9182;40357;http://link.springer.com/journal/40357
@@ -244,7 +251,7 @@ ATZextra;2195-1454;2195-1462;35778;http://link.springer.com/journal/35778
 ATZextra worldwide;2195-1470;2195-1489;40111;http://link.springer.com/journal/40111
 ATZproduktion;1865-4908;2192-8886;35726;http://link.springer.com/journal/35726
 ATZproduktion worldwide;;2192-9106;38312;http://link.springer.com/journal/38312
-"Australasian Physical &amp; Engineering Sciences in Medicine";0158-9938;1879-5447;13246;http://link.springer.com/journal/13246
+Australasian Physical & Engineering Sciences in Medicine;0158-9938;1879-5447;13246;http://link.springer.com/journal/13246
 Australasian Plant Disease Notes;;1833-928X;13314;http://link.springer.com/journal/13314
 Australasian Plant Pathology;0815-3191;1448-6032;13313;http://link.springer.com/journal/13313
 Auto Tech Review;2250-3390;;40112;http://link.springer.com/journal/40112
@@ -258,16 +265,17 @@ Automotive Agenda;1867-495X;2192-8789;35777;http://link.springer.com/journal/357
 Autonomous Agents and Multi-Agent Systems;1387-2532;1573-7454;10458;http://link.springer.com/journal/10458
 Autonomous Robots;0929-5593;1573-7527;10514;http://link.springer.com/journal/10514
 Axiomathes;1122-1151;1572-8390;10516;http://link.springer.com/journal/10516
+Basic and Clinical Andrology;1166-2654;2051-4190;12610;http://link.springer.com/journal/12610
 Basic Research in Cardiology;0300-8428;1435-1803;395;http://link.springer.com/journal/395
-Baurechtliche BlÃ¤tter;1434-1832;1613-7612;738;http://link.springer.com/journal/738
+Baurechtliche Blätter;1434-1832;1613-7612;738;http://link.springer.com/journal/738
 Behavior Genetics;0001-8244;1573-3297;10519;http://link.springer.com/journal/10519
 Behavior Research Methods;;1554-3528;13428;http://link.springer.com/journal/13428
 Behavioral and Brain Functions;;1744-9081;12993;http://link.springer.com/journal/12993
 Behavioral Ecology and Sociobiology;0340-5443;1432-0762;265;http://link.springer.com/journal/265
-BeitrÃ¤ge zur Algebra und Geometrie / Contributions to Algebra and Geometry;0138-4821;2191-0383;13366;http://link.springer.com/journal/13366
-Berliner Journal fÃ¼r Soziologie;0863-1808;1862-2593;11609;http://link.springer.com/journal/11609
+Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry;0138-4821;2191-0383;13366;http://link.springer.com/journal/13366
+Berliner Journal für Soziologie;0863-1808;1862-2593;11609;http://link.springer.com/journal/11609
 best practice onkologie;0946-4565;1862-8559;11654;http://link.springer.com/journal/11654
-BHM Berg- und HÃ¼ttenmÃ¤nnische Monatshefte;0005-8912;1613-7531;501;http://link.springer.com/journal/501
+BHM Berg- und Hüttenmännische Monatshefte;0005-8912;1613-7531;501;http://link.springer.com/journal/501
 Bijblijven;0168-9428;1876-4916;12414;http://link.springer.com/journal/12414
 Bijzijn;1871-7268;1876-4924;12415;http://link.springer.com/journal/12415
 Bijzijn XL;2211-6524;2213-4565;12632;http://link.springer.com/journal/12632
@@ -295,13 +303,14 @@ Biological Procedures Online;1480-9222;1480-9222;12575;http://link.springer.com/
 Biological Theory;1555-5542;1555-5550;13752;http://link.springer.com/journal/13752
 Biological Trace Element Research;0163-4984;1559-0720;12011;http://link.springer.com/journal/12011
 Biologics in Therapy;2195-5840;2190-9164;13554;http://link.springer.com/journal/13554
-"Biology &amp; Philosophy";0169-3867;1572-8404;10539;http://link.springer.com/journal/10539
+Biology & Philosophy;0169-3867;1572-8404;10539;http://link.springer.com/journal/10539
 Biology and Fertility of Soils;0178-2762;1432-0789;374;http://link.springer.com/journal/374
 Biology Bulletin;1062-3590;1608-3059;10525;http://link.springer.com/journal/10525
 Biology Bulletin Reviews;2079-0864;2079-0872;13335;http://link.springer.com/journal/13335
 Biology Direct;;1745-6150;13062;http://link.springer.com/journal/13062
-"Biology of Mood &amp; Anxiety Disorders";;2045-5380;13587;http://link.springer.com/journal/13587
+Biology of Mood & Anxiety Disorders;;2045-5380;13587;http://link.springer.com/journal/13587
 Biology of Sex Differences;;2042-6410;13293;http://link.springer.com/journal/13293
+Biomarker Research;;2050-7771;40364;http://link.springer.com/journal/40364
 Biomass Conversion and Biorefinery;2190-6815;2190-6823;13399;http://link.springer.com/journal/13399
 Biomechanics and Modeling in Mechanobiology;1617-7959;1617-7940;10237;http://link.springer.com/journal/10237
 Biomedical Engineering;0006-3398;1573-8256;10527;http://link.springer.com/journal/10527
@@ -325,14 +334,13 @@ Biotechnology Letters;0141-5492;1573-6776;10529;http://link.springer.com/journal
 Biotechnology Techniques;0951-208X;1573-6784;10542;http://link.springer.com/journal/10542
 Biotherapy;0921-299X;1573-8280;10537;http://link.springer.com/journal/10537
 BIT Numerical Mathematics;0006-3835;1572-9125;10543;http://link.springer.com/journal/10543
-BlÃ¤tter der DGVFM;1864-0281;1864-0303;11857;http://link.springer.com/journal/11857
+Blätter der DGVFM;1864-0281;1864-0303;11857;http://link.springer.com/journal/11857
 BMC Anesthesiology;;1471-2253;12871;http://link.springer.com/journal/12871
 BMC Biochemistry;;1471-2091;12858;http://link.springer.com/journal/12858
 BMC Bioinformatics;;1471-2105;12859;http://link.springer.com/journal/12859
 BMC Biology;;1741-7007;12915;http://link.springer.com/journal/12915
 BMC Biophysics;;2046-1682;13628;http://link.springer.com/journal/13628
 BMC Biotechnology;;1472-6750;12896;http://link.springer.com/journal/12896
-BMC Blood Disorders;;1471-2326;12878;http://link.springer.com/journal/12878
 BMC Cancer;;1471-2407;12885;http://link.springer.com/journal/12885
 BMC Cardiovascular Disorders;;1471-2261;12872;http://link.springer.com/journal/12872
 BMC Cell Biology;;1471-2121;12860;http://link.springer.com/journal/12860
@@ -353,6 +361,7 @@ BMC Genetics;;1471-2156;12863;http://link.springer.com/journal/12863
 BMC Genomics;;1471-2164;12864;http://link.springer.com/journal/12864
 BMC Geriatrics;;1471-2318;12877;http://link.springer.com/journal/12877
 BMC Health Services Research;;1472-6963;12913;http://link.springer.com/journal/12913
+BMC Hematology;;2052-1839;12878;http://link.springer.com/journal/12878
 BMC Immunology;;1471-2172;12865;http://link.springer.com/journal/12865
 BMC Infectious Diseases;;1471-2334;12879;http://link.springer.com/journal/12879
 BMC International Health and Human Rights;;1472-698X;12914;http://link.springer.com/journal/12914
@@ -383,15 +392,18 @@ BMC Plant Biology;;1471-2229;12870;http://link.springer.com/journal/12870
 BMC Pregnancy and Childbirth;;1471-2393;12884;http://link.springer.com/journal/12884
 BMC Proceedings;;1753-6561;12919;http://link.springer.com/journal/12919
 BMC Psychiatry;;1471-244X;12888;http://link.springer.com/journal/12888
+BMC Psychology;;2050-7283;40359;http://link.springer.com/journal/40359
 BMC Public Health;;1471-2458;12889;http://link.springer.com/journal/12889
 BMC Pulmonary Medicine;;1471-2466;12890;http://link.springer.com/journal/12890
 BMC Research Notes;;1756-0500;13104;http://link.springer.com/journal/13104
+BMC Sports Science, Medicine and Rehabilitation;;2052-1847;13102;http://link.springer.com/journal/13102
 BMC Structural Biology;;1472-6807;12900;http://link.springer.com/journal/12900
 BMC Surgery;;1471-2482;12893;http://link.springer.com/journal/12893
 BMC Systems Biology;;1752-0509;12918;http://link.springer.com/journal/12918
 BMC Urology;;1471-2490;12894;http://link.springer.com/journal/12894
 BMC Veterinary Research;;1746-6148;12917;http://link.springer.com/journal/12917
 BMC Women's Health;;1472-6874;12905;http://link.springer.com/journal/12905
+Botanical Studies;;1999-3110;40529;http://link.springer.com/journal/40529
 Boundary Value Problems;;1687-2770;13661;http://link.springer.com/journal/13661
 Boundary-Layer Meteorology;0006-8314;1573-1472;10546;http://link.springer.com/journal/10546
 Brain and Mind;1389-1987;1573-3300;10547;http://link.springer.com/journal/10547
@@ -400,6 +412,7 @@ Brain Imaging and Behavior;1931-7557;1931-7565;11682;http://link.springer.com/jo
 Brain Structure and Function;1863-2653;1863-2661;429;http://link.springer.com/journal/429
 Brain Topography;0896-0267;1573-6792;10548;http://link.springer.com/journal/10548
 Brain Tumor Pathology;1433-7398;1861-387X;10014;http://link.springer.com/journal/10014
+Brazilian Journal of Botany;0100-8404;1806-9959;40415;http://link.springer.com/journal/40415
 Brazilian Journal of Physics;0103-9733;1678-4448;13538;http://link.springer.com/journal/13538
 Breast Cancer;1340-6868;1880-4233;12282;http://link.springer.com/journal/12282
 Breast Cancer Research;;1465-5411;13058;http://link.springer.com/journal/13058
@@ -407,8 +420,8 @@ Breast Cancer Research and Treatment;0167-6806;1573-7217;10549;http://link.sprin
 Brittonia;0007-196X;1938-436X;12228;http://link.springer.com/journal/12228
 BT Technology Journal;1358-3948;1573-1995;10550;http://link.springer.com/journal/10550
 Building Simulation;1996-3599;1996-8744;12273;http://link.springer.com/journal/12273
-Bulletin de la SociÃ©tÃ© de pathologie exotique;0037-9085;1961-9049;13149;http://link.springer.com/journal/13149
-Bulletin gÃ©odÃ©sique;0007-4632;1432-1394;12357;http://link.springer.com/journal/12357
+Bulletin de la Société de pathologie exotique;0037-9085;1961-9049;13149;http://link.springer.com/journal/13149
+Bulletin géodésique;0007-4632;1432-1394;12357;http://link.springer.com/journal/12357
 Bulletin of Earthquake Engineering;1570-761X;1573-1456;10518;http://link.springer.com/journal/10518
 Bulletin of Engineering Geology and the Environment;1435-9529;1435-9537;10064;http://link.springer.com/journal/10064
 Bulletin of Environmental Contamination and Toxicology;0007-4861;1432-0800;128;http://link.springer.com/journal/128
@@ -423,17 +436,18 @@ Bulletin of the Russian Academy of Sciences: Physics;1062-8738;1934-9432;11954;h
 Bulletin of Volcanology;0258-8900;1432-0819;445;http://link.springer.com/journal/445
 Bulletin on General Relativity and Gravitation;;1662-5390;12366;http://link.springer.com/journal/12366
 Bulletin volcanologique;0366-483X;1432-0819;12362;http://link.springer.com/journal/12362
-Bulletins et mÃ©moires de la SociÃ©tÃ© d'anthropologie de Paris;0037-8984;1777-5469;13219;http://link.springer.com/journal/13219
+Bulletins et mémoires de la Société d'anthropologie de Paris;0037-8984;1777-5469;13219;http://link.springer.com/journal/13219
 Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz;1436-9990;1437-1588;103;http://link.springer.com/journal/103
-"Business &amp; Information Systems Engineering";;1867-0202;12599;http://link.springer.com/journal/12599
+Business & Information Systems Engineering;;1867-0202;12599;http://link.springer.com/journal/12599
 Business Economics;;0007-666X;11369;http://link.springer.com/journal/11369
 Calcified Tissue International;0171-967X;1432-0827;223;http://link.springer.com/journal/223
 Calcolo;0008-0624;1126-5434;10092;http://link.springer.com/journal/10092
 Calculus of Variations and Partial Differential Equations;0944-2669;1432-0835;526;http://link.springer.com/journal/526
 CallCenter INTERNATIONAL;1865-9381;;35714;http://link.springer.com/journal/35714
-Canadian Journal of Anesthesia/Journal canadien d'anesthÃ©sie;0832-610X;1496-8975;12630;http://link.springer.com/journal/12630
+Canadian Journal of Anesthesia/Journal canadien d'anesthésie;0832-610X;1496-8975;12630;http://link.springer.com/journal/12630
+Cancer & Metabolism;;2049-3002;40170;http://link.springer.com/journal/40170
 Cancer and Metastasis Reviews;0167-7659;1573-7233;10555;http://link.springer.com/journal/10555
-"Cancer Causes &amp; Control";0957-5243;1573-7225;10552;http://link.springer.com/journal/10552
+Cancer Causes & Control;0957-5243;1573-7225;10552;http://link.springer.com/journal/10552
 Cancer Cell International;;1475-2867;12935;http://link.springer.com/journal/12935
 Cancer Chemotherapy and Pharmacology;0344-5704;1432-0843;280;http://link.springer.com/journal/280
 Cancer Immunology, Immunotherapy;0340-7004;1432-0851;262;http://link.springer.com/journal/262
@@ -459,7 +473,7 @@ CATTECH;1384-6566;1572-8811;10564;http://link.springer.com/journal/10564
 CEAS Aeronautical Journal;1869-5582;1869-5590;13272;http://link.springer.com/journal/13272
 CEAS Space Journal;1868-2502;1868-2510;12567;http://link.springer.com/journal/12567
 Celestial Mechanics and Dynamical Astronomy;0923-2958;1572-9478;10569;http://link.springer.com/journal/10569
-"Cell &amp; Bioscience";;2045-3701;13578;http://link.springer.com/journal/13578
+Cell & Bioscience;;2045-3701;13578;http://link.springer.com/journal/13578
 Cell and Tissue Banking;1389-9333;1573-6814;10561;http://link.springer.com/journal/10561
 Cell and Tissue Biology;1990-519X;1990-5203;11821;http://link.springer.com/journal/11821
 Cell and Tissue Research;0302-766X;1432-0878;441;http://link.springer.com/journal/441
@@ -469,7 +483,7 @@ Cell Communication and Signaling;;1478-811X;12964;http://link.springer.com/journ
 Cell Division;;1747-1028;13008;http://link.springer.com/journal/13008
 Cell Regeneration;;2045-9769;13619;http://link.springer.com/journal/13619
 Cell Stress and Chaperones;1355-8145;1466-1268;12192;http://link.springer.com/journal/12192
-"Cellular &amp; Molecular Biology Letters";1425-8153;1689-1392;11658;http://link.springer.com/journal/11658
+Cellular & Molecular Biology Letters;1425-8153;1689-1392;11658;http://link.springer.com/journal/11658
 Cellular and Molecular Bioengineering;1865-5025;1865-5033;12195;http://link.springer.com/journal/12195
 Cellular and Molecular Life Sciences;1420-682X;1420-9071;18;http://link.springer.com/journal/18
 Cellular and Molecular Neurobiology;0272-4340;1573-6830;10571;http://link.springer.com/journal/10571
@@ -496,11 +510,11 @@ Chemistry of Natural Compounds;0009-3130;1573-8388;10600;http://link.springer.co
 Chemoecology;0937-7409;1423-0445;49;http://link.springer.com/journal/49
 Chemosensory Perception;1936-5802;1936-5810;12078;http://link.springer.com/journal/12078
 Chesapeake Science;0009-3262;;12395;http://link.springer.com/journal/12395
-"Child &amp; Youth Care Forum";1053-1890;1573-3319;10566;http://link.springer.com/journal/10566
+Child & Youth Care Forum;1053-1890;1573-3319;10566;http://link.springer.com/journal/10566
 Child and Adolescent Psychiatry and Mental Health;;1753-2000;13034;http://link.springer.com/journal/13034
 Child and Adolescent Social Work Journal;0738-0151;1573-2797;10560;http://link.springer.com/journal/10560
 Child Indicators Research;1874-897X;1874-8988;12187;http://link.springer.com/journal/12187
-"Child Psychiatry &amp; Human Development";0009-398X;1573-3327;10578;http://link.springer.com/journal/10578
+Child Psychiatry & Human Development;0009-398X;1573-3327;10578;http://link.springer.com/journal/10578
 Child's Nervous System;0256-7040;1433-0350;381;http://link.springer.com/journal/381
 Children's Literature in Education;0045-6713;1573-1693;10583;http://link.springer.com/journal/10583
 China Ocean Engineering;0890-5487;2191-8945;13344;http://link.springer.com/journal/13344
@@ -510,12 +524,12 @@ Chinese Geographical Science;1002-0063;1993-064X;11769;http://link.springer.com/
 Chinese Journal of Cancer Research;1000-9604;1993-0631;11670;http://link.springer.com/journal/11670
 Chinese Journal of Geochemistry;1000-9426;1993-0364;11631;http://link.springer.com/journal/11631
 Chinese Journal of Integrative Medicine;1672-0415;1993-0402;11655;http://link.springer.com/journal/11655
-Chinese Journal of Mechanical Engineering;1000-9345;;10033;http://link.springer.com/journal/10033
+Chinese Journal of Mechanical Engineering;1000-9345;2192-8258;10033;http://link.springer.com/journal/10033
 Chinese Journal of Oceanology and Limnology;0254-4059;1993-5005;343;http://link.springer.com/journal/343
 Chinese Journal of Polymer Science;0256-7679;1439-6203;10118;http://link.springer.com/journal/10118
 Chinese Medicine;;1749-8546;13020;http://link.springer.com/journal/13020
 Chinese Science Bulletin;1001-6538;1861-9541;11434;http://link.springer.com/journal/11434
-"Chiropractic &amp; Manual Therapies";;2045-709X;12998;http://link.springer.com/journal/12998
+Chiropractic & Manual Therapies;;2045-709X;12998;http://link.springer.com/journal/12998
 Chromatographia;0009-5893;1612-1112;10337;http://link.springer.com/journal/10337
 Chromosoma;0009-5915;1432-0886;412;http://link.springer.com/journal/412
 Chromosome Research;0967-3849;1573-6849;10577;http://link.springer.com/journal/10577
@@ -524,11 +538,12 @@ Circuits, Systems, and Signal Processing;0278-081X;1531-5878;34;http://link.spri
 Clean Technologies and Environmental Policy;1618-954X;1618-9558;10098;http://link.springer.com/journal/10098
 Climate Dynamics;0930-7575;1432-0894;382;http://link.springer.com/journal/382
 Climatic Change;0165-0009;1573-1480;10584;http://link.springer.com/journal/10584
-"Clinical &amp; Experimental Metastasis";0262-0898;1573-7276;10585;http://link.springer.com/journal/10585
+Clinical & Experimental Metastasis;0262-0898;1573-7276;10585;http://link.springer.com/journal/10585
 Clinical and Experimental Medicine;1591-8890;1591-9528;10238;http://link.springer.com/journal/10238
 Clinical and Experimental Nephrology;1342-1751;1437-7799;10157;http://link.springer.com/journal/10157
 Clinical and Molecular Allergy;;1476-7961;12948;http://link.springer.com/journal/12948
 Clinical and Translational Allergy;;2045-7022;13601;http://link.springer.com/journal/13601
+Clinical and Translational Imaging;2281-5872;2281-7565;40336;http://link.springer.com/journal/40336
 Clinical and Translational Medicine;;2001-1326;40169;http://link.springer.com/journal/40169
 Clinical and Translational Oncology;1699-048X;1699-3055;12094;http://link.springer.com/journal/12094
 Clinical Autonomic Research;0959-9851;1619-1560;10286;http://link.springer.com/journal/10286
@@ -539,12 +554,12 @@ Clinical Journal of Gastroenterology;1865-7257;1865-7265;12328;http://link.sprin
 Clinical Neuroradiology;1869-1439;1869-1447;62;http://link.springer.com/journal/62
 Clinical Oncology and Cancer Research;1674-5361;1868-324X;11805;http://link.springer.com/journal/11805
 Clinical Oral Investigations;1432-6981;1436-3771;784;http://link.springer.com/journal/784
-Clinical Orthopaedics and Related ResearchÂ®;0009-921X;1528-1132;11999;http://link.springer.com/journal/11999
+Clinical Orthopaedics and Related Research®;0009-921X;1528-1132;11999;http://link.springer.com/journal/11999
 Clinical Pharmacokinetics;0312-5963;1179-1926;40262;http://link.springer.com/journal/40262
 Clinical Proteomics;1542-6416;1559-0275;12014;http://link.springer.com/journal/12014
 Clinical Research in Cardiology;1861-0684;1861-0692;392;http://link.springer.com/journal/392
 Clinical Research in Cardiology Supplements;1861-0706;1861-0714;11789;http://link.springer.com/journal/11789
-"Clinical Reviews in Allergy &amp; Immunology";1080-0549;1559-0267;12016;http://link.springer.com/journal/12016
+Clinical Reviews in Allergy & Immunology;1080-0549;1559-0267;12016;http://link.springer.com/journal/12016
 Clinical Reviews in Bone and Mineral Metabolism;1534-8644;1559-0119;12018;http://link.springer.com/journal/12018
 Clinical Rheumatology;0770-3198;1434-9949;10067;http://link.springer.com/journal/10067
 Clinical Sarcoma Research;;2045-3329;13569;http://link.springer.com/journal/13569
@@ -552,29 +567,33 @@ Clinical Social Work Journal;0091-1674;1573-3343;10615;http://link.springer.com/
 Cliometrica;1863-2505;1863-2513;11698;http://link.springer.com/journal/11698
 Cluster Computing;1386-7857;1573-7543;10586;http://link.springer.com/journal/10586
 CNS Drugs;1172-7047;1179-1934;40263;http://link.springer.com/journal/40263
-"Cognition, Technology &amp; Work";1435-5558;1435-5566;10111;http://link.springer.com/journal/10111
+Cognition, Technology & Work;1435-5558;1435-5566;10111;http://link.springer.com/journal/10111
 Cognitive Computation;1866-9956;1866-9964;12559;http://link.springer.com/journal/12559
 Cognitive Neurodynamics;1871-4080;1871-4099;11571;http://link.springer.com/journal/11571
 Cognitive Processing;1612-4782;1612-4790;10339;http://link.springer.com/journal/10339
 Cognitive Therapy and Research;0147-5916;1573-2819;10608;http://link.springer.com/journal/10608
-"Cognitive, Affective, &amp; Behavioral Neuroscience";1530-7026;1531-135X;13415;http://link.springer.com/journal/13415
+Cognitive, Affective, & Behavioral Neuroscience;1530-7026;1531-135X;13415;http://link.springer.com/journal/13415
 Coke and Chemistry;1068-364X;1934-8398;11955;http://link.springer.com/journal/11955
 Collectanea Mathematica;0010-0757;2038-4815;13348;http://link.springer.com/journal/13348
 Colloid and Polymer Science;0303-402X;1435-1536;396;http://link.springer.com/journal/396
 Colloid Journal;1061-933X;1608-3067;10595;http://link.springer.com/journal/10595
+Côlon & Rectum;1951-6371;1951-638X;11725;http://link.springer.com/journal/11725
 coloproctology;0174-2442;1615-6730;53;http://link.springer.com/journal/53
-Combination Products in Therapy;;2190-9180;13556;http://link.springer.com/journal/13556
+Combination Products in Therapy;2195-5859;2190-9180;13556;http://link.springer.com/journal/13556
 Combinatorica;0209-9683;1439-6912;493;http://link.springer.com/journal/493
 Combustion, Explosion, and Shock Waves;0010-5082;1573-8345;10573;http://link.springer.com/journal/10573
 Commentarii Mathematici Helvetici;0010-2571;1420-8946;14;http://link.springer.com/journal/14
 Communications in Mathematical Physics;0010-3616;1432-0916;220;http://link.springer.com/journal/220
+Communications in Mathematics and Statistics;2194-6701;2194-671X;40304;http://link.springer.com/journal/40304
 Communications in Mobile Computing;;2192-1121;13678;http://link.springer.com/journal/13678
 Community Mental Health Journal;0010-3853;1573-2789;10597;http://link.springer.com/journal/10597
 Comparative Clinical Pathology;1618-5641;1618-565X;580;http://link.springer.com/journal/580
 Comparative Hepatology;;1476-5926;12946;http://link.springer.com/journal/12946
+Complex Adaptive Systems Modeling;;2194-3206;40294;http://link.springer.com/journal/40294
 Complex Analysis and Operator Theory;1661-8254;1661-8262;11785;http://link.springer.com/journal/11785
 Compositio Mathematica;0010-437X;1570-5846;10599;http://link.springer.com/journal/10599
 Comprehensive Therapy;0098-8243;1559-1190;12019;http://link.springer.com/journal/12019
+Computational and Applied Mathematics;0101-8205;1807-0302;40314;http://link.springer.com/journal/40314
 Computational and Mathematical Organization Theory;1381-298X;1572-9346;10588;http://link.springer.com/journal/10588
 computational complexity;1016-3328;1420-8954;37;http://link.springer.com/journal/37
 Computational Economics;0927-7099;1572-9974;10614;http://link.springer.com/journal/10614
@@ -603,7 +622,7 @@ Contemporary Problems of Ecology;1995-4255;1995-4263;12259;http://link.springer.
 Continental Philosophy Review;1387-2842;1573-1103;11007;http://link.springer.com/journal/11007
 Continuum Mechanics and Thermodynamics;0935-1175;1432-0959;161;http://link.springer.com/journal/161
 Contributions to Mineralogy and Petrology;0010-7999;1432-0967;410;http://link.springer.com/journal/410
-"Controlling &amp; Management";1614-1822;1864-5410;12176;http://link.springer.com/journal/12176
+Controlling & Management Review;2195-8262;2195-8270;12176;http://link.springer.com/journal/12176
 Coral Reefs;0722-4028;1432-0975;338;http://link.springer.com/journal/338
 Cosmic Research;0010-9525;1608-3075;10604;http://link.springer.com/journal/10604
 Cost Effectiveness and Resource Allocation;;1478-7547;12962;http://link.springer.com/journal/12962
@@ -612,14 +631,15 @@ Crime Science;;2193-7680;40163;http://link.springer.com/journal/40163
 Crime, Law and Social Change;0925-4994;1573-0751;10611;http://link.springer.com/journal/10611
 Criminal Law and Philosophy;1871-9791;1871-9805;11572;http://link.springer.com/journal/11572
 Criminal Law Forum;1046-8374;1572-9850;10609;http://link.springer.com/journal/10609
-Critical Care;1574-4280;1875-7081;12426;http://link.springer.com/journal/12426
 Critical Care;;1364-8535;13054;http://link.springer.com/journal/13054
+Critical Care;1574-4280;1875-7081;12426;http://link.springer.com/journal/12426
 Critical Criminology;1205-8629;1572-9877;10612;http://link.springer.com/journal/10612
 Critical Ultrasound Journal;2036-3176;2036-7902;13089;http://link.springer.com/journal/13089
 Cryptography and Communications;1936-2447;1936-2455;12095;http://link.springer.com/journal/12095
 Crystallography Reports;1063-7745;1562-689X;11445;http://link.springer.com/journal/11445
 CSI Transactions on ICT;2277-9078;2277-9086;40012;http://link.springer.com/journal/40012
 Cultural Studies of Science Education;1871-1502;1871-1510;11422;http://link.springer.com/journal/11422
+Culture and Brain;2193-8652;2193-8660;40167;http://link.springer.com/journal/40167
 Culture, Medicine, and Psychiatry;0165-005X;1573-076X;11013;http://link.springer.com/journal/11013
 Current Allergy and Asthma Reports;1529-7322;1534-6315;11882;http://link.springer.com/journal/11882
 Current Anesthesiology Reports;;2167-6275;40140;http://link.springer.com/journal/40140
@@ -641,7 +661,7 @@ Current Genetics;0172-8083;1432-0983;294;http://link.springer.com/journal/294
 Current GERD Reports;1934-967X;1934-9661;12171;http://link.springer.com/journal/12171
 Current Heart Failure Reports;1546-9530;1546-9549;11897;http://link.springer.com/journal/11897
 Current Hematologic Malignancy Reports;1558-8211;1558-822X;11899;http://link.springer.com/journal/11899
-Current Hepatology Reports;1540-3416;1541-0706;11901;http://link.springer.com/journal/11901
+Current Hepatitis Reports;1540-3416;1541-0706;11901;http://link.springer.com/journal/11901
 Current HIV/AIDS Reports;1548-3568;1548-3576;11904;http://link.springer.com/journal/11904
 Current Hypertension Reports;1522-6417;1534-3111;11906;http://link.springer.com/journal/11906
 Current Infectious Disease Reports;1523-3847;1534-3146;11908;http://link.springer.com/journal/11908
@@ -658,11 +678,11 @@ Current Pain and Headache Reports;1531-3433;1534-3081;11916;http://link.springer
 Current Pathobiology Reports;;2167-485X;40139;http://link.springer.com/journal/40139
 Current Pediatrics Reports;;2167-4841;40124;http://link.springer.com/journal/40124
 Current Physical Medicine and Rehabilitation Reports;;2167-4833;40141;http://link.springer.com/journal/40141
-Current Prostate Reports;1544-225X;1544-1865;11918;http://link.springer.com/journal/11918
+Current Prostate Reports;1544-1865;1544-225X;11918;http://link.springer.com/journal/11918
 Current Psychiatry Reports;1523-3812;1535-1645;11920;http://link.springer.com/journal/11920
 Current Psychological Research;0144-3895;1936-4733;12391;http://link.springer.com/journal/12391
 Current Psychology;1046-1310;1936-4733;12144;http://link.springer.com/journal/12144
-"Current Psychosis &amp; Therapeutics Reports";1545-8083;1545-8091;11922;http://link.springer.com/journal/11922
+Current Psychosis & Therapeutics Reports;1545-8083;1545-8091;11922;http://link.springer.com/journal/11922
 Current Radiology Reports;;2167-4825;40134;http://link.springer.com/journal/40134
 Current Respiratory Care Reports;;2161-332X;13665;http://link.springer.com/journal/13665
 Current Reviews in Musculoskeletal Medicine;1935-973X;1935-9748;12178;http://link.springer.com/journal/12178
@@ -670,7 +690,7 @@ Current Rheumatology Reports;1523-3774;1534-6307;11926;http://link.springer.com/
 Current Sexual Health Reports;1548-3584;1548-3592;11930;http://link.springer.com/journal/11930
 Current Sports Medicine Reports;1537-890X;1537-8918;11932;http://link.springer.com/journal/11932
 Current Surgery Reports;;2167-4817;40137;http://link.springer.com/journal/40137
-Current Translational Geriatrics and Gerontology Reports;;2162-4941;13670;http://link.springer.com/journal/13670
+Current Translational Geriatrics and Experimental Gerontology Reports;;2162-4941;13670;http://link.springer.com/journal/13670
 Current Treatment Options in Cardiovascular Medicine;1092-8464;1534-3189;11936;http://link.springer.com/journal/11936
 Current Treatment Options in Gastroenterology;1092-8472;1534-309X;11938;http://link.springer.com/journal/11938
 Current Treatment Options in Neurology;1092-8480;1534-3138;11940;http://link.springer.com/journal/11940
@@ -681,8 +701,7 @@ Cytology and Genetics;0095-4527;1934-9440;11956;http://link.springer.com/journal
 Cytotechnology;0920-9069;1573-0778;10616;http://link.springer.com/journal/10616
 Czechoslovak Journal of Physics;0011-4626;1572-9486;10582;http://link.springer.com/journal/10582
 Czechoslovak Mathematical Journal;0011-4642;1572-9141;10587;http://link.springer.com/journal/10587
-"CÃ´lon &amp; Rectum";1951-6371;1951-638X;11725;http://link.springer.com/journal/11725
-"Dairy Science &amp; Technology";1958-5586;1958-5594;13594;http://link.springer.com/journal/13594
+Dairy Science & Technology;1958-5586;1958-5594;13594;http://link.springer.com/journal/13594
 Dao;1540-3009;1569-7274;11712;http://link.springer.com/journal/11712
 DARU Journal of Pharmaceutical Sciences;;2008-2231;40199;http://link.springer.com/journal/40199
 Data Mining and Knowledge Discovery;1384-5810;1573-756X;10618;http://link.springer.com/journal/10618
@@ -698,7 +717,7 @@ Der Chirurg;0009-4722;1433-0385;104;http://link.springer.com/journal/104
 Der Diabetologe;1860-9716;1860-9724;11428;http://link.springer.com/journal/11428
 Der Freie Zahnarzt;0340-1766;2190-3824;12614;http://link.springer.com/journal/12614
 Der Gastroenterologe;1861-9681;1861-969X;11377;http://link.springer.com/journal/11377
-Der GynÃ¤kologe;0017-5994;1433-0393;129;http://link.springer.com/journal/129
+Der Gynäkologe;0017-5994;1433-0393;129;http://link.springer.com/journal/129
 Der Hautarzt;0017-8470;1432-1173;105;http://link.springer.com/journal/105
 Der Internist;0020-9554;1432-1289;108;http://link.springer.com/journal/108
 der junge zahnarzt;1869-5744;1869-5752;13279;http://link.springer.com/journal/13279
@@ -709,7 +728,7 @@ Der Nephrologe;1862-040X;1862-0418;11560;http://link.springer.com/journal/11560
 Der Nervenarzt;0028-2804;1433-0407;115;http://link.springer.com/journal/115
 Der Onkologe;0947-8965;1433-0415;761;http://link.springer.com/journal/761
 Der Ophthalmologe;0941-293X;1433-0423;347;http://link.springer.com/journal/347
-Der OrthopÃ¤de;0085-4530;1433-0431;132;http://link.springer.com/journal/132
+Der Orthopäde;0085-4530;1433-0431;132;http://link.springer.com/journal/132
 Der Pathologe;0172-8113;1432-1963;292;http://link.springer.com/journal/292
 Der Pneumologe;1613-5636;1613-6055;10405;http://link.springer.com/journal/10405
 Der Radiologe;0033-832X;1432-2102;117;http://link.springer.com/journal/117
@@ -733,10 +752,10 @@ Differential Equations;0012-2661;1608-3083;10625;http://link.springer.com/journa
 Differential Equations and Dynamical Systems;0971-3514;0974-6870;12591;http://link.springer.com/journal/12591
 Digestive Diseases and Sciences;0163-2116;1573-2568;10620;http://link.springer.com/journal/10620
 Directieve therapie;0167-238X;1875-6824;12433;http://link.springer.com/journal/12433
-"Discrete &amp; Computational Geometry";0179-5376;1432-0444;454;http://link.springer.com/journal/454
+Discrete & Computational Geometry;0179-5376;1432-0444;454;http://link.springer.com/journal/454
 Discrete Event Dynamic Systems;0924-6703;1573-7594;10626;http://link.springer.com/journal/10626
-"Disease Management &amp; Health Outcomes";1173-8790;;40283;http://link.springer.com/journal/40283
-"Diseases of the Colon &amp; Rectum";0012-3706;1530-0358;10350;http://link.springer.com/journal/10350
+Disease Management & Health Outcomes;1173-8790;;40283;http://link.springer.com/journal/40283
+Diseases of the Colon & Rectum;0012-3706;1530-0358;10350;http://link.springer.com/journal/10350
 Distributed and Parallel Databases;0926-8782;1573-7578;10619;http://link.springer.com/journal/10619
 Distributed Computing;0178-2770;1432-0452;446;http://link.springer.com/journal/446
 Documenta Ophthalmologica;0012-4486;1573-2622;10633;http://link.springer.com/journal/10633
@@ -750,18 +769,18 @@ Doklady Earth Sciences;1028-334X;1531-8354;11471;http://link.springer.com/journa
 Doklady Mathematics;1064-5624;1531-8362;11472;http://link.springer.com/journal/11472
 Doklady Physical Chemistry;0012-5016;1608-3121;10634;http://link.springer.com/journal/10634
 Doklady Physics;1028-3358;1562-6903;11446;http://link.springer.com/journal/11446
-Douleur et AnalgÃ©sie;1011-288X;1951-6398;11724;http://link.springer.com/journal/11724
+Douleur et Analgésie;1011-288X;1951-6398;11724;http://link.springer.com/journal/11724
 Dreaming;1053-0797;1573-3351;10636;http://link.springer.com/journal/10636
 Drug Delivery and Translational Research;2190-393X;2190-3948;13346;http://link.springer.com/journal/13346
 Drug Safety;0114-5916;1179-1942;40264;http://link.springer.com/journal/40264
 Drugs;0012-6667;1179-1950;40265;http://link.springer.com/journal/40265
-"Drugs &amp; Aging";1170-229X;1179-1969;40266;http://link.springer.com/journal/40266
-"Drugs &amp; Therapy Perspectives";1172-0360;1179-1977;40267;http://link.springer.com/journal/40267
-"Drugs in R&amp;D";1174-5886;1179-6901;40268;http://link.springer.com/journal/40268
+Drugs & Aging;1170-229X;1179-1969;40266;http://link.springer.com/journal/40266
+Drugs & Therapy Perspectives;1172-0360;1179-1977;40267;http://link.springer.com/journal/40267
+Drugs in R&D;1174-5886;1179-6901;40268;http://link.springer.com/journal/40268
 Dynamic Games and Applications;2153-0785;2153-0793;13235;http://link.springer.com/journal/13235
 Dynamics and Control;0925-4668;1573-8450;10638;http://link.springer.com/journal/10638
 Dysphagia;0179-051X;1432-0460;455;http://link.springer.com/journal/455
-"e &amp; i Elektrotechnik und Informationstechnik";0932-383X;1613-7620;502;http://link.springer.com/journal/502
+e & i Elektrotechnik und Informationstechnik;0932-383X;1613-7620;502;http://link.springer.com/journal/502
 e-Neuroforum;;1868-856X;13295;http://link.springer.com/journal/13295
 Early Childhood Education Journal;1082-3301;1573-1707;10643;http://link.springer.com/journal/10643
 Earth Science Informatics;1865-0473;1865-0481;12145;http://link.springer.com/journal/12145
@@ -770,6 +789,7 @@ Earthquake Engineering and Engineering Vibration;1671-3664;1993-503X;11803;http:
 Earthquake Science;1674-4519;1867-8777;11589;http://link.springer.com/journal/11589
 East Asia;1096-6838;1874-6284;12140;http://link.springer.com/journal/12140
 East Asian Science, Technology and Society: an International Journal;1875-2160;1875-2152;12280;http://link.springer.com/journal/12280
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity;1124-4909;1590-1262;40519;http://link.springer.com/journal/40519
 EcoHealth;1612-9202;1612-9210;10393;http://link.springer.com/journal/10393
 Ecological Processes;;2192-1709;13717;http://link.springer.com/journal/13717
 Ecological Research;0912-3814;1440-1703;11284;http://link.springer.com/journal/11284
@@ -777,6 +797,7 @@ Economic Botany;0013-0001;1874-9364;12231;http://link.springer.com/journal/12231
 Economic Bulletin;0343-754X;1438-261X;10160;http://link.springer.com/journal/10160
 Economic Change and Restructuring;1573-9414;1574-0277;10644;http://link.springer.com/journal/10644
 Economic Theory;0938-2259;1432-0479;199;http://link.springer.com/journal/199
+Economic Theory Bulletin;2196-1085;2196-1093;40505;http://link.springer.com/journal/40505
 Economics of Governance;1435-6104;1435-8131;10101;http://link.springer.com/journal/10101
 Ecosystems;1432-9840;1435-0629;10021;http://link.springer.com/journal/10021
 Ecotoxicology;0963-9292;1573-3017;10646;http://link.springer.com/journal/10646
@@ -797,6 +818,7 @@ Emergency Radiology;1070-3004;1438-1435;10140;http://link.springer.com/journal/1
 Emerging Themes in Epidemiology;;1742-7622;12982;http://link.springer.com/journal/12982
 Empirica;0340-8744;1573-6911;10663;http://link.springer.com/journal/10663
 Empirical Economics;0377-7332;1435-8921;181;http://link.springer.com/journal/181
+Empirical Research in Vocational Education and Training;;1877-6345;40461;http://link.springer.com/journal/40461
 Empirical Software Engineering;1382-3256;1573-7616;10664;http://link.springer.com/journal/10664
 Employee Responsibilities and Rights Journal;0892-7545;1573-3378;10672;http://link.springer.com/journal/10672
 Endocrine;1355-008X;1559-0100;12020;http://link.springer.com/journal/12020
@@ -806,7 +828,7 @@ Energy Systems;1868-3967;1868-3975;12667;http://link.springer.com/journal/12667
 Energy, Sustainability and Society;;2192-0567;13705;http://link.springer.com/journal/13705
 Engineering with Computers;0177-0667;1435-5663;366;http://link.springer.com/journal/366
 Entomological Review;0013-8738;1555-6689;11474;http://link.springer.com/journal/11474
-"Environment Systems &amp; Decisions";2194-5403;2194-5411;10669;http://link.springer.com/journal/10669
+Environment Systems and Decisions;2194-5403;2194-5411;10669;http://link.springer.com/journal/10669
 Environment, Development and Sustainability;1387-585X;1573-2975;10668;http://link.springer.com/journal/10668
 Environmental and Ecological Statistics;1352-8505;1573-3009;10651;http://link.springer.com/journal/10651
 Environmental and Resource Economics;0924-6460;1573-1502;10640;http://link.springer.com/journal/10640
@@ -821,19 +843,20 @@ Environmental Geology;0943-0105;1866-6299;254;http://link.springer.com/journal/2
 Environmental Health;;1476-069X;12940;http://link.springer.com/journal/12940
 Environmental Health and Preventive Medicine;1342-078X;1347-4715;12199;http://link.springer.com/journal/12199
 Environmental Management;0364-152X;1432-1009;267;http://link.springer.com/journal/267
-"Environmental Modeling &amp; Assessment";1420-2026;1573-2967;10666;http://link.springer.com/journal/10666
+Environmental Modeling & Assessment;1420-2026;1573-2967;10666;http://link.springer.com/journal/10666
 Environmental Monitoring and Assessment;0167-6369;1573-2959;10661;http://link.springer.com/journal/10661
 Environmental Science and Pollution Research;0944-1344;1614-7499;11356;http://link.springer.com/journal/11356
 Environmental Sciences Europe;2190-4707;2190-4715;12302;http://link.springer.com/journal/12302
 Environmental Systems Research;;2193-2697;40068;http://link.springer.com/journal/40068
-"Epidemiologic Perspectives &amp; Innovations";;1742-5573;12980;http://link.springer.com/journal/12980
-"Epigenetics &amp; Chromatin";;1756-8935;13072;http://link.springer.com/journal/13072
+Epidemiologic Perspectives & Innovations;;1742-5573;12980;http://link.springer.com/journal/12980
+Epigenetics & Chromatin;;1756-8935;13072;http://link.springer.com/journal/13072
 Epileptic Disorders;1950-6945;1950-6945;13315;http://link.springer.com/journal/13315
 EPJ Data Science;;2193-1127;13688;http://link.springer.com/journal/13688
 EPJ direct;1435-3725;;10105;http://link.springer.com/journal/10105
+EPJ Nonlinear Biomedical Physics;;2195-0008;40366;http://link.springer.com/journal/40366
 ERA Forum;1612-3093;1863-9038;12027;http://link.springer.com/journal/12027
 Erkenntnis;0165-0106;1572-8420;10670;http://link.springer.com/journal/10670
-ErnÃ¤hrung - Wissenschaft und Praxis;1864-3825;1864-3914;12082;http://link.springer.com/journal/12082
+Ernährung - Wissenschaft und Praxis;1864-3825;1864-3914;12082;http://link.springer.com/journal/12082
 Erwerbs-Obstbau;0014-0309;1439-0302;10341;http://link.springer.com/journal/10341
 Erziehungswissenschaft;0938-5363;1862-5231;11611;http://link.springer.com/journal/11611
 Esophagus;1612-9059;1612-9067;10388;http://link.springer.com/journal/10388
@@ -851,13 +874,15 @@ EURASIP Journal on Image and Video Processing;;1687-5281;13640;http://link.sprin
 EURASIP Journal on Information Security;;1687-417X;13635;http://link.springer.com/journal/13635
 EURASIP Journal on Wireless Communications and Networking;;1687-1499;13638;http://link.springer.com/journal/13638
 EURO Journal on Computational Optimization;2192-4406;2192-4414;13675;http://link.springer.com/journal/13675
+EURO Journal on Decision Processes;2193-9438;2193-9446;40070;http://link.springer.com/journal/40070
 EURO Journal on Transportation and Logistics;2192-4376;2192-4384;13676;http://link.springer.com/journal/13676
+Europäisches Journal für Minderheitenfragen;1865-1089;1865-1097;12241;http://link.springer.com/journal/12241
 European Actuarial Journal;2190-9733;2190-9741;13385;http://link.springer.com/journal/13385
 European Archives of Oto-Rhino-Laryngology;0937-4477;1434-4726;405;http://link.springer.com/journal/405
 European Archives of Paediatric Dentistry;1818-6300;1996-9805;40368;http://link.springer.com/journal/40368
 European Archives of Psychiatry and Clinical Neuroscience;0940-1334;1433-8491;406;http://link.springer.com/journal/406
 European Biophysics Journal;0175-7571;1432-1017;249;http://link.springer.com/journal/249
-"European Child &amp; Adolescent Psychiatry";1018-8827;1435-165X;787;http://link.springer.com/journal/787
+European Child & Adolescent Psychiatry;1018-8827;1435-165X;787;http://link.springer.com/journal/787
 European Clinics in Obstetrics and Gynaecology;1613-3412;1613-3420;11296;http://link.springer.com/journal/11296
 European Demographic Information Bulletin;0046-2756;;12365;http://link.springer.com/journal/12365
 European Food Research and Technology;1438-2377;1438-2385;217;http://link.springer.com/journal/217
@@ -865,21 +890,22 @@ European Journal for Education Law and Policy;1386-8349;1573-1715;10650;http://l
 European Journal for Philosophy of Science;1879-4912;1879-4920;13194;http://link.springer.com/journal/13194
 European Journal of Ageing;1613-9372;1613-9380;10433;http://link.springer.com/journal/10433
 European Journal of Applied Physiology;1439-6319;1439-6327;421;http://link.springer.com/journal/421
-"European Journal of Clinical Microbiology &amp; Infectious Diseases";0934-9723;1435-4373;10096;http://link.springer.com/journal/10096
+European Journal of Clinical Microbiology & Infectious Diseases;0934-9723;1435-4373;10096;http://link.springer.com/journal/10096
 European Journal of Clinical Pharmacology;0031-6970;1432-1041;228;http://link.springer.com/journal/228
 European Journal of Drug Metabolism and Pharmacokinetics;0378-7966;2107-0180;13318;http://link.springer.com/journal/13318
 European Journal of Epidemiology;0393-2990;1573-7284;10654;http://link.springer.com/journal/10654
 European Journal of Forest Research;1612-4669;1612-4677;10342;http://link.springer.com/journal/10342
+European Journal of Futures Research;2195-4194;2195-2248;40309;http://link.springer.com/journal/40309
 European Journal of Law and Economics;0929-1261;1572-9990;10657;http://link.springer.com/journal/10657
 European Journal of Medical Research;;2047-783X;40001;http://link.springer.com/journal/40001
 European Journal of Nuclear Medicine and Molecular Imaging;1619-7070;1619-7089;259;http://link.springer.com/journal/259
 European Journal of Nutrition;1436-6207;1436-6215;394;http://link.springer.com/journal/394
-"European Journal of Orthopaedic Surgery &amp; Traumatology";1633-8065;1432-1068;590;http://link.springer.com/journal/590
+European Journal of Orthopaedic Surgery & Traumatology;1633-8065;1432-1068;590;http://link.springer.com/journal/590
 European Journal of Pediatrics;0340-6199;1432-1076;431;http://link.springer.com/journal/431
 European Journal of Plant Pathology;0929-1873;1573-8469;10658;http://link.springer.com/journal/10658
 European Journal of Plastic Surgery;0930-343X;1435-0130;238;http://link.springer.com/journal/238
 European Journal of Political Research;0304-4130;1475-6765;11112;http://link.springer.com/journal/11112
-European Journal of Population / Revue europÃ©enne de DÃ©mographie;0168-6577;1572-9885;10680;http://link.springer.com/journal/10680
+European Journal of Population / Revue européenne de Démographie;0168-6577;1572-9885;10680;http://link.springer.com/journal/10680
 European Journal of Psychology of Education;0256-2928;1878-5174;10212;http://link.springer.com/journal/10212
 European Journal of Trauma and Emergency Surgery;1863-9933;1863-9941;68;http://link.springer.com/journal/68
 European Journal of Wildlife Research;1612-4642;1439-0574;10344;http://link.springer.com/journal/10344
@@ -894,7 +920,6 @@ European Surgery;1682-8631;1682-4016;10353;http://link.springer.com/journal/1035
 European Transport Research Review;1867-0717;1866-8887;12544;http://link.springer.com/journal/12544
 European View;1781-6858;1865-5831;12290;http://link.springer.com/journal/12290
 Europhysics News;0531-7479;1432-1092;770;http://link.springer.com/journal/770
-EuropÃ¤isches Journal fÃ¼r Minderheitenfragen;1865-1089;1865-1097;12241;http://link.springer.com/journal/12241
 Evidence-Based Integrative Medicine;1176-2330;;40284;http://link.springer.com/journal/40284
 EvoDevo;;2041-9139;13227;http://link.springer.com/journal/13227
 Evolution: Education and Outreach;1936-6426;1936-6434;12052;http://link.springer.com/journal/12052
@@ -902,17 +927,17 @@ Evolutionary Biology;0071-3260;1934-2845;11692;http://link.springer.com/journal/
 Evolutionary Ecology;0269-7653;1573-8477;10682;http://link.springer.com/journal/10682
 Evolutionary Intelligence;1864-5909;1864-5917;12065;http://link.springer.com/journal/12065
 Evolving Systems;1868-6478;1868-6486;12530;http://link.springer.com/journal/12530
-"Experimental &amp; Translational Stroke Medicine";;2040-7378;13231;http://link.springer.com/journal/13231
+Experimental & Translational Stroke Medicine;;2040-7378;13231;http://link.springer.com/journal/13231
 Experimental and Applied Acarology;0168-8162;1572-9702;10493;http://link.springer.com/journal/10493
 Experimental Astronomy;0922-6435;1572-9508;10686;http://link.springer.com/journal/10686
 Experimental Biology Online;1435-3237;1430-3418;898;http://link.springer.com/journal/898
 Experimental Brain Research;0014-4819;1432-1106;221;http://link.springer.com/journal/221
 Experimental Economics;1386-4157;1573-6938;10683;http://link.springer.com/journal/10683
-"Experimental Hematology &amp; Oncology";;2162-3619;40164;http://link.springer.com/journal/40164
+Experimental Hematology & Oncology;;2162-3619;40164;http://link.springer.com/journal/40164
 Experimental Mechanics;0014-4851;1741-2765;11340;http://link.springer.com/journal/11340
 Experiments in Fluids;0723-4864;1432-1114;348;http://link.springer.com/journal/348
 Expert Evidence;0965-3643;1573-9694;10684;http://link.springer.com/journal/10684
-"Extreme Physiology &amp; Medicine";;2046-7648;13728;http://link.springer.com/journal/13728
+Extreme Physiology & Medicine;;2046-7648;13728;http://link.springer.com/journal/13728
 Extremes;1386-1999;1572-915X;10687;http://link.springer.com/journal/10687
 Extremophiles;1431-0651;1433-4909;792;http://link.springer.com/journal/792
 Facies;0172-9179;1612-4820;10347;http://link.springer.com/journal/10347
@@ -921,7 +946,7 @@ Feminist Legal Studies;0966-3622;1572-8455;10691;http://link.springer.com/journa
 Few-Body Systems;0177-7963;1432-5411;601;http://link.springer.com/journal/601
 Fibers and Polymers;1229-9197;1875-0052;12221;http://link.springer.com/journal/12221
 Fibre Chemistry;0015-0541;1573-8493;10692;http://link.springer.com/journal/10692
-"Fibrogenesis &amp; Tissue Repair";;1755-1536;13069;http://link.springer.com/journal/13069
+Fibrogenesis & Tissue Repair;;1755-1536;13069;http://link.springer.com/journal/13069
 Filaria Journal;;1475-2883;13564;http://link.springer.com/journal/13564
 Finance and Stochastics;0949-2984;1432-1122;780;http://link.springer.com/journal/780
 Financial Markets and Portfolio Management;1555-4961;1555-497X;11408;http://link.springer.com/journal/11408
@@ -949,11 +974,11 @@ Food Security;1876-4517;1876-4525;12571;http://link.springer.com/journal/12571
 Forensic Science, Medicine, and Pathology;1547-769X;1556-2891;12024;http://link.springer.com/journal/12024
 Forensic Toxicology;1860-8965;1860-8973;11419;http://link.springer.com/journal/11419
 Forensische Psychiatrie, Psychologie, Kriminologie;1862-7072;1862-7080;11757;http://link.springer.com/journal/11757
-Forest Science and Practice;1008-1321;1993-0372;11632;http://link.springer.com/journal/11632
+Forest Science and Practice;2095-4034;2095-4034;11632;http://link.springer.com/journal/11632
 Formal Aspects of Computing;0934-5043;1433-299X;165;http://link.springer.com/journal/165
 Formal Methods in System Design;0925-9856;1572-8102;10703;http://link.springer.com/journal/10703
 Forschung im Ingenieurwesen;0015-7899;1434-0860;10010;http://link.springer.com/journal/10010
-Fortschrittsberichte Ã¼ber Kolloide und Polymere;0071-8017;;12277;http://link.springer.com/journal/12277
+Fortschrittsberichte über Kolloide und Polymere;0071-8017;;12277;http://link.springer.com/journal/12277
 Forum;0947-0255;2190-9784;12312;http://link.springer.com/journal/12312
 Forum der Psychoanalyse;0178-7667;1437-0751;451;http://link.springer.com/journal/451
 Forum for Social Economics;0736-0932;1874-6381;12143;http://link.springer.com/journal/12143
@@ -963,6 +988,7 @@ Foundations of Physics;0015-9018;1572-9516;10701;http://link.springer.com/journa
 Foundations of Physics Letters;0894-9875;1572-9524;10702;http://link.springer.com/journal/10702
 Foundations of Science;1233-1821;1572-8471;10699;http://link.springer.com/journal/10699
 Fractional Calculus and Applied Analysis;1311-0454;1314-2224;13540;http://link.springer.com/journal/13540
+Friction;2223-7690;2223-7704;40544;http://link.springer.com/journal/40544
 Frontiers in Biology;1674-7984;1674-7992;11515;http://link.springer.com/journal/11515
 Frontiers in Energy;2095-1701;2095-1698;11708;http://link.springer.com/journal/11708
 Frontiers in Zoology;;1742-9994;12983;http://link.springer.com/journal/12983
@@ -975,7 +1001,7 @@ Frontiers of Earth Science;2095-0195;2095-0209;11707;http://link.springer.com/jo
 Frontiers of Economics in China;1673-3444;1673-3568;11459;http://link.springer.com/journal/11459
 Frontiers of Education in China;1673-341X;1673-3533;11516;http://link.springer.com/journal/11516
 Frontiers of Electrical and Electronic Engineering;2095-2732;1673-3584;11460;http://link.springer.com/journal/11460
-"Frontiers of Environmental Science &amp; Engineering";2095-2201;2095-221X;11783;http://link.springer.com/journal/11783
+Frontiers of Environmental Science & Engineering;2095-2201;2095-221X;11783;http://link.springer.com/journal/11783
 Frontiers of Forestry in China;1673-3517;1673-3630;11461;http://link.springer.com/journal/11461
 Frontiers of History in China;1673-3401;1673-3525;11462;http://link.springer.com/journal/11462
 Frontiers of Law in China;1673-3428;1673-3541;11463;http://link.springer.com/journal/11463
@@ -988,21 +1014,21 @@ Frontiers of Optoelectronics;2095-2759;2095-2767;12200;http://link.springer.com/
 Frontiers of Philosophy in China;1673-3436;1673-355X;11466;http://link.springer.com/journal/11466
 Frontiers of Physics;2095-0462;2095-0470;11467;http://link.springer.com/journal/11467
 Frontiers of Structural and Civil Engineering;2095-2430;2095-2449;11709;http://link.springer.com/journal/11709
-"Functional &amp; Integrative Genomics";1438-793X;1438-7948;10142;http://link.springer.com/journal/10142
+Functional & Integrative Genomics;1438-793X;1438-7948;10142;http://link.springer.com/journal/10142
 Functional Analysis and Its Applications;0016-2663;1573-8485;10688;http://link.springer.com/journal/10688
 Functional Analysis and Other Mathematics;1991-0061;1863-7914;11853;http://link.springer.com/journal/11853
 Fungal Diversity;1560-2745;1878-9129;13225;http://link.springer.com/journal/13225
+Fuß & Sprunggelenk;1619-9987;1619-9995;10302;http://link.springer.com/journal/10302
 Fuzzy Information and Engineering;1616-8658;1616-8666;12543;http://link.springer.com/journal/12543
 Fuzzy Optimization and Decision Making;1568-4539;1573-2908;10700;http://link.springer.com/journal/10700
-"FuÃŸ &amp; Sprunggelenk";1619-9987;1619-9995;10302;http://link.springer.com/journal/10302
 Gastric Cancer;1436-3291;1436-3305;10120;http://link.springer.com/journal/10120
-GefÃ¤sschirurgie;0948-7034;1434-3932;772;http://link.springer.com/journal/772
+Gefässchirurgie;0948-7034;1434-3932;772;http://link.springer.com/journal/772
 GEM - International Journal on Geomathematics;1869-2672;1869-2680;13137;http://link.springer.com/journal/13137
 Gender Issues;1098-092X;1936-4717;12147;http://link.springer.com/journal/12147
 General Relativity and Gravitation;0001-7701;1572-9532;10714;http://link.springer.com/journal/10714
 General Thoracic and Cardiovascular Surgery;1863-6705;1863-6713;11748;http://link.springer.com/journal/11748
-"Genes &amp; Genomics";1976-9571;2092-9293;13258;http://link.springer.com/journal/13258
-"Genes &amp; Nutrition";1555-8932;1865-3499;12263;http://link.springer.com/journal/12263
+Genes & Genomics;1976-9571;2092-9293;13258;http://link.springer.com/journal/13258
+Genes & Nutrition;1555-8932;1865-3499;12263;http://link.springer.com/journal/12263
 Genetic Programming and Evolvable Machines;1389-2576;1573-7632;10710;http://link.springer.com/journal/10710
 Genetic Resources and Crop Evolution;0925-9864;1573-5109;10722;http://link.springer.com/journal/10722
 Genetic Vaccines and Therapy;;1479-0556;12965;http://link.springer.com/journal/12965
@@ -1029,9 +1055,11 @@ Georgian Mathematical Journal;1072-947X;1572-9176;11290;http://link.springer.com
 Geosciences Journal;1226-4806;1598-7477;12303;http://link.springer.com/journal/12303
 Geotechnical and Geological Engineering;0960-3182;1573-1529;10706;http://link.springer.com/journal/10706
 Geotectonics;0016-8521;1556-1976;11479;http://link.springer.com/journal/11479
+Geothermal Energy;;2195-9706;40517;http://link.springer.com/journal/40517
 Geriatric Nephrology and Urology;0924-8455;1573-7306;10715;http://link.springer.com/journal/10715
 Gesunde Pflanzen;0367-4223;1439-0345;10343;http://link.springer.com/journal/10343
 GigaScience;;2047-217X;13742;http://link.springer.com/journal/13742
+Giornale Italiano di Health Technology Assessment;2035-3510;2035-6129;40269;http://link.springer.com/journal/40269
 Glass and Ceramics;0361-7610;1573-8515;10717;http://link.springer.com/journal/10717
 Glass Physics and Chemistry;1087-6596;1608-313X;10720;http://link.springer.com/journal/10720
 Global Business Perspectives;2194-0061;2194-007X;40196;http://link.springer.com/journal/40196
@@ -1051,20 +1079,21 @@ Group Decision and Negotiation;0926-2644;1572-9907;10726;http://link.springer.co
 Grundwasser;1430-483X;1432-1165;767;http://link.springer.com/journal/767
 Gruppendynamik und Organisationsberatung;1618-7849;1862-2615;11612;http://link.springer.com/journal/11612
 Gut Pathogens;;1757-4749;13099;http://link.springer.com/journal/13099
+Gynäkologische Endokrinologie;1610-2894;1610-2908;10304;http://link.springer.com/journal/10304
 Gynecological Surgery;1613-2076;1613-2084;10397;http://link.springer.com/journal/10397
-GynÃ¤kologische Endokrinologie;1610-2894;1610-2908;10304;http://link.springer.com/journal/10304
 Gyroscopy and Navigation;2075-1087;2075-1109;13140;http://link.springer.com/journal/13140
 HAND;1558-9447;1558-9455;11552;http://link.springer.com/journal/11552
 Harm Reduction Journal;;1477-7517;12954;http://link.springer.com/journal/12954
 hautnah;1866-2250;;12326;http://link.springer.com/journal/12326
-"Head &amp; Face Medicine";;1746-160X;13005;http://link.springer.com/journal/13005
-"Head &amp; Neck Oncology";;1758-3284;13051;http://link.springer.com/journal/13051
+Head & Face Medicine;;1746-160X;13005;http://link.springer.com/journal/13005
+Head & Neck Oncology;;1758-3284;13051;http://link.springer.com/journal/13051
 Head and Neck Pathology;1936-055X;1936-0568;12105;http://link.springer.com/journal/12105
 Health and Quality of Life Outcomes;;1477-7525;12955;http://link.springer.com/journal/12955
 Health and Technology;2190-7188;2190-7196;12553;http://link.springer.com/journal/12553
 Health Care Analysis;1065-3058;1573-3394;10728;http://link.springer.com/journal/10728
 Health Care Management Science;1386-9620;1572-9389;10729;http://link.springer.com/journal/10729
 Health Economics Review;;2191-1991;13561;http://link.springer.com/journal/13561
+Health Information Science and Systems;;2047-2501;13755;http://link.springer.com/journal/13755
 Health Research Policy and Systems;;1478-4505;12961;http://link.springer.com/journal/12961
 Health Services and Outcomes Research Methodology;1387-3741;1572-9400;10742;http://link.springer.com/journal/10742
 Heart and Vessels;0910-8327;1615-2573;380;http://link.springer.com/journal/380
@@ -1080,11 +1109,12 @@ Hematology and Cell Therapy;1269-3286;1279-8509;282;http://link.springer.com/jou
 Hepatology International;1936-0533;1936-0541;12072;http://link.springer.com/journal/12072
 Herald of the Russian Academy of Sciences;1019-3316;1555-6492;11480;http://link.springer.com/journal/11480
 Hereditary Cancer in Clinical Practice;;1897-4287;13053;http://link.springer.com/journal/13053
+Heritage Science;;2050-7445;40494;http://link.springer.com/journal/40494
 Hernia;1265-4906;1248-9204;10029;http://link.springer.com/journal/10029
 Herpesviridae;;2042-4280;13276;http://link.springer.com/journal/13276
 Herz;0340-9937;1615-6692;59;http://link.springer.com/journal/59
 Herzschrittmachertherapie + Elektrophysiologie;0938-7412;1435-1544;399;http://link.springer.com/journal/399
-"High Blood Pressure &amp; Cardiovascular Prevention";1120-9879;1179-1985;40292;http://link.springer.com/journal/40292
+High Blood Pressure & Cardiovascular Prevention;1120-9879;1179-1985;40292;http://link.springer.com/journal/40292
 High Energy Chemistry;0018-1439;1608-3148;10733;http://link.springer.com/journal/10733
 High Temperature;0018-151X;1608-3156;10740;http://link.springer.com/journal/10740
 Higher Education;0018-1560;1573-174X;10734;http://link.springer.com/journal/10734
@@ -1093,7 +1123,7 @@ Histochemistry and Cell Biology;0948-6143;1432-119X;418;http://link.springer.com
 HNO;0017-6192;1433-0458;106;http://link.springer.com/journal/106
 Hormones and Cancer;1868-8497;1868-8500;12672;http://link.springer.com/journal/12672
 Horticulture, Environment, and Biotechnology;2211-3452;2211-3460;13580;http://link.springer.com/journal/13580
-HSS Journal Â®;1556-3316;1556-3324;11420;http://link.springer.com/journal/11420
+HSS Journal ®;1556-3316;1556-3324;11420;http://link.springer.com/journal/11420
 Huisarts en wetenschap;0018-7070;1876-5912;12445;http://link.springer.com/journal/12445
 Human Affairs;1210-3055;1337-401X;13374;http://link.springer.com/journal/13374
 Human Cell;;1749-0774;13577;http://link.springer.com/journal/13577
@@ -1108,7 +1138,6 @@ Human Resources for Health;;1478-4491;12960;http://link.springer.com/journal/129
 Human Rights Review;1524-8879;1874-6306;12142;http://link.springer.com/journal/12142
 Human Studies;0163-8548;1572-851X;10746;http://link.springer.com/journal/10746
 Human-centric Computing and Information Sciences;;2192-1962;13673;http://link.springer.com/journal/13673
-Humanmedizin kompakt;;2195-4453;40355;http://link.springer.com/journal/40355
 Hungarica Acta Physica;0367-6382;;12659;http://link.springer.com/journal/12659
 Husserl Studies;0167-9848;1572-8501;10743;http://link.springer.com/journal/10743
 Hydrobiologia;0018-8158;1573-5117;10750;http://link.springer.com/journal/10750
@@ -1119,26 +1148,27 @@ Iconographia mycologica;0073-4411;;13093;http://link.springer.com/journal/13093
 Identity in the Information Society;;1876-0678;12394;http://link.springer.com/journal/12394
 IIC - International Review of Intellectual Property and Competition Law;0018-9855;2195-0237;40319;http://link.springer.com/journal/40319
 IIE Transactions;0740-817X;1573-9724;10756;http://link.springer.com/journal/10756
-Il Cimento;;1827-5672;11584;http://link.springer.com/journal/11584
 Il Nuovo Cimento A Series 11;0369-3546;1826-9869;11539;http://link.springer.com/journal/11539
 Il Nuovo Cimento B;0369-3554;1826-9877;11542;http://link.springer.com/journal/11542
 Il Nuovo Cimento C;0390-5551;;11543;http://link.springer.com/journal/11543
 Il Nuovo Cimento D;0392-6737;1826-9893;11544;http://link.springer.com/journal/11544
 Il Nuovo Cimento Series 10;0029-6341;1827-6121;11583;http://link.springer.com/journal/11583
-"Immunity &amp; Ageing";;1742-4933;12979;http://link.springer.com/journal/12979
+Immunity & Ageing;;1742-4933;12979;http://link.springer.com/journal/12979
 Immunogenetics;0093-7711;1432-1211;251;http://link.springer.com/journal/251
 Immunologic Research;0257-277X;1559-0755;12026;http://link.springer.com/journal/12026
 Immunome Research;;1745-7580;12996;http://link.springer.com/journal/12996
 Implementation Science;;1748-5908;13012;http://link.springer.com/journal/13012
-"In Vitro Cellular &amp; Developmental Biology - Animal";1071-2690;1543-706X;11626;http://link.springer.com/journal/11626
-"In Vitro Cellular &amp; Developmental Biology - Plant";1054-5476;1475-2689;11627;http://link.springer.com/journal/11627
-Indian  Journal of Gastroenterology;0254-8860;0975-0711;12664;http://link.springer.com/journal/12664
+In Silico Pharmacology;;2193-9616;40203;http://link.springer.com/journal/40203
+In Vitro Cellular & Developmental Biology - Animal;1071-2690;1543-706X;11626;http://link.springer.com/journal/11626
+In Vitro Cellular & Developmental Biology - Plant;1054-5476;1475-2689;11627;http://link.springer.com/journal/11627
 Indian Geotechnical Journal;0971-9555;2277-3347;40098;http://link.springer.com/journal/40098
 Indian Journal of Clinical Biochemistry;0970-1915;0974-0422;12291;http://link.springer.com/journal/12291
+Indian Journal of Gastroenterology;0254-8860;0975-0711;12664;http://link.springer.com/journal/12664
 Indian Journal of Hematology and Blood Transfusion;0971-4502;0974-0449;12288;http://link.springer.com/journal/12288
 Indian Journal of Microbiology;0046-8991;0973-7715;12088;http://link.springer.com/journal/12088
-"Indian Journal of Otolaryngology and Head &amp; Neck Surgery";2231-3796;0973-7707;12070;http://link.springer.com/journal/12070
+Indian Journal of Otolaryngology and Head & Neck Surgery;2231-3796;0973-7707;12070;http://link.springer.com/journal/12070
 Indian Journal of Physics;0973-1458;0974-9845;12648;http://link.springer.com/journal/12648
+Indian Journal of Plant Physiology;0019-5502;0974-0252;40502;http://link.springer.com/journal/40502
 Indian Journal of Pure and Applied Mathematics;0019-5588;0975-7465;13226;http://link.springer.com/journal/13226
 Indian Journal of Surgery;0972-2068;0973-9793;12262;http://link.springer.com/journal/12262
 Indian Journal of Surgical Oncology;0975-7651;0976-6952;13193;http://link.springer.com/journal/13193
@@ -1153,16 +1183,19 @@ Infectious Diseases of Poverty;;2049-9957;40249;http://link.springer.com/journal
 Inflammation;0360-3997;1573-2576;10753;http://link.springer.com/journal/10753
 Inflammation Research;1023-3830;1420-908X;11;http://link.springer.com/journal/11
 Inflammopharmacology;0925-4692;1568-5608;10787;http://link.springer.com/journal/10787
+InFo Neurologie & Psychiatrie;1437-062X;2195-5166;15005;http://link.springer.com/journal/15005
 Informatik-Spektrum;0170-6012;1432-122X;287;http://link.springer.com/journal/287
 Information Retrieval;1386-4564;1573-7659;10791;http://link.springer.com/journal/10791
 Information Systems and e-Business Management;1617-9846;1617-9854;10257;http://link.springer.com/journal/10257
 Information Systems Frontiers;1387-3326;1572-9419;10796;http://link.springer.com/journal/10796
+Information Technology & Tourism;1098-3058;1943-4294;40558;http://link.springer.com/journal/40558
 Information Technology and Management;1385-951X;1573-7667;10799;http://link.springer.com/journal/10799
 Inland Water Biology;1995-0829;1995-0837;12212;http://link.springer.com/journal/12212
 Innovations in Systems and Software Engineering;1614-5046;1614-5054;11334;http://link.springer.com/journal/11334
 Innovative Higher Education;0742-5627;1573-1758;10755;http://link.springer.com/journal/10755
 Inorganic Materials;0020-1685;1608-3172;10789;http://link.springer.com/journal/10789
 Inorganic Materials: Applied Research;2075-1133;2075-115X;13188;http://link.springer.com/journal/13188
+Inpharma Weekly;1173-8324;2230-6056;40285;http://link.springer.com/journal/40285
 Insectes Sociaux;0020-1812;1420-9098;40;http://link.springer.com/journal/40
 Insights into Imaging;;1869-4101;13244;http://link.springer.com/journal/13244
 Instructional Science;0020-4277;1573-1952;11251;http://link.springer.com/journal/11251
@@ -1197,7 +1230,7 @@ International Journal for Equity in Health;;1475-9276;12939;http://link.springer
 International Journal for Ion Mobility Spectrometry;1435-6163;1865-4584;12127;http://link.springer.com/journal/12127
 International Journal for Philosophy of Religion;0020-7047;1572-8684;11153;http://link.springer.com/journal/11153
 International Journal for the Advancement of Counselling;0165-0653;1573-3246;10447;http://link.springer.com/journal/10447
-International Journal for the Semiotics of Law - Revue internationale de SÃ©miotique juridique;0952-8059;1572-8722;11196;http://link.springer.com/journal/11196
+International Journal for the Semiotics of Law - Revue internationale de Sémiotique juridique;0952-8059;1572-8722;11196;http://link.springer.com/journal/11196
 International Journal of Advanced Structural Engineering (IJASE);2008-3556;2008-6695;40091;http://link.springer.com/journal/40091
 International Journal of Advances in Engineering Sciences and Applied Mathematics;0975-0770;0975-5616;12572;http://link.springer.com/journal/12572
 International Journal of Angiology;1061-1711;1615-5939;547;http://link.springer.com/journal/547
@@ -1208,6 +1241,7 @@ International Journal of Automotive Technology;1229-9138;1976-3832;12239;http://
 International Journal of Behavioral Medicine;1070-5503;1532-7558;12529;http://link.springer.com/journal/12529
 International Journal of Behavioral Nutrition and Physical Activity;;1479-5868;12966;http://link.springer.com/journal/12966
 International Journal of Biometeorology;0020-7128;1432-1254;484;http://link.springer.com/journal/484
+International Journal of Bipolar Disorders;;2194-7511;40345;http://link.springer.com/journal/40345
 International Journal of Clinical and Laboratory Research;0940-5437;1434-4467;599;http://link.springer.com/journal/599
 International Journal of Clinical Monitoring and Computing;0167-9945;;12521;http://link.springer.com/journal/12521
 International Journal of Clinical Oncology;1341-9625;1437-7772;10147;http://link.springer.com/journal/10147
@@ -1221,6 +1255,7 @@ International Journal of Control, Automation and Systems;1598-6446;2005-4092;125
 International Journal of Crashworthiness;1358-8265;1573-8965;10757;http://link.springer.com/journal/10757
 International Journal of Diabetes in Developing Countries;0973-3930;1998-3832;13410;http://link.springer.com/journal/13410
 International Journal of Disaster Risk Science;2095-0055;2192-6395;13753;http://link.springer.com/journal/13753
+International Journal of Dynamics and Control;2195-268X;2195-2698;40435;http://link.springer.com/journal/40435
 International Journal of Early Childhood;0020-7187;1878-4658;13158;http://link.springer.com/journal/13158
 International Journal of Earth Sciences;1437-3254;1437-3262;531;http://link.springer.com/journal/531
 International Journal of Emergency Medicine;1865-1372;1865-1380;12245;http://link.springer.com/journal/12245
@@ -1264,7 +1299,7 @@ International Journal of Sexuality and Gender Studies;1566-1768;1573-8167;10848;
 International Journal of Social Robotics;1875-4791;1875-4805;12369;http://link.springer.com/journal/12369
 International Journal of Speech Technology;1381-2416;1572-8110;10772;http://link.springer.com/journal/10772
 International Journal of Steel Structures;1598-2351;2093-6311;13296;http://link.springer.com/journal/13296
-"international journal of stomatology &amp; occlusion medicine";1867-2221;1867-223X;12548;http://link.springer.com/journal/12548
+international journal of stomatology & occlusion medicine;1867-2221;1867-223X;12548;http://link.springer.com/journal/12548
 International Journal of Stress Management;1072-5245;1573-3424;10771;http://link.springer.com/journal/10771
 International Journal of System Assurance Engineering and Management;0975-6809;0976-4348;13198;http://link.springer.com/journal/13198
 International Journal of Technology and Design Education;0957-7572;1573-1804;10798;http://link.springer.com/journal/10798
@@ -1292,24 +1327,23 @@ Invertebrate Neuroscience;1354-2516;1439-1104;10158;http://link.springer.com/jou
 Investigational New Drugs;0167-6997;1573-0646;10637;http://link.springer.com/journal/10637
 Investigative Genetics;;2041-2223;13323;http://link.springer.com/journal/13323
 Ionics;0947-7047;1862-0760;11581;http://link.springer.com/journal/11581
-"Iranian Journal of Environmental Health Science &amp; Engineering";;1735-2746;40201;http://link.springer.com/journal/40201
 Iranian Polymer Journal;1026-1265;1735-5265;13726;http://link.springer.com/journal/13726
 Irish Journal of Medical Science;0021-1265;1863-4362;11845;http://link.springer.com/journal/11845
-Irish Journal of Medical Science;0790-231X;1863-4362;12627;http://link.springer.com/journal/12627
 Irish Veterinary Journal;;2046-0481;13620;http://link.springer.com/journal/13620
 Irrigation and Drainage Systems;0168-6291;1573-0654;10795;http://link.springer.com/journal/10795
 Irrigation Science;0342-7188;1432-1319;271;http://link.springer.com/journal/271
 Israel Journal of Health Policy Research;;2045-4015;13584;http://link.springer.com/journal/13584
 Israel Journal of Mathematics;0021-2172;1565-8511;11856;http://link.springer.com/journal/11856
+IT-Szene München;;1863-1983;40567;http://link.springer.com/journal/40567
 Italian Journal of Pediatrics;;1824-7288;13052;http://link.springer.com/journal/13052
 IZA Journal of European Labor Studies;;2193-9012;40174;http://link.springer.com/journal/40174
-"IZA Journal of Labor &amp; Development";;2193-9020;40175;http://link.springer.com/journal/40175
+IZA Journal of Labor & Development;;2193-9020;40175;http://link.springer.com/journal/40175
 IZA Journal of Labor Economics;;2193-8997;40172;http://link.springer.com/journal/40172
 IZA Journal of Labor Policy;;2193-9004;40173;http://link.springer.com/journal/40173
 IZA Journal of Migration;;2193-9039;40176;http://link.springer.com/journal/40176
 Izvestiya, Atmospheric and Oceanic Physics;0001-4338;1555-628X;11485;http://link.springer.com/journal/11485
 Izvestiya, Physics of the Solid Earth;1069-3513;1555-6506;11486;http://link.springer.com/journal/11486
-Jahrbuch fÃ¼r Regionalwissenschaft;0173-7600;1613-9836;10037;http://link.springer.com/journal/10037
+Jahrbuch für Regionalwissenschaft;0173-7600;1613-9836;10037;http://link.springer.com/journal/10037
 Jahresbericht der Deutschen Mathematiker-Vereinigung;0012-0456;1869-7135;13291;http://link.springer.com/journal/13291
 Japan Journal of Industrial and Applied Mathematics;0916-7005;1868-937X;13160;http://link.springer.com/journal/13160
 Japanese Journal of Mathematics;0289-2316;1861-3624;11537;http://link.springer.com/journal/11537
@@ -1322,18 +1356,19 @@ Jeugd en Co Kennis;1873-9172;1876-6099;12450;http://link.springer.com/journal/12
 Jewish History;0334-701X;1572-8579;10835;http://link.springer.com/journal/10835
 JGZ Tijdschrift voor jeugdgezondheidszorg;1567-8644;1876-598X;12452;http://link.springer.com/journal/12452
 JOM;1047-4838;1543-1851;11837;http://link.springer.com/journal/11837
-JOT Journal fÃ¼r OberflÃ¤chentechnik;0940-8789;2192-869X;35144;http://link.springer.com/journal/35144
+JOT Journal für Oberflächentechnik;0940-8789;2192-869X;35144;http://link.springer.com/journal/35144
 JOT-International Surface Technology;1865-4827;2192-8703;35724;http://link.springer.com/journal/35724
-Journal Africain d'HÃ©pato-GastroentÃ©rologie;1954-3204;1954-3212;12157;http://link.springer.com/journal/12157
+Journal Africain d'Hépato-Gastroentérologie;1954-3204;1954-3212;12157;http://link.springer.com/journal/12157
 Journal Africain du Cancer / African Journal of Cancer;1965-0817;1965-0825;12558;http://link.springer.com/journal/12558
-Journal d'Analyse MathÃ©matique;0021-7670;1565-8538;11854;http://link.springer.com/journal/11854
+Journal d'Analyse Mathématique;0021-7670;1565-8538;11854;http://link.springer.com/journal/11854
 Journal for General Philosophy of Science;0925-4560;1572-8587;10838;http://link.springer.com/journal/10838
+Journal for Immunotherapy of Cancer;;2051-1426;40425;http://link.springer.com/journal/40425
 Journal for Labour Market Research;1614-3485;1867-8343;12651;http://link.springer.com/journal/12651
-Journal fÃ¼r Betriebswirtschaft;0344-9327;1614-631X;11301;http://link.springer.com/journal/11301
-Journal fÃ¼r Mathematik-Didaktik;0173-5322;1869-2699;13138;http://link.springer.com/journal/13138
-Journal fÃ¼r Rechtspolitik;0943-4011;1613-754X;730;http://link.springer.com/journal/730
-Journal fÃ¼r Verbraucherschutz und Lebensmittelsicherheit;1661-5751;1661-5867;3;http://link.springer.com/journal/3
-Journal fÃ¼r Ã„sthetische Chirurgie;1867-4305;1867-4313;12631;http://link.springer.com/journal/12631
+Journal für Ästhetische Chirurgie;1867-4305;1867-4313;12631;http://link.springer.com/journal/12631
+Journal für Betriebswirtschaft;0344-9327;1614-631X;11301;http://link.springer.com/journal/11301
+Journal für Mathematik-Didaktik;0173-5322;1869-2699;13138;http://link.springer.com/journal/13138
+Journal für Rechtspolitik;0943-4011;1613-754X;730;http://link.springer.com/journal/730
+Journal für Verbraucherschutz und Lebensmittelsicherheit;1661-5751;1661-5867;3;http://link.springer.com/journal/3
 Journal of Abnormal Child Psychology;0091-0627;1573-2835;10802;http://link.springer.com/journal/10802
 Journal of Academic Ethics;1570-1727;1572-8544;10805;http://link.springer.com/journal/10805
 Journal of Acupuncture and Tuina Science;1672-3597;1993-0399;11726;http://link.springer.com/journal/11726
@@ -1347,6 +1382,7 @@ Journal of Agricultural, Biological, and Environmental Statistics;1085-7117;1537
 Journal of Algebraic Combinatorics;0925-9899;1572-9192;10801;http://link.springer.com/journal/10801
 Journal of Ambient Intelligence and Humanized Computing;1868-5137;1868-5145;12652;http://link.springer.com/journal/12652
 Journal of Analytical Chemistry;1061-9348;1608-3199;10809;http://link.springer.com/journal/10809
+Journal of Analytical Science and Technology;;2093-3371;40543;http://link.springer.com/journal/40543
 Journal of Anesthesia;0913-8668;1438-8359;540;http://link.springer.com/journal/540
 Journal of Animal Science and Biotechnology;;2049-1891;40104;http://link.springer.com/journal/40104
 Journal of Applied and Industrial Mathematics;1990-4789;1990-4797;11754;http://link.springer.com/journal/11754
@@ -1377,8 +1413,8 @@ Journal of Bioethical Inquiry;1176-7529;1872-4353;11673;http://link.springer.com
 Journal of Biological Engineering;;1754-1611;13036;http://link.springer.com/journal/13036
 Journal of Biological Physics;0092-0606;1573-0689;10867;http://link.springer.com/journal/10867
 Journal of Biology;;1475-4924;13061;http://link.springer.com/journal/13061
-Journal of Biomedical Science;1021-7770;1423-0127;11373;http://link.springer.com/journal/11373
 Journal of Biomedical Science;;1423-0127;12929;http://link.springer.com/journal/12929
+Journal of Biomedical Science;1021-7770;1423-0127;11373;http://link.springer.com/journal/11373
 Journal of Biomedical Semantics;;2041-1480;13326;http://link.springer.com/journal/13326
 Journal of Biomolecular NMR;0925-2738;1573-5001;10858;http://link.springer.com/journal/10858
 Journal of Biorheology;1867-0466;1867-0474;12573;http://link.springer.com/journal/12573
@@ -1443,6 +1479,7 @@ Journal of Contemporary Mathematical Analysis;1068-3623;1934-9416;11957;http://l
 Journal of Contemporary Physics (Armenian Academy of Sciences);1068-3372;1934-9378;11958;http://link.springer.com/journal/11958
 Journal of Contemporary Psychotherapy;0022-0116;1573-3564;10879;http://link.springer.com/journal/10879
 Journal of Control Theory and Applications;1672-6340;1993-0623;11768;http://link.springer.com/journal/11768
+Journal of Control, Automation and Electrical Systems;2195-3880;2195-3899;40313;http://link.springer.com/journal/40313
 Journal of Crop Science and Biotechnology;1975-9479;2005-8276;12892;http://link.springer.com/journal/12892
 Journal of Cross-Cultural Gerontology;0169-3816;1573-0719;10823;http://link.springer.com/journal/10823
 Journal of Cryptographic Engineering;2190-8508;2190-8516;13389;http://link.springer.com/journal/13389
@@ -1457,6 +1494,7 @@ Journal of Dynamics and Differential Equations;1040-7294;1572-9222;10884;http://
 Journal of Earth Science;1674-487X;1867-111X;12583;http://link.springer.com/journal/12583
 Journal of Earth System Science;0253-4126;0973-774X;12040;http://link.springer.com/journal/12040
 Journal of East Asian Linguistics;0925-8558;1572-8560;10831;http://link.springer.com/journal/10831
+Journal of Eating Disorders;;2050-2974;40337;http://link.springer.com/journal/40337
 Journal of Echocardiography;1349-0222;1880-344X;12574;http://link.springer.com/journal/12574
 Journal of Economic Growth;1381-4338;1573-7020;10887;http://link.springer.com/journal/10887
 Journal of Economic Interaction and Coordination;1860-711X;1860-7128;11403;http://link.springer.com/journal/11403
@@ -1473,13 +1511,14 @@ Journal of Elementary Science Education;1090-185X;;13270;http://link.springer.co
 Journal of Engineering Mathematics;0022-0833;1573-2703;10665;http://link.springer.com/journal/10665
 Journal of Engineering Physics and Thermophysics;1062-0125;1573-871X;10891;http://link.springer.com/journal/10891
 Journal of Engineering Thermophysics;1810-2328;1990-5432;11823;http://link.springer.com/journal/11823
+Journal of Environmental Health Science and Engineering;;2052-336X;40201;http://link.springer.com/journal/40201
 Journal of Environmental Studies and Sciences;2190-6483;2190-6491;13412;http://link.springer.com/journal/13412
 Journal of Ethnobiology and Ethnomedicine;;1746-4269;13002;http://link.springer.com/journal/13002
 Journal of Ethology;0289-0771;1439-5444;10164;http://link.springer.com/journal/10164
 Journal of Evolution Equations;1424-3199;1424-3202;28;http://link.springer.com/journal/28
 Journal of Evolutionary Biochemistry and Physiology;0022-0930;1608-3202;10893;http://link.springer.com/journal/10893
 Journal of Evolutionary Economics;0936-9937;1432-1386;191;http://link.springer.com/journal/191
-"Journal of Experimental &amp; Clinical Cancer Research";;1756-9966;13046;http://link.springer.com/journal/13046
+Journal of Experimental & Clinical Cancer Research;;1756-9966;13046;http://link.springer.com/journal/13046
 Journal of Experimental and Theoretical Physics;1063-7761;1090-6509;11447;http://link.springer.com/journal/11447
 Journal of Experimental Criminology;1573-3750;1572-8315;11292;http://link.springer.com/journal/11292
 Journal of Failure Analysis and Prevention;1547-7029;1864-1245;11668;http://link.springer.com/journal/11668
@@ -1496,7 +1535,7 @@ Journal of Forestry Research;1007-662X;1993-0607;11676;http://link.springer.com/
 Journal of Fourier Analysis and Applications;1069-5869;1531-5851;41;http://link.springer.com/journal/41
 Journal of Friction and Wear;1068-3666;1934-9386;11959;http://link.springer.com/journal/11959
 Journal of Fusion Energy;0164-0313;1572-9591;10894;http://link.springer.com/journal/10894
-Journal of Gambling Studies;1573-3602;1573-3602;10899;http://link.springer.com/journal/10899
+Journal of Gambling Studies;;1573-3602;10899;http://link.springer.com/journal/10899
 Journal of Gastroenterology;0944-1174;1435-5922;535;http://link.springer.com/journal/535
 Journal of Gastrointestinal Cancer;1941-6628;1941-6636;12029;http://link.springer.com/journal/12029
 Journal of Gastrointestinal Surgery;1091-255X;1873-4626;11605;http://link.springer.com/journal/11605
@@ -1516,7 +1555,7 @@ Journal of Grid Computing;1570-7873;1572-9184;10723;http://link.springer.com/jou
 Journal of Hand and Microsurgery;0974-3227;0974-6897;12593;http://link.springer.com/journal/12593
 Journal of Happiness Studies;1389-4978;1573-7780;10902;http://link.springer.com/journal/10902
 Journal of Heat Treating;0190-9177;;136;http://link.springer.com/journal/136
-"Journal of Hematology &amp; Oncology";;1756-8722;13045;http://link.springer.com/journal/13045
+Journal of Hematology & Oncology;;1756-8722;13045;http://link.springer.com/journal/13045
 Journal of Hematopathology;1868-9256;1865-5785;12308;http://link.springer.com/journal/12308
 Journal of Hepato-Biliary-Pancreatic Sciences;1868-6974;1868-6982;534;http://link.springer.com/journal/534
 Journal of Heuristics;1381-1231;1572-9397;10732;http://link.springer.com/journal/10732
@@ -1528,10 +1567,10 @@ Journal of Human Genetics;1434-5161;1435-232X;10038;http://link.springer.com/jou
 Journal of Ichthyology;0032-9452;1555-6425;11489;http://link.springer.com/journal/11489
 Journal of Immigrant and Minority Health;1557-1912;1557-1920;10903;http://link.springer.com/journal/10903
 Journal of Immune Based Therapies and Vaccines;;1476-8518;12949;http://link.springer.com/journal/12949
-Journal of Inclusion Phenomena and Macrocyclic Chemistry;0923-0750;1573-1111;10847;http://link.springer.com/journal/10847
+Journal of Inclusion Phenomena and Macrocyclic Chemistry;1388-3127;1573-1111;10847;http://link.springer.com/journal/10847
 Journal of Indian Philosophy;0022-1791;1573-0395;10781;http://link.springer.com/journal/10781
 Journal of Industrial Engineering International;1735-5702;2251-712X;40092;http://link.springer.com/journal/40092
-"Journal of Industrial Microbiology &amp; Biotechnology";1367-5435;1476-5535;10295;http://link.springer.com/journal/10295
+Journal of Industrial Microbiology & Biotechnology;1367-5435;1476-5535;10295;http://link.springer.com/journal/10295
 Journal of Industry, Competition and Trade;1566-1679;1573-7012;10842;http://link.springer.com/journal/10842
 Journal of Inequalities and Applications;;1029-242X;13660;http://link.springer.com/journal/13660
 Journal of Infection and Chemotherapy;1341-321X;1437-7780;10156;http://link.springer.com/journal/10156
@@ -1543,9 +1582,10 @@ Journal of Inorganic and Organometallic Polymers and Materials;1574-1443;1574-14
 Journal of Insect Behavior;0892-7553;1572-8889;10905;http://link.springer.com/journal/10905
 Journal of Insect Conservation;1366-638X;1572-9753;10841;http://link.springer.com/journal/10841
 Journal of instructional development;0162-2641;;12384;http://link.springer.com/journal/12384
-"Journal of Intelligent &amp; Robotic Systems";0921-0296;1573-0409;10846;http://link.springer.com/journal/10846
+Journal of Intelligent & Robotic Systems;0921-0296;1573-0409;10846;http://link.springer.com/journal/10846
 Journal of Intelligent Information Systems;0925-9902;1573-7675;10844;http://link.springer.com/journal/10844
 Journal of Intelligent Manufacturing;0956-5515;1572-8145;10845;http://link.springer.com/journal/10845
+Journal of Interaction Science;;2194-0827;40166;http://link.springer.com/journal/40166
 Journal of International Entrepreneurship;1570-7385;1573-7349;10843;http://link.springer.com/journal/10843
 Journal of International Migration and Integration;1488-3473;1874-6365;12134;http://link.springer.com/journal/12134
 Journal of Internet Services and Applications;1867-4828;1869-0238;13174;http://link.springer.com/journal/13174
@@ -1556,7 +1596,7 @@ Journal of Low Temperature Physics;0022-2291;1573-7357;10909;http://link.springe
 Journal of Machinery Manufacture and Reliability;1052-6188;1934-9394;12001;http://link.springer.com/journal/12001
 Journal of Mammalian Evolution;1064-7554;1573-7055;10914;http://link.springer.com/journal/10914
 Journal of Mammary Gland Biology and Neoplasia;1083-3021;1573-7039;10911;http://link.springer.com/journal/10911
-"Journal of Management &amp; Governance";1385-3457;1572-963X;10997;http://link.springer.com/journal/10997
+Journal of Management & Governance;1385-3457;1572-963X;10997;http://link.springer.com/journal/10997
 Journal of Management Control;2191-4761;2191-477X;187;http://link.springer.com/journal/187
 Journal of Marine Science and Application;1671-9433;1993-5048;11804;http://link.springer.com/journal/11804
 Journal of Marine Science and Technology;0948-4280;1437-8213;773;http://link.springer.com/journal/773
@@ -1576,7 +1616,7 @@ Journal of Mathematical Biology;0303-6812;1432-1416;285;http://link.springer.com
 Journal of Mathematical Chemistry;0259-9791;1572-8897;10910;http://link.springer.com/journal/10910
 Journal of Mathematical Fluid Mechanics;1422-6928;1422-6952;21;http://link.springer.com/journal/21
 Journal of Mathematical Imaging and Vision;0924-9907;1573-7683;10851;http://link.springer.com/journal/10851
-Journal of Mathematical Modelling and Algorithms in Operations Research;1570-1166;1572-9214;10852;http://link.springer.com/journal/10852
+Journal of Mathematical Modelling and Algorithms in Operations Research;2214-2487;2214-2495;10852;http://link.springer.com/journal/10852
 Journal of Mathematical Sciences;1072-3374;1573-8795;10958;http://link.springer.com/journal/10958
 Journal of Mathematics in Industry;;2190-5983;13362;http://link.springer.com/journal/13362
 Journal of Mathematics Teacher Education;1386-4416;1573-1820;10857;http://link.springer.com/journal/10857
@@ -1591,11 +1631,14 @@ Journal of Medicine and the Person;2035-9411;2036-3877;12682;http://link.springe
 Journal of Micro-Bio Robotics;2194-6418;2194-6426;12213;http://link.springer.com/journal/12213
 Journal of Microbiology;1225-8873;1976-3794;12275;http://link.springer.com/journal/12275
 Journal of Mining Science;1062-7391;1573-8736;10913;http://link.springer.com/journal/10913
+Journal of Modern Power Systems and Clean Energy;2196-5625;2196-5420;40565;http://link.springer.com/journal/40565
+Journal of Modern Transportation;2095-087X;2196-0577;40534;http://link.springer.com/journal/40534
 Journal of Molecular Evolution;0022-2844;1432-1432;239;http://link.springer.com/journal/239
 Journal of Molecular Histology;1567-2379;1567-2387;10735;http://link.springer.com/journal/10735
 Journal of Molecular Medicine;0946-2716;1432-1440;109;http://link.springer.com/journal/109
 Journal of Molecular Modeling;1610-2940;0948-5023;894;http://link.springer.com/journal/894
 Journal of Molecular Neuroscience;0895-8696;1559-1166;12031;http://link.springer.com/journal/12031
+Journal of Molecular Psychiatry;;2049-9256;40303;http://link.springer.com/journal/40303
 Journal of Molecular Signaling;;1750-2187;13025;http://link.springer.com/journal/13025
 Journal of Mountain Science;1672-6316;1993-0321;11629;http://link.springer.com/journal/11629
 Journal of Muscle Research and Cell Motility;0142-4319;1573-2657;10974;http://link.springer.com/journal/10974
@@ -1629,10 +1672,11 @@ Journal of Optical and Fiber Communications Research;1867-3007;1619-8638;10297;h
 Journal of Optics;0972-8821;0974-6900;12596;http://link.springer.com/journal/12596
 Journal of Optimization Theory and Applications;0022-3239;1573-2878;10957;http://link.springer.com/journal/10957
 Journal of Ornithology;2193-7192;2193-7206;10336;http://link.springer.com/journal/10336
-Journal of Orofacial Orthopedics / Fortschritte der KieferorthopÃ¤die;1434-5293;1615-6714;56;http://link.springer.com/journal/56
+Journal of Orofacial Orthopedics / Fortschritte der Kieferorthopädie;1434-5293;1615-6714;56;http://link.springer.com/journal/56
 Journal of Orthopaedic Science;0949-2658;1436-2023;776;http://link.springer.com/journal/776
 Journal of Orthopaedic Surgery and Research;;1749-799X;13018;http://link.springer.com/journal/13018
 Journal of Orthopaedics and Traumatology;1590-9921;1590-9999;10195;http://link.springer.com/journal/10195
+Journal of Otolaryngology - Head & Neck Surgery;;1916-0216;40463;http://link.springer.com/journal/40463
 Journal of Ovarian Research;;1757-2215;13048;http://link.springer.com/journal/13048
 Journal of Paleolimnology;0921-2728;1573-0417;10933;http://link.springer.com/journal/10933
 Journal of Parasitic Diseases;0971-7196;0975-0703;12639;http://link.springer.com/journal/12639
@@ -1640,6 +1684,7 @@ Journal of Pest Science;1612-4758;1612-4766;10340;http://link.springer.com/journ
 Journal of Petroleum Exploration and Production Technology;2190-0558;2190-0566;13202;http://link.springer.com/journal/13202
 Journal of Pharmaceutical Innovation;1872-5120;1939-8042;12247;http://link.springer.com/journal/12247
 Journal of Pharmaceutical Investigation;2093-5552;2093-6214;40005;http://link.springer.com/journal/40005
+Journal of Pharmaceutical Policy and Practice;;2052-3211;40545;http://link.springer.com/journal/40545
 Journal of Pharmacokinetics and Pharmacodynamics;1567-567X;1573-8744;10928;http://link.springer.com/journal/10928
 Journal of Phase Equilibria;1054-9714;1054-9714;12385;http://link.springer.com/journal/12385
 Journal of Phase Equilibria and Diffusion;1547-7037;1863-7345;11669;http://link.springer.com/journal/11669
@@ -1669,7 +1714,7 @@ Journal of Quantitative Criminology;0748-4518;1573-7799;10940;http://link.spring
 Journal of Radiation Oncology;1948-7894;1948-7908;13566;http://link.springer.com/journal/13566
 Journal of Radioanalytical and Nuclear Chemistry;0236-5731;1588-2780;10967;http://link.springer.com/journal/10967
 Journal of Radiosurgery;1096-4053;1573-8752;10941;http://link.springer.com/journal/10941
-"Journal of Rational-Emotive &amp; Cognitive-Behavior Therapy";0894-9085;1573-6563;10942;http://link.springer.com/journal/10942
+Journal of Rational-Emotive & Cognitive-Behavior Therapy;0894-9085;1573-6563;10942;http://link.springer.com/journal/10942
 Journal of Real Estate Literature;0927-7544;1573-8809;10966;http://link.springer.com/journal/10966
 Journal of Real-Time Image Processing;1861-8200;1861-8219;11554;http://link.springer.com/journal/11554
 Journal of Reducing Space Mission Cost;1385-7479;1572-9621;10968;http://link.springer.com/journal/10968
@@ -1709,6 +1754,7 @@ Journal of the American Oil Chemists' Society;0003-021X;1558-9331;11746;http://l
 Journal of The American Society for Mass Spectrometry;1044-0305;1879-1123;13361;http://link.springer.com/journal/13361
 Journal of the Association for Research in Otolaryngology;1525-3961;1438-7573;10162;http://link.springer.com/journal/10162
 Journal of the Brazilian Computer Society;0104-6500;1678-4804;13173;http://link.springer.com/journal/13173
+Journal of the Brazilian Society of Mechanical Sciences and Engineering;1678-5878;1806-3691;40430;http://link.springer.com/journal/40430
 Journal of the European Mathematical Society;1435-9855;1435-9863;10097;http://link.springer.com/journal/10097
 Journal of the Gay and Lesbian Medical Association;1090-7173;1573-3637;10907;http://link.springer.com/journal/10907
 Journal of the Geological Society of India;0016-7622;0974-6889;12594;http://link.springer.com/journal/12594
@@ -1729,15 +1775,19 @@ Journal of the Korean Society for Applied Biological Chemistry;1738-2203;2234-34
 Journal of the Operations Research Society of China;2194-668X;2194-6698;40305;http://link.springer.com/journal/40305
 Journal of Theoretical and Applied Physics;1735-9325;2251-7235;40094;http://link.springer.com/journal/40094
 Journal of Theoretical Probability;0894-9840;1572-9230;10959;http://link.springer.com/journal/10959
+Journal of Therapeutic Ultrasound;;2050-5736;40349;http://link.springer.com/journal/40349
 Journal of Thermal Analysis and Calorimetry;1388-6150;1572-8943;10973;http://link.springer.com/journal/10973
 Journal of Thermal Science;1003-2169;1993-033X;11630;http://link.springer.com/journal/11630
 Journal of Thermal Spray Technology;1059-9630;1544-1016;11666;http://link.springer.com/journal/11666
 Journal of Thrombosis and Thrombolysis;0929-5305;1573-742X;11239;http://link.springer.com/journal/11239
 Journal of Translational Medicine;;1479-5876;12967;http://link.springer.com/journal/12967
 Journal of Transportation Security;1938-7741;1938-775X;12198;http://link.springer.com/journal/12198
-"Journal of Trauma Management &amp; Outcomes";;1752-2897;13032;http://link.springer.com/journal/13032
+Journal of Trauma Management & Outcomes;;1752-2897;13032;http://link.springer.com/journal/13032
 Journal of Traumatic Stress;0894-9867;1573-6598;10960;http://link.springer.com/journal/10960
+Journal of Ultrasound;;1876-7931;40477;http://link.springer.com/journal/40477
+Journal of Uncertainty Analysis and Applications;;2195-5468;40467;http://link.springer.com/journal/40467
 Journal of Urban Health;1099-3460;1468-2869;11524;http://link.springer.com/journal/11524
+Journal of Venomous Animals and Toxins including Tropical Diseases;;1678-9199;40409;http://link.springer.com/journal/40409
 Journal of Visualization;1343-8875;1875-8975;12650;http://link.springer.com/journal/12650
 Journal of Volcanology and Seismology;0742-0463;1819-7108;11711;http://link.springer.com/journal/11711
 Journal of Water Chemistry and Technology;1063-455X;1934-936X;11962;http://link.springer.com/journal/11962
@@ -1750,25 +1800,25 @@ Journal of Zhejiang University SCIENCE B;1673-1581;1862-1783;11585;http://link.s
 Journal of Zhejiang University SCIENCE C;1869-1951;1869-196X;11714;http://link.springer.com/journal/11714
 Journal on Data Semantics;1861-2032;1861-2040;13740;http://link.springer.com/journal/13740
 Journal on Multimodal User Interfaces;1783-7677;1783-8738;12193;http://link.springer.com/journal/12193
-Juristische BlÃ¤tter;0022-6912;1613-7639;503;http://link.springer.com/journal/503
-K-Theory;0920-3036;1573-0514;10977;http://link.springer.com/journal/10977
+Juristische Blätter;0022-6912;1613-7639;503;http://link.springer.com/journal/503
 Kew Bulletin;0075-5974;1874-933X;12225;http://link.springer.com/journal/12225
-KI - KÃ¼nstliche Intelligenz;0933-1875;1610-1987;13218;http://link.springer.com/journal/13218
+KI - Künstliche Intelligenz;0933-1875;1610-1987;13218;http://link.springer.com/journal/13218
 Kidney;0940-7936;1865-5068;596;http://link.springer.com/journal/596
-"Kind &amp; Adolescent";0167-2436;1876-5998;12453;http://link.springer.com/journal/12453
-"Kind &amp; Adolescent Praktijk";1571-4136;1875-7065;12454;http://link.springer.com/journal/12454
+Kind & Adolescent;0167-2436;1876-5998;12453;http://link.springer.com/journal/12453
+Kind & Adolescent Praktijk;1571-4136;1875-7065;12454;http://link.springer.com/journal/12454
 Kinematics and Physics of Celestial Bodies;0884-5913;1934-8401;11963;http://link.springer.com/journal/11963
 Kinetics and Catalysis;0023-1584;1608-3210;10975;http://link.springer.com/journal/10975
 Kinetoplastid Biology and Disease;;1475-9292;13565;http://link.springer.com/journal/13565
 Knee Surgery, Sports Traumatology, Arthroscopy;0942-2056;1433-7347;167;http://link.springer.com/journal/167
 Knowledge and Information Systems;0219-1377;0219-3116;10115;http://link.springer.com/journal/10115
-"Knowledge, Technology &amp; Policy";0897-1986;1874-6314;12130;http://link.springer.com/journal/12130
+Knowledge, Technology & Policy;0897-1986;1874-6314;12130;http://link.springer.com/journal/12130
 Korea-Australia Rheology Journal;1226-119X;2093-7660;13367;http://link.springer.com/journal/13367
 Korean Journal of Chemical Engineering;0256-1115;1975-7220;11814;http://link.springer.com/journal/11814
+Korean Social Science Journal;1225-0368;2196-4424;40483;http://link.springer.com/journal/40483
 KSCE Journal of Civil Engineering;1226-7988;1976-3808;12205;http://link.springer.com/journal/12205
-KZfSS KÃ¶lner Zeitschrift fÃ¼r Soziologie und Sozialpsychologie;0023-2653;1861-891X;11577;http://link.springer.com/journal/11577
+KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie;0023-2653;1861-891X;11577;http://link.springer.com/journal/11577
 L1-Educational Studies in Language and Literature;1567-6617;1573-1731;10674;http://link.springer.com/journal/10674
-La Lettre de mÃ©decine physique et de rÃ©adaptation;1778-4298;1778-4301;11659;http://link.springer.com/journal/11659
+La Lettre de médecine physique et de réadaptation;1778-4298;1778-4301;11659;http://link.springer.com/journal/11659
 La radiologia medica;0033-8362;1826-6983;11547;http://link.springer.com/journal/11547
 La Rivista del Nuovo Cimento;0393-697X;1826-9850;11546;http://link.springer.com/journal/11546
 La Rivista Italiana della Medicina di Laboratorio - Italian Journal of Laboratory Medicine;1825-859X;2039-6821;13631;http://link.springer.com/journal/13631
@@ -1778,19 +1828,23 @@ Landslides;1612-510X;1612-5118;10346;http://link.springer.com/journal/10346
 Langenbeck's Archives of Surgery;1435-2443;1435-2451;423;http://link.springer.com/journal/423
 Language Policy;1568-4555;1573-1863;10993;http://link.springer.com/journal/10993
 Language Resources and Evaluation;1574-020X;1574-0218;10579;http://link.springer.com/journal/10579
+Language Testing in Asia;;2229-0443;40468;http://link.springer.com/journal/40468
+Large-scale Assessments in Education;;2196-0739;40536;http://link.springer.com/journal/40536
 Laser Physics;1054-660X;1555-6611;11490;http://link.springer.com/journal/11490
 Lasers in Medical Science;0268-8921;1435-604X;10103;http://link.springer.com/journal/10103
 Law and Critique;0957-8536;1572-8617;10978;http://link.springer.com/journal/10978
 Law and Human Behavior;0147-7307;1573-661X;10979;http://link.springer.com/journal/10979
 Law and Philosophy;0167-5249;1573-0522;10982;http://link.springer.com/journal/10982
-"Learning &amp; Behavior";1543-4494;1543-4508;13420;http://link.springer.com/journal/13420
+Learning & Behavior;1543-4494;1543-4508;13420;http://link.springer.com/journal/13420
 Learning Environments Research;1387-1579;1573-1855;10984;http://link.springer.com/journal/10984
 Learning Inquiry;1558-2973;1558-2981;11519;http://link.springer.com/journal/11519
-Les cahiers de l'annÃ©e gÃ©rontologique;1760-5342;1760-5350;12612;http://link.springer.com/journal/12612
+Les cahiers de l'année gérontologique;1760-5342;1760-5350;12612;http://link.springer.com/journal/12612
+Lettera Matematica;2281-6917;2281-5937;40329;http://link.springer.com/journal/40329
 Lettere Al Nuovo Cimento Series 2;0375-930X;1827-613X;11545;http://link.springer.com/journal/11545
 Letters in Mathematical Physics;0377-9017;1573-0530;11005;http://link.springer.com/journal/11005
 Letters in Spatial and Resource Sciences;1864-4031;1864-404X;12076;http://link.springer.com/journal/12076
 Leviathan;0340-0425;1861-8588;11578;http://link.springer.com/journal/11578
+Life Sciences, Society and Policy;;2195-7819;40504;http://link.springer.com/journal/40504
 Lifetime Data Analysis;1380-7870;1572-9249;10985;http://link.springer.com/journal/10985
 Lightweight Design;1865-4819;2192-8738;35725;http://link.springer.com/journal/35725
 Limnology;1439-8621;1439-863X;10201;http://link.springer.com/journal/10201
@@ -1805,7 +1859,7 @@ Lobachevskii Journal of Mathematics;1995-0802;1818-9962;12202;http://link.spring
 Logic and Analysis;1863-3617;1863-3625;11813;http://link.springer.com/journal/11813
 Logica Universalis;1661-8297;1661-8300;11787;http://link.springer.com/journal/11787
 Logistics Research;1865-035X;1865-0368;12159;http://link.springer.com/journal/12159
-"Longevity &amp; Healthspan";;2046-2395;13685;http://link.springer.com/journal/13685
+Longevity & Healthspan;;2046-2395;13685;http://link.springer.com/journal/13685
 Lung;0341-2040;1432-1750;408;http://link.springer.com/journal/408
 Maatwerk;1567-6587;1876-6021;12459;http://link.springer.com/journal/12459
 Machine Learning;0885-6125;1573-0565;10994;http://link.springer.com/journal/10994
@@ -1855,7 +1909,8 @@ Meccanica;0025-6455;1572-9648;11012;http://link.springer.com/journal/11012
 Mechanics of Composite Materials;0191-5665;1573-8922;11029;http://link.springer.com/journal/11029
 Mechanics of Solids;0025-6544;1934-7936;11964;http://link.springer.com/journal/11964
 Mechanics of Time-Dependent Materials;1385-2000;1573-2738;11043;http://link.springer.com/journal/11043
-"Medical &amp; Biological Engineering &amp; Computing";0140-0118;1741-0444;11517;http://link.springer.com/journal/11517
+Médecine et Chirurgie du Pied;0759-2280;1765-2855;10243;http://link.springer.com/journal/10243
+Medical & Biological Engineering & Computing;0140-0118;1741-0444;11517;http://link.springer.com/journal/11517
 Medical and Surgical Dermatology;0944-5196;1934-2853;533;http://link.springer.com/journal/533
 Medical Gas Research;;2045-9912;13618;http://link.springer.com/journal/13618
 Medical Microbiology and Immunology;0300-8584;1432-1831;430;http://link.springer.com/journal/430
@@ -1873,7 +1928,7 @@ Medizinrecht;0723-8886;1433-8629;350;http://link.springer.com/journal/350
 Mednet;1568-7716;1876-5963;12462;http://link.springer.com/journal/12462
 Memetic Computing;1865-9284;1865-9292;12293;http://link.springer.com/journal/12293
 memo - Magazine of European Medical Oncology;1865-5041;1865-5076;12254;http://link.springer.com/journal/12254
-"Memory &amp; Cognition";0090-502X;1532-5946;13421;http://link.springer.com/journal/13421
+Memory & Cognition;0090-502X;1532-5946;13421;http://link.springer.com/journal/13421
 Mental Health Services Research;1522-3434;1573-6636;11020;http://link.springer.com/journal/11020
 Metabolic Brain Disease;0885-7490;1573-7365;11011;http://link.springer.com/journal/11011
 Metabolomics;1573-3882;1573-3890;11306;http://link.springer.com/journal/11306
@@ -1891,17 +1946,19 @@ Methodology and Computing in Applied Probability;1387-5841;1573-7713;11009;http:
 Methods in Cell Science;1381-5741;1573-0603;11022;http://link.springer.com/journal/11022
 Metrika;0026-1335;1435-926X;184;http://link.springer.com/journal/184
 METRON;0026-1424;2281-695X;40300;http://link.springer.com/journal/40300
+Micro and Nano Systems Letters;;2213-9621;40486;http://link.springer.com/journal/40486
 Microbial Cell Factories;;1475-2859;12934;http://link.springer.com/journal/12934
 Microbial Ecology;0095-3628;1432-184X;248;http://link.springer.com/journal/248
 Microbial Informatics and Experimentation;;2042-5783;13309;http://link.springer.com/journal/13309
 Microbiology;0026-2617;1608-3237;11021;http://link.springer.com/journal/11021
+Microbiome;;2049-2618;40168;http://link.springer.com/journal/40168
 Microchimica Acta;0026-3672;1436-5073;604;http://link.springer.com/journal/604
 Microfluidics and Nanofluidics;1613-4982;1613-4990;10404;http://link.springer.com/journal/10404
 Microgravity Science and Technology;0938-0108;1875-0494;12217;http://link.springer.com/journal/12217
 Microsystem Technologies;0946-7076;1432-1858;542;http://link.springer.com/journal/542
 Mikrochemie;0369-0261;;12363;http://link.springer.com/journal/12363
 Milan Journal of Mathematics;1424-9286;1424-9294;32;http://link.springer.com/journal/32
-"Mind &amp; Society";1593-7879;1860-1839;11299;http://link.springer.com/journal/11299
+Mind & Society;1593-7879;1860-1839;11299;http://link.springer.com/journal/11299
 Mindfulness;1868-8527;1868-8535;12671;http://link.springer.com/journal/12671
 Minds and Machines;0924-6495;1572-8641;11023;http://link.springer.com/journal/11023
 Mine Water and the Environment;1025-9112;1616-1068;10230;http://link.springer.com/journal/10230
@@ -1913,7 +1970,7 @@ Mitigation and Adaptation Strategies for Global Change;1381-2386;1573-1596;11027
 Mobile DNA;;1759-8753;13100;http://link.springer.com/journal/13100
 Mobile Networks and Applications;1383-469X;1572-8153;11036;http://link.springer.com/journal/11036
 Modern Rheumatology;1439-7595;1439-7609;10165;http://link.springer.com/journal/10165
-"Molecular &amp; Cellular Toxicology";1738-642X;2092-8467;13273;http://link.springer.com/journal/13273
+Molecular & Cellular Toxicology;1738-642X;2092-8467;13273;http://link.springer.com/journal/13273
 Molecular and Cellular Biochemistry;0300-8177;1573-4919;11010;http://link.springer.com/journal/11010
 Molecular and Chemical Neuropathology;1044-7393;;12373;http://link.springer.com/journal/12373
 Molecular Autism;;2040-2392;13229;http://link.springer.com/journal/13229
@@ -1924,7 +1981,7 @@ Molecular Brain;;1756-6606;13041;http://link.springer.com/journal/13041
 Molecular Breeding;1380-3743;1572-9788;11032;http://link.springer.com/journal/11032
 Molecular Cancer;;1476-4598;12943;http://link.springer.com/journal/12943
 Molecular Cytogenetics;;1755-8166;13039;http://link.springer.com/journal/13039
-"Molecular Diagnosis &amp; Therapy";1177-1062;1179-2000;40291;http://link.springer.com/journal/40291
+Molecular Diagnosis & Therapy;1177-1062;1179-2000;40291;http://link.springer.com/journal/40291
 Molecular Diversity;1381-1991;1573-501X;11030;http://link.springer.com/journal/11030
 Molecular Engineering;0925-5125;1572-8951;11037;http://link.springer.com/journal/11037
 Molecular Genetics and Genomics;1617-4615;1617-4623;438;http://link.springer.com/journal/438
@@ -1934,9 +1991,10 @@ Molecular Neurobiology;0893-7648;1559-1182;12035;http://link.springer.com/journa
 Molecular Neurodegeneration;;1750-1326;13024;http://link.springer.com/journal/13024
 Molecular Pain;;1744-8069;12990;http://link.springer.com/journal/12990
 Molecules and Cells;1016-8478;0219-1032;10059;http://link.springer.com/journal/10059
-Monatshefte fÃ¼r Chemie - Chemical Monthly;0026-9247;1434-4475;706;http://link.springer.com/journal/706
-Monatshefte fÃ¼r Mathematik;0026-9255;1436-5081;605;http://link.springer.com/journal/605
+Monatshefte für Chemie - Chemical Monthly;0026-9247;1434-4475;706;http://link.springer.com/journal/706
+Monatshefte für Mathematik;0026-9255;1436-5081;605;http://link.springer.com/journal/605
 Monatsschrift Kinderheilkunde;0026-9298;1433-0474;112;http://link.springer.com/journal/112
+Mondhygienisten vademecum;1571-053X;1876-5947;12465;http://link.springer.com/journal/12465
 Morphology;1871-5621;1871-5656;11525;http://link.springer.com/journal/11525
 Moscow University Biological Sciences Bulletin;0096-3925;1934-791X;11966;http://link.springer.com/journal/11966
 Moscow University Chemistry Bulletin;0027-1314;1935-0260;11967;http://link.springer.com/journal/11967
@@ -1948,6 +2006,7 @@ Moscow University Physics Bulletin;0027-1349;1934-8460;11972;http://link.springe
 Moscow University Soil Science Bulletin;0147-6874;1934-7928;11973;http://link.springer.com/journal/11973
 MOST: Economic Policy in Transitional Economies;1120-7388;1573-7063;11039;http://link.springer.com/journal/11039
 Motivation and Emotion;0146-7239;1573-6644;11031;http://link.springer.com/journal/11031
+Movement Ecology;;2051-3933;40462;http://link.springer.com/journal/40462
 MTZ - Motortechnische Zeitschrift;0024-8525;2192-8843;35146;http://link.springer.com/journal/35146
 MTZ industrial;2194-8682;2194-8690;40353;http://link.springer.com/journal/40353
 MTZ worldwide;;2192-9114;38313;http://link.springer.com/journal/38313
@@ -1963,7 +2022,6 @@ Mycopathologia;0301-486X;1573-0832;11046;http://link.springer.com/journal/11046
 Mycorrhiza;0940-6360;1432-1890;572;http://link.springer.com/journal/572
 Mycoscience;1340-3540;1618-2545;10267;http://link.springer.com/journal/10267
 Mycotoxin Research;0178-7888;1867-1632;12550;http://link.springer.com/journal/12550
-MÃ©decine et Chirurgie du Pied;0759-2280;1765-2855;10243;http://link.springer.com/journal/10243
 Nano Research;1998-0124;1998-0000;12274;http://link.springer.com/journal/12274
 NanoBiotechnology;1551-1286;1551-1294;12030;http://link.springer.com/journal/12030
 NanoEthics;1871-4757;1871-4765;11569;http://link.springer.com/journal/11569
@@ -1973,7 +2031,7 @@ National Academy Science Letters;0250-541X;2250-1754;40009;http://link.springer.
 Natur und Recht;0172-1631;1439-0515;10357;http://link.springer.com/journal/10357
 Natural Computing;1567-7818;1572-9796;11047;http://link.springer.com/journal/11047
 Natural Hazards;0921-030X;1573-0840;11069;http://link.springer.com/journal/11069
-"Natural Language &amp; Linguistic Theory";0167-806X;1573-0859;11049;http://link.springer.com/journal/11049
+Natural Language & Linguistic Theory;0167-806X;1573-0859;11049;http://link.springer.com/journal/11049
 Natural Language Semantics;0925-854X;1572-865X;11050;http://link.springer.com/journal/11050
 Natural Products and Bioprospecting;;2192-2209;13659;http://link.springer.com/journal/13659
 Natural Resources Research;1520-7439;1573-8981;11053;http://link.springer.com/journal/11053
@@ -1994,7 +2052,7 @@ Networks and Spatial Economics;1566-113X;1572-9427;11067;http://link.springer.co
 Neural Computing and Applications;0941-0643;1433-3058;521;http://link.springer.com/journal/521
 Neural Development;;1749-8104;13064;http://link.springer.com/journal/13064
 Neural Processing Letters;1370-4621;1573-773X;11063;http://link.springer.com/journal/11063
-"Neural Systems &amp; Circuits";;2042-1001;13232;http://link.springer.com/journal/13232
+Neural Systems & Circuits;;2042-1001;13232;http://link.springer.com/journal/13232
 Neurochemical Journal;1819-7124;1819-7132;11710;http://link.springer.com/journal/11710
 Neurochemical Research;0364-3190;1573-6903;11064;http://link.springer.com/journal/11064
 Neurocritical Care;1541-6933;1556-0961;12028;http://link.springer.com/journal/12028
@@ -2016,6 +2074,7 @@ Neurotherapeutics;1933-7213;1878-7479;13311;http://link.springer.com/journal/133
 Neurotoxicity Research;1029-8428;1476-3524;12640;http://link.springer.com/journal/12640
 New Forests;0169-4286;1573-5095;11056;http://link.springer.com/journal/11056
 New Generation Computing;0288-3635;1882-7055;354;http://link.springer.com/journal/354
+New Zealand Journal of Forestry Science;;1179-5395;40490;http://link.springer.com/journal/40490
 Nexus Network Journal;1590-5896;1522-4600;4;http://link.springer.com/journal/4
 Nonlinear Biomedical Physics;;1753-4631;13035;http://link.springer.com/journal/13035
 Nonlinear Differential Equations and Applications NoDEA;1021-9722;1420-9004;30;http://link.springer.com/journal/30
@@ -2023,18 +2082,18 @@ Nonlinear Dynamics;0924-090X;1573-269X;11071;http://link.springer.com/journal/11
 Nonlinear Dynamics, Psychology, and Life Sciences;1090-0578;1573-6652;11054;http://link.springer.com/journal/11054
 Nonlinear Oscillations;;1536-0059;11072;http://link.springer.com/journal/11072
 Notfall +  Rettungsmedizin;1434-6222;1436-0578;10049;http://link.springer.com/journal/10049
-NTM Zeitschrift fÃ¼r Geschichte der Wissenschaften, Technik und Medizin;0036-6978;1420-9144;48;http://link.springer.com/journal/48
+NTM Zeitschrift für Geschichte der Wissenschaften, Technik und Medizin;0036-6978;1420-9144;48;http://link.springer.com/journal/48
 Nuclear Medicine and Molecular Imaging;1869-3474;1869-3482;13139;http://link.springer.com/journal/13139
 Numerical Algorithms;1017-1398;1572-9265;11075;http://link.springer.com/journal/11075
 Numerical Analysis and Applications;1995-4239;1995-4247;12258;http://link.springer.com/journal/12258
 Numerische Mathematik;0029-599X;0945-3245;211;http://link.springer.com/journal/211
 Nutrafoods;1827-8590;2240-5291;13749;http://link.springer.com/journal/13749
 Nutrient Cycling in Agroecosystems;1385-1314;1573-0867;10705;http://link.springer.com/journal/10705
-"Nutrition &amp; Metabolism";;1743-7075;12986;http://link.springer.com/journal/12986
+Nutrition & Metabolism;;1743-7075;12986;http://link.springer.com/journal/12986
 Nutrition Journal;;1475-2891;12937;http://link.springer.com/journal/12937
-Obere ExtremitÃ¤t;1862-6599;1862-6602;11678;http://link.springer.com/journal/11678
+Obere Extremität;1862-6599;1862-6602;11678;http://link.springer.com/journal/11678
+Obésité;1951-5995;1951-6002;11690;http://link.springer.com/journal/11690
 Obesity Surgery;0960-8923;1708-0428;11695;http://link.springer.com/journal/11695
-ObÃ©sitÃ©;1951-5995;1951-6002;11690;http://link.springer.com/journal/11690
 Ocean Dynamics;1616-7341;1616-7228;10236;http://link.springer.com/journal/10236
 Ocean Science Journal;1738-5261;2005-7172;12601;http://link.springer.com/journal/12601
 Oceanological and Hydrobiological Studies;1730-413X;1897-3191;13545;http://link.springer.com/journal/13545
@@ -2050,7 +2109,7 @@ Open Economies Review;0923-7992;1573-708X;11079;http://link.springer.com/journal
 Open Systems and Information Dynamics;1230-1612;1573-1324;11080;http://link.springer.com/journal/11080
 Operational Research;1109-2858;1866-1505;12351;http://link.springer.com/journal/12351
 Operations Management Research;1936-9735;1936-9743;12063;http://link.springer.com/journal/12063
-Operative OrthopÃ¤die und Traumatologie;0934-6694;1439-0981;64;http://link.springer.com/journal/64
+Operative Orthopädie und Traumatologie;0934-6694;1439-0981;64;http://link.springer.com/journal/64
 Ophthalmology and Therapy;2193-8245;2193-6528;40123;http://link.springer.com/journal/40123
 OPSEARCH;0030-3887;0975-0320;12597;http://link.springer.com/journal/12597
 Optical and Quantum Electronics;0306-8919;1572-817X;11082;http://link.springer.com/journal/11082
@@ -2071,29 +2130,32 @@ Order;0167-8094;1572-9273;11083;http://link.springer.com/journal/11083
 Organic Agriculture;1879-4238;1879-4246;13165;http://link.springer.com/journal/13165
 Organic and Medicinal Chemistry Letters;;2191-2858;13588;http://link.springer.com/journal/13588
 Organisationsberatung, Supervision, Coaching;1618-808X;1862-2577;11613;http://link.springer.com/journal/11613
-"Organisms Diversity &amp; Evolution";1439-6092;1618-1077;13127;http://link.springer.com/journal/13127
+Organisms Diversity & Evolution;1439-6092;1618-1077;13127;http://link.springer.com/journal/13127
 Oriental Pharmacy and Experimental Medicine;1598-2386;2211-1069;13596;http://link.springer.com/journal/13596
 Origins of Life and Evolution of Biospheres;0169-6149;1573-0875;11084;http://link.springer.com/journal/11084
 Orphanet Journal of Rare Diseases;;1750-1172;13023;http://link.springer.com/journal/13023
 Orthopedics and Traumatology;0941-2530;;65;http://link.springer.com/journal/65
 Osteopathic Medicine and Primary Care;;1750-4732;13026;http://link.springer.com/journal/13026
 Osteoporosis International;0937-941X;1433-2965;198;http://link.springer.com/journal/198
+Österreichische Wasser- und Abfallwirtschaft;0945-358X;1613-7566;506;http://link.springer.com/journal/506
+Österreichische Zeitschrift für Soziologie;1011-0070;1862-2585;11614;http://link.springer.com/journal/11614
 Oxidation of Metals;0030-770X;1573-4889;11085;http://link.springer.com/journal/11085
 P-Adic Numbers, Ultrametric Analysis, and Applications;2070-0466;2070-0474;12607;http://link.springer.com/journal/12607
 Paddy and Water Environment;1611-2490;1611-2504;10333;http://link.springer.com/journal/10333
+Pädiatrie & Pädologie;0030-9338;1613-7558;608;http://link.springer.com/journal/608
 Pain and Therapy;2193-8237;2193-651X;40122;http://link.springer.com/journal/40122
 Paladyn;2080-9778;2081-4836;13230;http://link.springer.com/journal/13230
 Palaeobiodiversity and Palaeoenvironments;1867-1594;1867-1608;12549;http://link.springer.com/journal/12549
+Paläontologische Zeitschrift;0031-0220;1867-6812;12542;http://link.springer.com/journal/12542
 Paleontological Journal;0031-0301;1555-6174;11492;http://link.springer.com/journal/11492
 Pallium;1389-2630;1875-7049;12479;http://link.springer.com/journal/12479
-PalÃ¤ontologische Zeitschrift;0031-0220;1867-6812;12542;http://link.springer.com/journal/12542
 Papers in Regional Science;1056-8190;1435-5957;10110;http://link.springer.com/journal/10110
-"Parasites &amp; Vectors";;1756-3305;13071;http://link.springer.com/journal/13071
+Parasites & Vectors;;1756-3305;13071;http://link.springer.com/journal/13071
 Parasitology Research;0932-0113;1432-1955;436;http://link.springer.com/journal/436
 Particle and Fibre Toxicology;;1743-8977;12989;http://link.springer.com/journal/12989
 Pastoral Psychology;0031-2789;1573-6679;11089;http://link.springer.com/journal/11089
 Pastoralism;;2041-7136;13570;http://link.springer.com/journal/13570
-"Pathology &amp; Oncology Research";1219-4956;1532-2807;12253;http://link.springer.com/journal/12253
+Pathology & Oncology Research;1219-4956;1532-2807;12253;http://link.springer.com/journal/12253
 Patient Safety in Surgery;;1754-9493;13037;http://link.springer.com/journal/13037
 Pattern Analysis and Applications;1433-7541;1433-755X;10044;http://link.springer.com/journal/10044
 Pattern Recognition and Image Analysis;1054-6618;1555-6212;11493;http://link.springer.com/journal/11493
@@ -2105,7 +2167,7 @@ Pediatric Radiology;0301-0449;1432-1998;247;http://link.springer.com/journal/247
 Pediatric Rheumatology;;1546-0096;12969;http://link.springer.com/journal/12969
 Pediatric Surgery International;0179-0358;1437-9813;383;http://link.springer.com/journal/383
 Peer-to-Peer Networking and Applications;1936-6442;1936-6450;12083;http://link.springer.com/journal/12083
-Pelvi-pÃ©rinÃ©ologie;1778-3712;1778-3720;11608;http://link.springer.com/journal/11608
+Pelvi-périnéologie;1778-3712;1778-3720;11608;http://link.springer.com/journal/11608
 Periodica Mathematica Hungarica;0031-5303;1588-2829;10998;http://link.springer.com/journal/10998
 Perioperative Medicine;;2047-0525;13741;http://link.springer.com/journal/13741
 Personal and Ubiquitous Computing;1617-4909;1617-4917;779;http://link.springer.com/journal/779
@@ -2114,18 +2176,21 @@ Perspectives on Medical Education;2212-2761;2212-277X;40037;http://link.springer
 Petroleum Chemistry;0965-5441;1555-6239;11494;http://link.springer.com/journal/11494
 Petroleum Science;1672-5107;1995-8226;12182;http://link.springer.com/journal/12182
 Petrology;0869-5911;1556-2085;11495;http://link.springer.com/journal/11495
-PflÃ¼gers Archiv - European Journal of Physiology;0031-6768;1432-2013;424;http://link.springer.com/journal/424
-"Pharmaceutical &amp; Diagnostic Innovation";1176-3469;2230-6048;40286;http://link.springer.com/journal/40286
+Pflügers Archiv - European Journal of Physiology;0031-6768;1432-2013;424;http://link.springer.com/journal/424
 Pharmaceutical Chemistry Journal;0091-150X;1573-9031;11094;http://link.springer.com/journal/11094
 Pharmaceutical Development and Regulation;1175-9046;;40451;http://link.springer.com/journal/40451
+Pharmaceutical Innovation;1537-1328;2230-6048;40286;http://link.springer.com/journal/40286
 Pharmaceutical Medicine;1178-2595;1179-1993;40290;http://link.springer.com/journal/40290
 Pharmaceutical Research;0724-8741;1573-904X;11095;http://link.springer.com/journal/11095
 PharmacoEconomics;1170-7690;1179-2027;40273;http://link.springer.com/journal/40273
-"PharmacoEconomics &amp; Outcomes News";1173-5503;1179-2043;40274;http://link.springer.com/journal/40274
+PharmacoEconomics & Outcomes News;1173-5503;1179-2043;40274;http://link.springer.com/journal/40274
+PharmacoEconomics German Research Articles;1612-3727;1868-677X;40275;http://link.springer.com/journal/40275
+PharmacoEconomics Italian Research Articles;1590-9158;2035-6137;40276;http://link.springer.com/journal/40276
+PharmacoEconomics Spanish Research Articles;1695-405X;1989-5453;40277;http://link.springer.com/journal/40277
 Phenomenology and the Cognitive Sciences;1568-7759;1572-8676;11097;http://link.springer.com/journal/11097
 Philosophia;0048-3893;1574-9274;11406;http://link.springer.com/journal/11406
 Philosophical Studies;0031-8116;1573-0883;11098;http://link.springer.com/journal/11098
-"Philosophy &amp; Technology";2210-5433;2210-5441;13347;http://link.springer.com/journal/13347
+Philosophy & Technology;2210-5433;2210-5441;13347;http://link.springer.com/journal/13347
 Philosophy, Ethics, and Humanities in Medicine;;1747-5341;13010;http://link.springer.com/journal/13010
 Photonic Network Communications;1387-974X;1572-8188;11107;http://link.springer.com/journal/11107
 Photonic Sensors;1674-9251;2190-7439;13320;http://link.springer.com/journal/13320
@@ -2143,7 +2208,7 @@ Physics of Wave Phenomena;1541-308X;1934-807X;11975;http://link.springer.com/jou
 Physiology and Molecular Biology of Plants;0971-5894;0974-0430;12298;http://link.springer.com/journal/12298
 Phytochemistry Reviews;1568-7767;1572-980X;11101;http://link.springer.com/journal/11101
 Phytoparasitica;0334-2123;1876-7184;12600;http://link.springer.com/journal/12600
-PhytothÃ©rapie;1624-8597;1765-2847;10298;http://link.springer.com/journal/10298
+Phytothérapie;1624-8597;1765-2847;10298;http://link.springer.com/journal/10298
 Pituitary;1386-341X;1573-7403;11102;http://link.springer.com/journal/11102
 Planetary Science;;2191-2521;13535;http://link.springer.com/journal/13535
 Plant and Soil;0032-079X;1573-5036;11104;http://link.springer.com/journal/11104
@@ -2166,7 +2231,7 @@ Plasmonics;1557-1955;1557-1963;11468;http://link.springer.com/journal/11468
 PMC Biophysics;;1757-5036;13074;http://link.springer.com/journal/13074
 PMC Physics A;;1754-0410;13066;http://link.springer.com/journal/13066
 PMC Physics B;;1754-0429;13067;http://link.springer.com/journal/13067
-"Poiesis &amp; Praxis";1615-6609;1615-6617;10202;http://link.springer.com/journal/10202
+Poiesis & Praxis;1615-6609;1615-6617;10202;http://link.springer.com/journal/10202
 Polar Biology;0722-4060;1432-2056;300;http://link.springer.com/journal/300
 Policy Sciences;0032-2687;1573-0891;11077;http://link.springer.com/journal/11077
 Political Behavior;0190-9320;1573-6687;11109;http://link.springer.com/journal/11109
@@ -2187,6 +2252,7 @@ Potential Analysis;0926-2601;1572-929X;11118;http://link.springer.com/journal/11
 Powder Metallurgy and Metal Ceramics;1068-1302;1573-9066;11106;http://link.springer.com/journal/11106
 Power Technology and Engineering;1570-145X;1570-1468;10749;http://link.springer.com/journal/10749
 Pramana;0304-4289;0973-7111;12043;http://link.springer.com/journal/12043
+Prävention und Gesundheitsförderung;1861-6755;1861-6763;11553;http://link.springer.com/journal/11553
 Precision Agriculture;1385-2256;1573-1618;11119;http://link.springer.com/journal/11119
 Prevention Science;1389-4986;1573-6695;11121;http://link.springer.com/journal/11121
 Primates;0032-8332;1610-7365;10329;http://link.springer.com/journal/10329
@@ -2205,14 +2271,14 @@ Production Engineering;0944-6524;1863-7353;11740;http://link.springer.com/journa
 Programming and Computer Software;0361-7688;1608-3261;11086;http://link.springer.com/journal/11086
 Progress in Artificial Intelligence;2192-6352;2192-6360;13748;http://link.springer.com/journal/13748
 Progress in Biomaterials;2194-0509;2194-0517;40204;http://link.springer.com/journal/40204
-ProMed komplementÃ¤r;1866-5756;1613-7582;731;http://link.springer.com/journal/731
+Progress in Orthodontics;;2196-1042;40510;http://link.springer.com/journal/40510
+ProMed komplementär;1866-5756;1613-7582;731;http://link.springer.com/journal/731
 PROSPECTS;0033-1538;1573-9090;11125;http://link.springer.com/journal/11125
 Protection of Metals and Physical Chemistry of Surfaces;2070-2051;2070-206X;11124;http://link.springer.com/journal/11124
-"Protein &amp; Cell";1674-800X;1674-8018;13238;http://link.springer.com/journal/13238
+Protein & Cell;1674-800X;1674-8018;13238;http://link.springer.com/journal/13238
 Proteome;1439-7277;1439-7285;10216;http://link.springer.com/journal/10216
 Proteome Science;;1477-5956;12953;http://link.springer.com/journal/12953
 Protoplasma;0033-183X;1615-6102;709;http://link.springer.com/journal/709
-PrÃ¤vention und GesundheitsfÃ¶rderung;1861-6755;1861-6763;11553;http://link.springer.com/journal/11553
 PSN;1639-8319;1955-2351;11836;http://link.springer.com/journal/11836
 Psychiatric Quarterly;0033-2720;1573-6709;11126;http://link.springer.com/journal/11126
 Psychiatrie und Psychotherapie;1614-7189;1864-581X;11326;http://link.springer.com/journal/11326
@@ -2220,30 +2286,28 @@ Psycho-Oncologie;1778-3798;1778-381X;11839;http://link.springer.com/journal/1183
 Psychological Injury and Law;1938-971X;1938-9728;12207;http://link.springer.com/journal/12207
 Psychological Research;0340-0727;1430-2772;426;http://link.springer.com/journal/426
 Psychological Studies;0033-2968;0974-9861;12646;http://link.springer.com/journal/12646
-"Psychologie &amp; gezondheid";1873-1791;1876-8741;12483;http://link.springer.com/journal/12483
+Psychologie & gezondheid;1873-1791;1876-8741;12483;http://link.springer.com/journal/12483
 Psychology of Well-Being;;2211-1522;13612;http://link.springer.com/journal/13612
 Psychometrika;0033-3123;1860-0980;11336;http://link.springer.com/journal/11336
-"Psychonomic Bulletin &amp; Review";1069-9384;1531-5320;13423;http://link.springer.com/journal/13423
+Psychonomic Bulletin & Review;1069-9384;1531-5320;13423;http://link.springer.com/journal/13423
 Psychopharmacology;0033-3158;1432-2072;213;http://link.springer.com/journal/213
 Psychopraktijk;1878-4844;2210-7754;13170;http://link.springer.com/journal/13170
-Psychopraxis;1566-6166;1876-584X;12484;http://link.springer.com/journal/12484
 Psychopraxis;1434-1883;1613-7590;739;http://link.springer.com/journal/739
+Psychopraxis;1566-6166;1876-584X;12484;http://link.springer.com/journal/12484
 Psychosomatik und Konsiliarpsychiatrie;1862-8818;1862-8826;11800;http://link.springer.com/journal/11800
 Psychotherapeut;0935-6185;1432-2080;278;http://link.springer.com/journal/278
 Psychotherapie Forum;0943-1950;1613-7604;729;http://link.springer.com/journal/729
 Public Choice;0048-5829;1573-7101;11127;http://link.springer.com/journal/11127
 Public Organization Review;1566-7170;1573-7098;11115;http://link.springer.com/journal/11115
 Public Transport;1866-749X;1613-7159;12469;http://link.springer.com/journal/12469
-Publications mathÃ©matiques de l'IHÃ‰S;0073-8301;1618-1913;10240;http://link.springer.com/journal/10240
+Publications mathématiques de l'IHÉS;0073-8301;1618-1913;10240;http://link.springer.com/journal/10240
 Publishing Research Quarterly;1053-8801;1936-4792;12109;http://link.springer.com/journal/12109
 Publizistik;0033-4006;1862-2569;11616;http://link.springer.com/journal/11616
-pure and applied geophysics;0033-4553;1420-9136;00024;http://link.springer.com/journal/00024
 Pure and Applied Geophysics;0033-4553;1420-9136;24;http://link.springer.com/journal/24
 Purinergic Signalling;1573-9538;1573-9546;11302;http://link.springer.com/journal/11302
-"PÃ¤diatrie &amp; PÃ¤dologie";0030-9338;1613-7558;608;http://link.springer.com/journal/608
 Qualitative Sociology;0162-0436;1573-7837;11133;http://link.springer.com/journal/11133
 Qualitative Theory of Dynamical Systems;1575-5460;1662-3592;12346;http://link.springer.com/journal/12346
-"Quality &amp; Quantity";0033-5177;1573-7845;11135;http://link.springer.com/journal/11135
+Quality & Quantity;0033-5177;1573-7845;11135;http://link.springer.com/journal/11135
 Quality of Life Research;0962-9343;1573-2649;11136;http://link.springer.com/journal/11136
 Quantitative Biology;2095-4689;2095-4697;40484;http://link.springer.com/journal/40484
 Quantitative Marketing and Economics;1570-7156;1573-711X;11129;http://link.springer.com/journal/11129
@@ -2257,13 +2321,15 @@ Radiochemistry;1066-3622;1608-3288;11137;http://link.springer.com/journal/11137
 Radioelectronics and Communications Systems;0735-2727;1934-8061;11976;http://link.springer.com/journal/11976
 Radiological Physics and Technology;1865-0333;1865-0341;12194;http://link.springer.com/journal/12194
 Radiophysics and Quantum Electronics;0033-8443;1573-9120;11141;http://link.springer.com/journal/11141
+Rare Cancers and Therapy;2195-6014;2195-6022;40487;http://link.springer.com/journal/40487
 Rare Metals;1001-0521;1867-7185;12598;http://link.springer.com/journal/12598
 Raumforschung und Raumordnung;0034-0111;1869-4179;13147;http://link.springer.com/journal/13147
 Reaction Kinetics, Mechanisms and Catalysis;1878-5190;1878-5204;11144;http://link.springer.com/journal/11144
 Reactions Weekly;0114-9954;1179-2051;40278;http://link.springer.com/journal/40278
 Reading and Writing;0922-4777;1573-0905;11145;http://link.springer.com/journal/11145
 Real-Time Systems;0922-6443;1573-1383;11241;http://link.springer.com/journal/11241
-Recherche Transports SÃ©curitÃ©;0761-8980;1951-6614;13547;http://link.springer.com/journal/13547
+Réanimation;1624-0693;1951-6959;13546;http://link.springer.com/journal/13546
+Recherche Transports Sécurité;0761-8980;1951-6614;13547;http://link.springer.com/journal/13547
 Rechtsmedizin;0937-9819;1434-5196;194;http://link.springer.com/journal/194
 Refractories and Industrial Ceramics;1083-4877;1573-9139;11148;http://link.springer.com/journal/11148
 Regional Environmental Change;1436-3798;1436-378X;10113;http://link.springer.com/journal/10113
@@ -2305,9 +2371,9 @@ Reviews in Environmental Science and Bio/Technology;1569-1705;1572-9826;11157;ht
 Reviews in Fish Biology and Fisheries;0960-3166;1573-5184;11160;http://link.springer.com/journal/11160
 Reviews of Physiology, Biochemistry and Pharmacology;0303-4240;1617-5786;10254;http://link.springer.com/journal/10254
 Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales. Serie A. Matematicas;1578-7303;1579-1505;13398;http://link.springer.com/journal/13398
-Revista MatemÃ¡tica Complutense;1139-1138;1988-2807;13163;http://link.springer.com/journal/13163
-Revue de mÃ©decine pÃ©rinatale;1965-0833;1965-0841;12611;http://link.springer.com/journal/12611
-Revue de SynthÃ¨se;0035-1776;1955-2343;11873;http://link.springer.com/journal/11873
+Revista Matemática Complutense;1139-1138;1988-2807;13163;http://link.springer.com/journal/13163
+Revue de médecine périnatale;1965-0833;1965-0841;12611;http://link.springer.com/journal/12611
+Revue de Synthèse;0035-1776;1955-2343;11873;http://link.springer.com/journal/11873
 Revue Francophone de Psycho-Oncologie;1760-4133;1765-2863;10332;http://link.springer.com/journal/10332
 Rheologica Acta;0035-4511;1435-1528;397;http://link.springer.com/journal/397
 rheuma plus;1868-260X;2191-2610;12688;http://link.springer.com/journal/12688
@@ -2347,13 +2413,12 @@ Russian Metallurgy (Metally);0036-0295;1555-6255;11505;http://link.springer.com/
 Russian Meteorology and Hydrology;1068-3739;1934-8096;11983;http://link.springer.com/journal/11983
 Russian Microelectronics;1063-7397;1608-3415;11180;http://link.springer.com/journal/11180
 Russian Physics Journal;1064-8887;1573-9228;11182;http://link.springer.com/journal/11182
-RÃ©animation;1624-0693;1951-6959;13546;http://link.springer.com/journal/13546
 Sadhana;0256-2499;0973-7677;12046;http://link.springer.com/journal/12046
 Sankhya A;0976-836X;0976-8378;13171;http://link.springer.com/journal/13171
 Sankhya B;0976-8386;0976-8394;13571;http://link.springer.com/journal/13571
 Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine;;1757-7241;13049;http://link.springer.com/journal/13049
 School Mental Health;1866-2625;1866-2633;12310;http://link.springer.com/journal/12310
-"Science &amp; Education";0926-7220;1573-1901;11191;http://link.springer.com/journal/11191
+Science & Education;0926-7220;1573-1901;11191;http://link.springer.com/journal/11191
 Science and Engineering Ethics;1353-3452;1471-5546;11948;http://link.springer.com/journal/11948
 Science China Chemistry;1674-7291;1869-1870;11426;http://link.springer.com/journal/11426
 Science China Earth Sciences;1674-7313;1869-1897;11430;http://link.springer.com/journal/11430
@@ -2371,6 +2436,7 @@ Securitas Vialis;1888-9697;1989-1679;12615;http://link.springer.com/journal/1261
 Security Informatics;;2190-8532;13388;http://link.springer.com/journal/13388
 Seismic Instruments;0747-9239;1934-7871;11990;http://link.springer.com/journal/11990
 Selecta Mathematica;1022-1824;1420-9020;29;http://link.springer.com/journal/29
+SeMA Journal;1575-9822;2254-3902;40324;http://link.springer.com/journal/40324
 Semiconductors;1063-7826;1090-6479;11453;http://link.springer.com/journal/11453
 Semigroup Forum;0037-1912;1432-2137;233;http://link.springer.com/journal/233
 Seminars in Immunopathology;1863-2297;1863-2300;281;http://link.springer.com/journal/281
@@ -2382,7 +2448,7 @@ Service Oriented Computing and Applications;1863-2386;1863-2394;11761;http://lin
 Set-Valued and Variational Analysis;1877-0533;1877-0541;11228;http://link.springer.com/journal/11228
 Sex Roles;0360-0025;1573-2762;11199;http://link.springer.com/journal/11199
 Sexual Abuse: A Journal of Research and Treatment;1079-0632;1573-286X;11194;http://link.springer.com/journal/11194
-"Sexuality &amp; Culture";1095-5143;1936-4822;12119;http://link.springer.com/journal/12119
+Sexuality & Culture;1095-5143;1936-4822;12119;http://link.springer.com/journal/12119
 Sexuality and Disability;0146-1044;1573-6717;11195;http://link.springer.com/journal/11195
 Sexuality Research and Social Policy;1868-9884;1553-6610;13178;http://link.springer.com/journal/13178
 Shock Waves;0938-1287;1432-2153;193;http://link.springer.com/journal/193
@@ -2408,8 +2474,9 @@ Society;0147-2011;1936-4725;12115;http://link.springer.com/journal/12115
 Sociological Forum;0884-8971;1573-7861;11206;http://link.springer.com/journal/11206
 Sociological Practice;1522-3442;1573-787X;11210;http://link.springer.com/journal/11210
 Soft Computing;1432-7643;1433-7479;500;http://link.springer.com/journal/500
-"Software &amp; Systems Modeling";1619-1366;1619-1374;10270;http://link.springer.com/journal/10270
+Software & Systems Modeling;1619-1366;1619-1374;10270;http://link.springer.com/journal/10270
 Software Quality Journal;0963-9314;1573-1367;11219;http://link.springer.com/journal/11219
+Softwaretechnik-Trends;;0720-8928;40568;http://link.springer.com/journal/40568
 Soil Mechanics and Foundation Engineering;0038-0741;1573-9279;11204;http://link.springer.com/journal/11204
 Solar Physics;0038-0938;1573-093X;11207;http://link.springer.com/journal/11207
 Solar System Research;0038-0946;1608-3423;11208;http://link.springer.com/journal/11208
@@ -2429,25 +2496,26 @@ Spatial Cognition and Computation;1387-5868;1573-9252;11189;http://link.springer
 Speculations in Science and Technology;0155-7785;1573-9309;11216;http://link.springer.com/journal/11216
 Spektrum der Augenheilkunde;0930-4282;1613-7523;717;http://link.springer.com/journal/717
 Sport Sciences for Health;1824-7490;1825-1234;11332;http://link.springer.com/journal/11332
-Sport- und PrÃ¤ventivmedizin;1867-1977;1867-1985;12534;http://link.springer.com/journal/12534
+Sport- und Präventivmedizin;1867-1977;1867-1985;12534;http://link.springer.com/journal/12534
 Sports Engineering;1369-7072;1460-2687;12283;http://link.springer.com/journal/12283
 Sports Medicine;0112-1642;1179-2035;40279;http://link.springer.com/journal/40279
-"Sports Medicine, Arthroscopy, Rehabilitation, Therapy &amp; Technology";;1758-2555;13102;http://link.springer.com/journal/13102
 Sportwissenschaft;0342-2380;1868-1069;12662;http://link.springer.com/journal/12662
 Springer Healthcare News;;2193-0961;40014;http://link.springer.com/journal/40014
+Springer Science Reviews;2213-7793;2213-7793;40362;http://link.springer.com/journal/40362
 SpringerPlus;;2193-1801;40064;http://link.springer.com/journal/40064
 Standby;0922-310X;;12490;http://link.springer.com/journal/12490
 Standort;0174-3635;1432-220X;548;http://link.springer.com/journal/548
 Statistical Inference for Stochastic Processes;1387-0874;1572-9311;11203;http://link.springer.com/journal/11203
-"Statistical Methods &amp; Applications";1618-2510;1613-981X;10260;http://link.springer.com/journal/10260
+Statistical Methods & Applications;1618-2510;1613-981X;10260;http://link.springer.com/journal/10260
 Statistical Papers;0932-5026;1613-9798;362;http://link.springer.com/journal/362
 Statistics and Computing;0960-3174;1573-1375;11222;http://link.springer.com/journal/11222
 Statistics in Biosciences;1867-1764;1867-1772;12561;http://link.springer.com/journal/12561
 Steel in Translation;0967-0912;1935-0988;11986;http://link.springer.com/journal/11986
-"Stem Cell Research &amp; Therapy";;1757-6512;13287;http://link.springer.com/journal/13287
+Stem Cell Research & Therapy;;1757-6512;13287;http://link.springer.com/journal/13287
 Stem Cell Reviews and Reports;1550-8943;1558-6804;12015;http://link.springer.com/journal/12015
 Stimulus;0929-0591;1876-5599;12491;http://link.springer.com/journal/12491
 Stochastic Environmental Research and Risk Assessment;1436-3240;1436-3259;477;http://link.springer.com/journal/477
+Stochastic Partial Differential Equations: Analysis and Computations;2194-0401;2194-041X;40072;http://link.springer.com/journal/40072
 Stomatologie;0946-3151;1613-7698;715;http://link.springer.com/journal/715
 Strahlentherapie und Onkologie;0179-7158;1439-099X;66;http://link.springer.com/journal/66
 Strategies in Trauma and Limb Reconstruction;1828-8936;1828-8928;11751;http://link.springer.com/journal/11751
@@ -2473,18 +2541,20 @@ Surgical and Radiologic Anatomy;0930-1038;1279-8517;276;http://link.springer.com
 Surgical Endoscopy;0930-2794;1432-2218;464;http://link.springer.com/journal/464
 Surveys in Geophysics;0169-3298;1573-0956;10712;http://link.springer.com/journal/10712
 Sustainability Science;1862-4065;1862-4057;11625;http://link.springer.com/journal/11625
+Sustainable Chemical Processes;;2043-7129;40508;http://link.springer.com/journal/40508
 Swarm Intelligence;1935-3812;1935-3820;11721;http://link.springer.com/journal/11721
 Swiss Journal of Geosciences;1661-8726;1661-8734;15;http://link.springer.com/journal/15
 Swiss Journal of Palaeontology;1664-2376;1664-2384;13358;http://link.springer.com/journal/13358
 Symbiosis;0334-5114;1878-7665;13199;http://link.springer.com/journal/13199
 Synthese;0039-7857;1573-0964;11229;http://link.springer.com/journal/11229
+SynthesHis;1570-2693;1876-5548;12494;http://link.springer.com/journal/12494
 Systematic Parasitology;0165-5752;1573-5192;11230;http://link.springer.com/journal/11230
 Systematic Reviews;;2046-4053;13643;http://link.springer.com/journal/13643
 Systemic Practice and Action Research;1094-429X;1573-9295;11213;http://link.springer.com/journal/11213
 Systems and Synthetic Biology;1872-5325;1872-5333;11693;http://link.springer.com/journal/11693
 Tandartspraktijk;0167-1685;1875-6808;12496;http://link.springer.com/journal/12496
 Targeted Oncology;1776-2596;1776-260X;11523;http://link.springer.com/journal/11523
-TBV â€“ Tijdschrift voor Bedrijfs- en Verzekeringsgeneeskunde;0929-600X;1876-5858;12498;http://link.springer.com/journal/12498
+TBV – Tijdschrift voor Bedrijfs- en Verzekeringsgeneeskunde;0929-600X;1876-5858;12498;http://link.springer.com/journal/12498
 Teaching Business Ethics;1382-6891;1573-1944;11234;http://link.springer.com/journal/11234
 Technical Physics;1063-7842;1090-6525;11454;http://link.springer.com/journal/11454
 Technical Physics Letters;1063-7850;1090-6533;11455;http://link.springer.com/journal/11455
@@ -2506,10 +2576,7 @@ The Australian Educational Researcher;0311-6999;2210-5328;13384;http://link.spri
 The Botanical Review;0006-8101;1874-9372;12229;http://link.springer.com/journal/12229
 The Cerebellum;1473-4222;1473-4230;12311;http://link.springer.com/journal/12311
 The Chemical Educator;;1430-4171;897;http://link.springer.com/journal/897
-The Chemistâ€™s Section of the Cotton Oil Press;0095-9774;;12279;http://link.springer.com/journal/12279
 The Chinese-German Journal of Clinical Oncology;1610-1979;1613-9089;10330;http://link.springer.com/journal/10330
-The Dublin Quarterly Journal of Medical Science;0790-2328;1863-4362;12628;http://link.springer.com/journal/12628
-The Dublin Quarterly Journal of Medical Science;0790-2328;1863-4362;12629;http://link.springer.com/journal/12629
 The EPMA Journal;1878-5077;1878-5085;13167;http://link.springer.com/journal/13167
 The European Journal of Health Economics;1618-7598;1618-7601;10198;http://link.springer.com/journal/10198
 The European Physical Journal A;1434-6001;1434-601X;10050;http://link.springer.com/journal/10050
@@ -2526,7 +2593,8 @@ The Indian Journal of Pediatrics;0019-5456;0973-7693;12098;http://link.springer.
 The International Journal of Advanced Manufacturing Technology;0268-3768;1433-3015;170;http://link.springer.com/journal/170
 The International Journal of Cardiovascular Imaging;1569-5794;1573-0743;10554;http://link.springer.com/journal/10554
 The International Journal of Life Cycle Assessment;0948-3349;1614-7502;11367;http://link.springer.com/journal/11367
-"The Journal of Behavioral Health Services &amp; Research";1094-3412;1556-3308;11414;http://link.springer.com/journal/11414
+The International Sports Law Journal;1567-7559;2213-5154;40318;http://link.springer.com/journal/40318
+The Journal of Behavioral Health Services & Research;1094-3412;1556-3308;11414;http://link.springer.com/journal/11414
 The Journal of Comparative Germanic Linguistics;1383-4924;1572-8552;10828;http://link.springer.com/journal/10828
 The Journal of Economic Inequality;1569-1721;1573-8701;10888;http://link.springer.com/journal/10888
 The Journal of Ethics;1382-4554;1572-8609;10892;http://link.springer.com/journal/10892
@@ -2534,7 +2602,7 @@ The Journal of Headache and Pain;1129-2369;1129-2377;10194;http://link.springer.
 The Journal of Indian Prosthodontic Society;0972-4052;1998-4057;13191;http://link.springer.com/journal/13191
 The Journal of Mathematical Neuroscience (JMN);;2190-8567;13408;http://link.springer.com/journal/13408
 The Journal of Membrane Biology;0022-2631;1432-1424;232;http://link.springer.com/journal/232
-"The journal of nutrition, health &amp; aging";1279-7707;1760-4788;12603;http://link.springer.com/journal/12603
+The journal of nutrition, health & aging;1279-7707;1760-4788;12603;http://link.springer.com/journal/12603
 The Journal of Obstetrics and Gynecology of India;0971-9202;0975-6434;13224;http://link.springer.com/journal/13224
 The Journal of Physiological Sciences;1880-6546;1880-6562;12576;http://link.springer.com/journal/12576
 The Journal of Primary Prevention;0278-095X;1573-6547;10935;http://link.springer.com/journal/10935
@@ -2542,7 +2610,7 @@ The Journal of Real Estate Finance and Economics;0895-5638;1573-045X;11146;http:
 The Journal of Supercomputing;0920-8542;1573-0484;11227;http://link.springer.com/journal/11227
 The Journal of Sustainable Product Design;1367-6679;1573-1588;10970;http://link.springer.com/journal/10970
 The Journal of Technology Transfer;0892-9912;1573-7047;10961;http://link.springer.com/journal/10961
-The Journal of the Astronautical Sciences;0021-9142;;40295;http://link.springer.com/journal/40295
+The Journal of the Astronautical Sciences;0021-9142;2195-0571;40295;http://link.springer.com/journal/40295
 The Journal of Value Inquiry;0022-5363;1573-0492;10790;http://link.springer.com/journal/10790
 The Mathematical Intelligencer;0343-6993;1866-7414;283;http://link.springer.com/journal/283
 The Nucleus;0029-568X;0976-7975;13237;http://link.springer.com/journal/13237
@@ -2581,11 +2649,12 @@ Tijdschrift voor Gezondheidsrecht;0165-0874;1875-6794;12502;http://link.springer
 Tijdschrift voor gezondheidswetenschappen;1388-7491;1876-8776;12508;http://link.springer.com/journal/12508
 Tijdschrift voor Kindergeneeskunde;0376-7442;1875-6840;12456;http://link.springer.com/journal/12456
 Tijdschrift voor Medisch Onderwijs;1389-6555;1876-5157;12507;http://link.springer.com/journal/12507
+Tijdschrift voor Neuropsychiatrie en Gedragsneurologie;2214-2398;2214-2401;40533;http://link.springer.com/journal/40533
 Tijdschrift voor Ouderengeneeskunde;1386-1514;1875-6875;12500;http://link.springer.com/journal/12500
 Tijdschrift voor praktijkondersteuning;1872-4078;1876-5416;12503;http://link.springer.com/journal/12503
 Tijdschrift voor Psychotherapie;0165-1188;1876-5637;12485;http://link.springer.com/journal/12485
 Tijdschrift voor Urologie;2211-3037;2211-4718;13629;http://link.springer.com/journal/13629
-Tissue Engineering and Regenerative Medicine;1738-2696;;13770;http://link.springer.com/journal/13770
+Tissue Engineering and Regenerative Medicine;1738-2696;2212-5469;13770;http://link.springer.com/journal/13770
 Tobacco Induced Diseases;;1617-9625;12971;http://link.springer.com/journal/12971
 TOP;1134-5764;1863-8279;11750;http://link.springer.com/journal/11750
 Topics in Catalysis;1022-5528;1572-9028;11244;http://link.springer.com/journal/11244
@@ -2596,7 +2665,6 @@ Trabajos de Estadistica;0213-8190;;12535;http://link.springer.com/journal/12535
 Trabajos de Estadistica Y de Investigacion Operativa;0041-0241;;12536;http://link.springer.com/journal/12536
 Trabajos de Investigacion Operativa;0213-8204;;12537;http://link.springer.com/journal/12537
 Transactions of the Indian Institute of Metals;0972-2815;0975-1645;12666;http://link.springer.com/journal/12666
-Transactions of the Royal Academy of Medicine in Ireland;0790-2352;;12680;http://link.springer.com/journal/12680
 Transactions of Tianjin University;1006-4982;1995-8196;12209;http://link.springer.com/journal/12209
 Transformation Groups;1083-4362;1531-586X;31;http://link.springer.com/journal/31
 Transgenic Research;0962-8819;1573-9368;11248;http://link.springer.com/journal/11248
@@ -2605,6 +2673,7 @@ Transition Studies Review;1614-4007;1614-4015;11300;http://link.springer.com/jou
 Translational Behavioral Medicine;1869-6716;1613-9860;13142;http://link.springer.com/journal/13142
 Translational Neurodegeneration;;2047-9158;40035;http://link.springer.com/journal/40035
 Translational Neuroscience;2081-3856;2081-6936;13380;http://link.springer.com/journal/13380
+Translational Respiratory Medicine;;2213-0802;40247;http://link.springer.com/journal/40247
 Translational Stroke Research;1868-4483;1868-601X;12975;http://link.springer.com/journal/12975
 Transplant International;0934-0874;1432-2277;147;http://link.springer.com/journal/147
 Transplantation Research;;2047-1440;13737;http://link.springer.com/journal/13737
@@ -2613,7 +2682,7 @@ Transportation;0049-4488;1572-9435;11116;http://link.springer.com/journal/11116
 Trauma und Berufskrankheit;1436-6274;1436-6282;10039;http://link.springer.com/journal/10039
 Treatments in Endocrinology;1175-6349;1177-4940;40288;http://link.springer.com/journal/40288
 Treatments in Respiratory Medicine;1176-3450;;40289;http://link.springer.com/journal/40289
-"Tree Genetics &amp; Genomes";1614-2942;1614-2950;11295;http://link.springer.com/journal/11295
+Tree Genetics & Genomes;1614-2942;1614-2950;11295;http://link.springer.com/journal/11295
 Trees;0931-1890;1432-2285;468;http://link.springer.com/journal/468
 Trends in Organized Crime;1084-4791;1936-4830;12117;http://link.springer.com/journal/12117
 Trials;;1745-6215;13063;http://link.springer.com/journal/13063
@@ -2644,6 +2713,7 @@ Virology Journal;;1743-422X;12985;http://link.springer.com/journal/12985
 Virtual Reality;1359-4338;1434-9957;10055;http://link.springer.com/journal/10055
 Virus Genes;0920-8569;1572-994X;11262;http://link.springer.com/journal/11262
 Visual Geosciences;1863-4613;1610-2924;10069;http://link.springer.com/journal/10069
+Visualization in Engineering;;2213-7459;40327;http://link.springer.com/journal/40327
 Vocations and Learning;1874-785X;1874-7868;12186;http://link.springer.com/journal/12186
 VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations;0957-8765;1573-7888;11266;http://link.springer.com/journal/11266
 Waste and Biomass Valorization;1877-2641;1877-265X;12649;http://link.springer.com/journal/12649
@@ -2652,8 +2722,8 @@ Water Quality and Ecosystems Modeling;1388-266X;1573-1669;11279;http://link.spri
 Water Quality, Exposure and Health;1876-1658;1876-1666;12403;http://link.springer.com/journal/12403
 Water Resources;0097-8078;1608-344X;11268;http://link.springer.com/journal/11268
 Water Resources Management;0920-4741;1573-1650;11269;http://link.springer.com/journal/11269
-"Water, Air, &amp; Soil Pollution";0049-6979;1573-2932;11270;http://link.springer.com/journal/11270
-"Water, Air, &amp; Soil Pollution: Focus";1567-7230;1573-2940;11267;http://link.springer.com/journal/11267
+Water, Air, & Soil Pollution;0049-6979;1573-2932;11270;http://link.springer.com/journal/11270
+Water, Air, & Soil Pollution: Focus;1567-7230;1573-2940;11267;http://link.springer.com/journal/11267
 Welding in the World;0043-2288;1878-6669;40194;http://link.springer.com/journal/40194
 Welding International;0950-7116;1573-9449;11271;http://link.springer.com/journal/11271
 Wetlands;0277-5212;1943-6246;13157;http://link.springer.com/journal/13157
@@ -2666,11 +2736,12 @@ Wireless Networks;1022-0038;1572-8196;11276;http://link.springer.com/journal/112
 Wireless Personal Communications;0929-6212;1572-834X;11277;http://link.springer.com/journal/11277
 Wirtschaftsdienst;0043-6275;1613-978X;10273;http://link.springer.com/journal/10273
 WIRTSCHAFTSINFORMATIK;0937-6429;1861-8936;11576;http://link.springer.com/journal/11576
-Wirtschaftsrechtliche BlÃ¤tter;0930-3855;1864-3434;718;http://link.springer.com/journal/718
+Wirtschaftsrechtliche Blätter;0930-3855;1864-3434;718;http://link.springer.com/journal/718
 wissen kompakt;1863-2637;2190-3816;11838;http://link.springer.com/journal/11838
 WMU Journal of Maritime Affairs;1651-436X;1654-1642;13437;http://link.springer.com/journal/13437
-Wohnrechtliche BlÃ¤tter;0933-2766;1613-7647;719;http://link.springer.com/journal/719
+Wohnrechtliche Blätter;0933-2766;1613-7647;719;http://link.springer.com/journal/719
 Wood Science and Technology;0043-7719;1432-5225;226;http://link.springer.com/journal/226
+World Allergy Organization Journal;;1939-4551;40413;http://link.springer.com/journal/40413
 World Journal of Emergency Surgery;;1749-7922;13017;http://link.springer.com/journal/13017
 World Journal of Microbiology and Biotechnology;0959-3993;1573-0972;11274;http://link.springer.com/journal/11274
 World Journal of Pediatrics;1708-8569;1867-0687;12519;http://link.springer.com/journal/12519
@@ -2680,33 +2751,31 @@ World Journal of Urology;0724-4983;1433-8726;345;http://link.springer.com/journa
 World Wide Web;1386-145X;1573-1413;11280;http://link.springer.com/journal/11280
 Wuhan University Journal of Natural Sciences;1007-1202;1993-4998;11859;http://link.springer.com/journal/11859
 ZDM;1863-9690;1863-9704;11858;http://link.springer.com/journal/11858
-Zeitschrift fÃ¼r angewandte Mathematik und Physik;0044-2275;1420-9039;33;http://link.springer.com/journal/33
-Zeitschrift fÃ¼r AuÃŸen- und Sicherheitspolitik;1866-2188;1866-2196;12399;http://link.springer.com/journal/12399
-Zeitschrift fÃ¼r BevÃ¶lkerungswissenschaft;0340-2398;;12523;http://link.springer.com/journal/12523
-Zeitschrift fÃ¼r Bildungsforschung;2190-6890;2190-6904;35834;http://link.springer.com/journal/35834
-Zeitschrift fÃ¼r die gesamte Neurologie und Psychiatrie;0303-4194;;12359;http://link.springer.com/journal/12359
-Zeitschrift fÃ¼r die gesamte Versicherungswissenschaft;0044-2585;1865-9748;12297;http://link.springer.com/journal/12297
-Zeitschrift fÃ¼r Energiewirtschaft;0343-5377;1866-2765;12398;http://link.springer.com/journal/12398
-Zeitschrift fÃ¼r Epileptologie;1617-6782;1610-0646;10309;http://link.springer.com/journal/10309
-Zeitschrift fÃ¼r Erziehungswissenschaft;1434-663X;1862-5215;11618;http://link.springer.com/journal/11618
-Zeitschrift fÃ¼r EuropÃ¤isches Unternehmens- und Verbraucherrecht;2191-3412;2191-3420;13590;http://link.springer.com/journal/13590
-Zeitschrift fÃ¼r experimentelle Pathologie und Therapie;0372-8552;;12383;http://link.springer.com/journal/12383
-Zeitschrift fÃ¼r Gerontologie und Geriatrie;0948-6704;1435-1269;391;http://link.springer.com/journal/391
-Zeitschrift fÃ¼r Herz-,Thorax- und GefÃ¤ÃŸchirurgie;0930-9225;1435-1277;398;http://link.springer.com/journal/398
-Zeitschrift fÃ¼r Hochschulrecht, Hochschulmanagement und Hochschulpolitik: zfhr;1617-7126;1613-7655;741;http://link.springer.com/journal/741
-Zeitschrift fÃ¼r Kristallographie, Mineralogie und Petrographie;0373-4218;1438-1168;12379;http://link.springer.com/journal/12379
-Zeitschrift fÃ¼r Management;1861-4264;1865-9012;12354;http://link.springer.com/journal/12354
-Zeitschrift fÃ¼r Parlamentsfragen;0340-1758;1862-2534;11619;http://link.springer.com/journal/11619
-Zeitschrift fÃ¼r Physik A Hadrons and Nuclei;0939-7922;;218;http://link.springer.com/journal/218
-Zeitschrift fÃ¼r Physik B Condensed Matter;0722-3277;1431-584X;257;http://link.springer.com/journal/257
-Zeitschrift fÃ¼r Physik C: Particles and Fields;0170-9739;1431-5858;288;http://link.springer.com/journal/288
-Zeitschrift fÃ¼r Physik D Atoms, Molecules and Clusters;0178-7683;1431-5866;460;http://link.springer.com/journal/460
-Zeitschrift fÃ¼r Politikberatung;1865-4789;1865-4797;12392;http://link.springer.com/journal/12392
-Zeitschrift fÃ¼r Psychodrama und Soziometrie;1619-5507;1862-2526;11620;http://link.springer.com/journal/11620
-Zeitschrift fÃ¼r Rheumatologie;0340-1855;1435-1250;393;http://link.springer.com/journal/393
-Zeitschrift fÃ¼r Vergleichende Politikwissenschaft;1865-2646;1865-2654;12286;http://link.springer.com/journal/12286
-Zeitschrift fÃ¼r Ã¶ffentliches Recht;0948-4396;1613-7663;708;http://link.springer.com/journal/708
+Zeitschrift für angewandte Mathematik und Physik;0044-2275;1420-9039;33;http://link.springer.com/journal/33
+Zeitschrift für Außen- und Sicherheitspolitik;1866-2188;1866-2196;12399;http://link.springer.com/journal/12399
+Zeitschrift für Bevölkerungswissenschaft;0340-2398;;12523;http://link.springer.com/journal/12523
+Zeitschrift für Bildungsforschung;2190-6890;2190-6904;35834;http://link.springer.com/journal/35834
+Zeitschrift für die gesamte Neurologie und Psychiatrie;0303-4194;;12359;http://link.springer.com/journal/12359
+Zeitschrift für die gesamte Versicherungswissenschaft;0044-2585;1865-9748;12297;http://link.springer.com/journal/12297
+Zeitschrift für Energiewirtschaft;0343-5377;1866-2765;12398;http://link.springer.com/journal/12398
+Zeitschrift für Epileptologie;1617-6782;1610-0646;10309;http://link.springer.com/journal/10309
+Zeitschrift für Erziehungswissenschaft;1434-663X;1862-5215;11618;http://link.springer.com/journal/11618
+Zeitschrift für Europäisches Unternehmens- und Verbraucherrecht;2191-3412;2191-3420;13590;http://link.springer.com/journal/13590
+Zeitschrift für Gerontologie und Geriatrie;0948-6704;1435-1269;391;http://link.springer.com/journal/391
+Zeitschrift für Herz-,Thorax- und Gefäßchirurgie;0930-9225;1435-1277;398;http://link.springer.com/journal/398
+Zeitschrift für Hochschulrecht, Hochschulmanagement und Hochschulpolitik: zfhr;1617-7126;1613-7655;741;http://link.springer.com/journal/741
+Zeitschrift für Kristallographie, Mineralogie und Petrographie;0373-4218;1438-1168;12379;http://link.springer.com/journal/12379
+Zeitschrift für Management;1861-4264;1865-9012;12354;http://link.springer.com/journal/12354
+Zeitschrift für öffentliches Recht;0948-4396;1613-7663;708;http://link.springer.com/journal/708
+Zeitschrift für Parlamentsfragen;0340-1758;1862-2534;11619;http://link.springer.com/journal/11619
+Zeitschrift für Physik A Hadrons and Nuclei;0939-7922;;218;http://link.springer.com/journal/218
+Zeitschrift für Physik B Condensed Matter;0722-3277;1431-584X;257;http://link.springer.com/journal/257
+Zeitschrift für Physik C: Particles and Fields;0170-9739;1431-5858;288;http://link.springer.com/journal/288
+Zeitschrift für Physik D Atoms, Molecules and Clusters;0178-7683;1431-5866;460;http://link.springer.com/journal/460
+Zeitschrift für Politikberatung;1865-4789;1865-4797;12392;http://link.springer.com/journal/12392
+Zeitschrift für Psychodrama und Soziometrie;1619-5507;1862-2526;11620;http://link.springer.com/journal/11620
+Zeitschrift für Rheumatologie;0340-1855;1435-1250;393;http://link.springer.com/journal/393
+Zeitschrift für Vergleichende Politikwissenschaft;1865-2646;1865-2654;12286;http://link.springer.com/journal/12286
+Zoological Studies;;1810-522X;40555;http://link.springer.com/journal/40555
 Zoomorphology;0720-213X;1432-234X;435;http://link.springer.com/journal/435
 Zorg en Financiering;1569-948X;1876-5122;12513;http://link.springer.com/journal/12513
-Ã–sterreichische Wasser- und Abfallwirtschaft;0945-358X;1613-7566;506;http://link.springer.com/journal/506
-Ã–sterreichische Zeitschrift fÃ¼r Soziologie;1011-0070;1862-2585;11614;http://link.springer.com/journal/11614
