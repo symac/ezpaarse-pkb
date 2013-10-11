@@ -1,4 +1,4 @@
-title;issn;eissn;pid;pidurl
+title;pissn;eissn;pid;url
 3 Biotech;2190-572X;2190-5738;13205;http://link.springer.com/journal/13205
 3D Research;;2092-6731;13319;http://link.springer.com/journal/13319
 4OR;1619-4500;1614-2411;10288;http://link.springer.com/journal/10288
@@ -37,8 +37,8 @@ Acta Oceanologica Sinica;0253-505X;1869-1099;13131;http://link.springer.com/jour
 Acta Parasitologica;1230-2821;1896-1851;11686;http://link.springer.com/journal/11686
 Acta Physica Academiae Scientiarum Hungaricae;0001-6705;;12658;http://link.springer.com/journal/12658
 Acta Physica Hungarica;0231-4428;;12242;http://link.springer.com/journal/12242
-Acta Physica Hungarica A) Heavy Ion Physics;1589-9535;1786-3767;12657;http://link.springer.com/journal/12657
 Acta Physica Hungarica Series A, Heavy Ion Physics;1219-7580;1588-2675;12656;http://link.springer.com/journal/12656
+Acta Physica Hungarica Series B, Quantum Electronics;1589-9535;1786-3767;12657;http://link.springer.com/journal/12657
 Acta Physiologiae Plantarum;0137-5881;1861-1664;11738;http://link.springer.com/journal/11738
 Acta Theriologica;0001-7051;2190-3743;13364;http://link.springer.com/journal/13364
 Acta Veterinaria Scandinavica;;1751-0147;13028;http://link.springer.com/journal/13028
@@ -113,6 +113,7 @@ Anatomical Science International;1447-6959;1447-073X;12565;http://link.springer.
 Angiogenesis;0969-6970;1573-7209;10456;http://link.springer.com/journal/10456
 Animal Biotelemetry;;2050-3385;40317;http://link.springer.com/journal/40317
 Animal Cognition;1435-9448;1435-9456;10071;http://link.springer.com/journal/10071
+Annalen der Philosophie;0165-0106;1866-6167;12377;http://link.springer.com/journal/12377
 Annalen der Philosophie und philosophischen Kritik;0165-0106;1866-6175;12375;http://link.springer.com/journal/12375
 Annales françaises de médecine d'urgence;2108-6524;2108-6591;13341;http://link.springer.com/journal/13341
 Annales Geophysicae;0992-7689;1432-0576;585;http://link.springer.com/journal/585
@@ -189,6 +190,7 @@ Archaeological and Anthropological Sciences;1866-9557;1866-9565;12520;http://lin
 Archaeologies;1555-8622;1935-3987;11759;http://link.springer.com/journal/11759
 Archaeology, Ethnology and Anthropology of Eurasia;1563-0110;1531-832X;11473;http://link.springer.com/journal/11473
 Archiv der Mathematik;0003-889X;1420-8938;13;http://link.springer.com/journal/13
+Archiv für mikroskopische Anatomie;0176-7364;;12361;http://link.springer.com/journal/12361
 Archival Science;1389-0166;1573-7519;10502;http://link.springer.com/journal/10502
 Archive for History of Exact Sciences;0003-9519;1432-0657;407;http://link.springer.com/journal/407
 Archive for Mathematical Logic;0933-5846;1432-0665;153;http://link.springer.com/journal/153
@@ -203,7 +205,7 @@ Archives of Microbiology;0302-8933;1432-072X;203;http://link.springer.com/journa
 Archives of Orthopaedic and Trauma Surgery;0936-8051;1434-3916;402;http://link.springer.com/journal/402
 Archives of Osteoporosis;1862-3522;1862-3514;11657;http://link.springer.com/journal/11657
 Archives of Pharmacal Research;0253-6269;1976-3786;12272;http://link.springer.com/journal/12272
-Archives of Public Health;;0778-7367;13690;http://link.springer.com/journal/13690
+Archives of Public Health;;2049-3258;13690;http://link.springer.com/journal/13690
 Archives of Sexual Behavior;0004-0002;1573-2800;10508;http://link.springer.com/journal/10508
 Archives of Suicide Research;1381-1118;1573-8159;10510;http://link.springer.com/journal/10510
 Archives of Toxicology;0340-5761;1432-0738;204;http://link.springer.com/journal/204
@@ -502,7 +504,7 @@ Central European Journal of Physics;1895-1082;1644-3608;11534;http://link.spring
 CHANCE;0933-2480;1867-2280;144;http://link.springer.com/journal/144
 Chemical and Petroleum Engineering;0009-2355;1573-8329;10556;http://link.springer.com/journal/10556
 Chemical Papers;0366-6352;1336-9075;11696;http://link.springer.com/journal/11696
-Chemical Research in Chinese Universities;1005-9040;2210-3171;40242;http://link.springer.com/journal/40242
+Chemical Research in Chinese Universities;1005-9040;;40242;http://link.springer.com/journal/40242
 Chemistry and Technology of Fuels and Oils;0009-3092;1573-8310;10553;http://link.springer.com/journal/10553
 Chemistry Central Journal;;1752-153X;13065;http://link.springer.com/journal/13065
 Chemistry of Heterocyclic Compounds;0009-3122;1573-8353;10593;http://link.springer.com/journal/10593
@@ -1148,11 +1150,12 @@ Iconographia mycologica;0073-4411;;13093;http://link.springer.com/journal/13093
 Identity in the Information Society;;1876-0678;12394;http://link.springer.com/journal/12394
 IIC - International Review of Intellectual Property and Competition Law;0018-9855;2195-0237;40319;http://link.springer.com/journal/40319
 IIE Transactions;0740-817X;1573-9724;10756;http://link.springer.com/journal/10756
+Il Cimento;;1827-5672;11584;http://link.springer.com/journal/11584
+Il Nuovo Cimento;0029-6341;1827-6121;11583;http://link.springer.com/journal/11583
 Il Nuovo Cimento A Series 11;0369-3546;1826-9869;11539;http://link.springer.com/journal/11539
 Il Nuovo Cimento B;0369-3554;1826-9877;11542;http://link.springer.com/journal/11542
 Il Nuovo Cimento C;0390-5551;;11543;http://link.springer.com/journal/11543
 Il Nuovo Cimento D;0392-6737;1826-9893;11544;http://link.springer.com/journal/11544
-Il Nuovo Cimento Series 10;0029-6341;1827-6121;11583;http://link.springer.com/journal/11583
 Immunity & Ageing;;1742-4933;12979;http://link.springer.com/journal/12979
 Immunogenetics;0093-7711;1432-1211;251;http://link.springer.com/journal/251
 Immunologic Research;0257-277X;1559-0755;12026;http://link.springer.com/journal/12026
@@ -1329,6 +1332,7 @@ Investigative Genetics;;2041-2223;13323;http://link.springer.com/journal/13323
 Ionics;0947-7047;1862-0760;11581;http://link.springer.com/journal/11581
 Iranian Polymer Journal;1026-1265;1735-5265;13726;http://link.springer.com/journal/13726
 Irish Journal of Medical Science;0021-1265;1863-4362;11845;http://link.springer.com/journal/11845
+Irish Journal of Medical Science;0790-231X;1863-4362;12627;http://link.springer.com/journal/12627
 Irish Veterinary Journal;;2046-0481;13620;http://link.springer.com/journal/13620
 Irrigation and Drainage Systems;0168-6291;1573-0654;10795;http://link.springer.com/journal/10795
 Irrigation Science;0342-7188;1432-1319;271;http://link.springer.com/journal/271
@@ -2134,7 +2138,7 @@ Organisms Diversity & Evolution;1439-6092;1618-1077;13127;http://link.springer.c
 Oriental Pharmacy and Experimental Medicine;1598-2386;2211-1069;13596;http://link.springer.com/journal/13596
 Origins of Life and Evolution of Biospheres;0169-6149;1573-0875;11084;http://link.springer.com/journal/11084
 Orphanet Journal of Rare Diseases;;1750-1172;13023;http://link.springer.com/journal/13023
-Orthopedics and Traumatology;0941-2530;;65;http://link.springer.com/journal/65
+Orthopedics and Traumatology;0941-2530;1617-3838;65;http://link.springer.com/journal/65
 Osteopathic Medicine and Primary Care;;1750-4732;13026;http://link.springer.com/journal/13026
 Osteoporosis International;0937-941X;1433-2965;198;http://link.springer.com/journal/198
 Österreichische Wasser- und Abfallwirtschaft;0945-358X;1613-7566;506;http://link.springer.com/journal/506
@@ -2177,9 +2181,9 @@ Petroleum Chemistry;0965-5441;1555-6239;11494;http://link.springer.com/journal/1
 Petroleum Science;1672-5107;1995-8226;12182;http://link.springer.com/journal/12182
 Petrology;0869-5911;1556-2085;11495;http://link.springer.com/journal/11495
 Pflügers Archiv - European Journal of Physiology;0031-6768;1432-2013;424;http://link.springer.com/journal/424
+Pharmaceutical & Diagnostic Innovation;1176-3469;2230-6048;40286;http://link.springer.com/journal/40286
 Pharmaceutical Chemistry Journal;0091-150X;1573-9031;11094;http://link.springer.com/journal/11094
 Pharmaceutical Development and Regulation;1175-9046;;40451;http://link.springer.com/journal/40451
-Pharmaceutical Innovation;1537-1328;2230-6048;40286;http://link.springer.com/journal/40286
 Pharmaceutical Medicine;1178-2595;1179-1993;40290;http://link.springer.com/journal/40290
 Pharmaceutical Research;0724-8741;1573-904X;11095;http://link.springer.com/journal/11095
 PharmacoEconomics;1170-7690;1179-2027;40273;http://link.springer.com/journal/40273
@@ -2576,7 +2580,10 @@ The Australian Educational Researcher;0311-6999;2210-5328;13384;http://link.spri
 The Botanical Review;0006-8101;1874-9372;12229;http://link.springer.com/journal/12229
 The Cerebellum;1473-4222;1473-4230;12311;http://link.springer.com/journal/12311
 The Chemical Educator;;1430-4171;897;http://link.springer.com/journal/897
+The Chemist’s Section of the Cotton Oil Press;0095-9774;;12279;http://link.springer.com/journal/12279
 The Chinese-German Journal of Clinical Oncology;1610-1979;1613-9089;10330;http://link.springer.com/journal/10330
+The Dublin Quarterly Journal of Medical Science;0790-2328;1863-4362;12628;http://link.springer.com/journal/12628
+The Dublin Quarterly Journal of Medical Science;0790-2328;1863-4362;12629;http://link.springer.com/journal/12629
 The EPMA Journal;1878-5077;1878-5085;13167;http://link.springer.com/journal/13167
 The European Journal of Health Economics;1618-7598;1618-7601;10198;http://link.springer.com/journal/10198
 The European Physical Journal A;1434-6001;1434-601X;10050;http://link.springer.com/journal/10050
@@ -2665,6 +2672,7 @@ Trabajos de Estadistica;0213-8190;;12535;http://link.springer.com/journal/12535
 Trabajos de Estadistica Y de Investigacion Operativa;0041-0241;;12536;http://link.springer.com/journal/12536
 Trabajos de Investigacion Operativa;0213-8204;;12537;http://link.springer.com/journal/12537
 Transactions of the Indian Institute of Metals;0972-2815;0975-1645;12666;http://link.springer.com/journal/12666
+Transactions of the Royal Academy of Medicine in Ireland;0790-2352;;12680;http://link.springer.com/journal/12680
 Transactions of Tianjin University;1006-4982;1995-8196;12209;http://link.springer.com/journal/12209
 Transformation Groups;1083-4362;1531-586X;31;http://link.springer.com/journal/31
 Transgenic Research;0962-8819;1573-9368;11248;http://link.springer.com/journal/11248
@@ -2761,6 +2769,7 @@ Zeitschrift für Energiewirtschaft;0343-5377;1866-2765;12398;http://link.springe
 Zeitschrift für Epileptologie;1617-6782;1610-0646;10309;http://link.springer.com/journal/10309
 Zeitschrift für Erziehungswissenschaft;1434-663X;1862-5215;11618;http://link.springer.com/journal/11618
 Zeitschrift für Europäisches Unternehmens- und Verbraucherrecht;2191-3412;2191-3420;13590;http://link.springer.com/journal/13590
+Zeitschrift für experimentelle Pathologie und Therapie;0372-8552;;12383;http://link.springer.com/journal/12383
 Zeitschrift für Gerontologie und Geriatrie;0948-6704;1435-1269;391;http://link.springer.com/journal/391
 Zeitschrift für Herz-,Thorax- und Gefäßchirurgie;0930-9225;1435-1277;398;http://link.springer.com/journal/398
 Zeitschrift für Hochschulrecht, Hochschulmanagement und Hochschulpolitik: zfhr;1617-7126;1613-7655;741;http://link.springer.com/journal/741
